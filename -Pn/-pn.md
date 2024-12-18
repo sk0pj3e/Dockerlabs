@@ -1,5 +1,6 @@
 
-![[nmap pn.png]]
+![image](https://github.com/user-attachments/assets/d0eee424-55c4-47af-8a46-cb9500efbb77)
+
 nmap: 8080
 
 ---
