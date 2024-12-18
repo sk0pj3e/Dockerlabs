@@ -24,7 +24,8 @@ en la pagina hay cuadros con "pistas". hay una en código base64
 que lo sacamos:
 >echo "`UXVlIGhhY2VzPywgbWlyYSBlbiBsYSBVUkwu`" | base64 -d 
 
-![[base64.png]]
+![image](https://github.com/user-attachments/assets/6ec0aa26-5305-4c98-8661-c514c470e5e8)
+
 
 y nos da: Que haces?, mira en la URL. 
 
