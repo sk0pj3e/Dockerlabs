@@ -6,7 +6,9 @@ nmap: 22,80
 
 ---
 entramos a la pagina principal y no hay mucho
-![[pagina principal.png]]
+
+![image](https://github.com/user-attachments/assets/e7c0645d-1ef4-4150-94ae-581a881de90a)
+
  nos vamos al código fuente y dice al final:
 ![[codigo fuente .png]]
 entramos:
