@@ -96,7 +96,9 @@ entonces la lanzamos con el terminal en escucha y entramos.
 
 dentro no encontré nada y probé con la misma contraseña de admin del panel por curiosidad con el usuario  admin
 ingresamos la contraseña "chocolate" al su root
-![[final.png]]
+
+![image](https://github.com/user-attachments/assets/01a572c6-ed60-483e-82a1-7e2637c3dc78)
+
 y somos root! 
 
 
