@@ -6,7 +6,9 @@ nmap: 8080
 ---
 en la pagina: 172.17.0.2:8080 hay una  versión del de tomcat: # Apache Tomcat/9.0.88
 como exploit a esa versión no encontré mucho, en la pagina hay un "manager apps"
-![[manager app.png]]
+
+![image](https://github.com/user-attachments/assets/8489fc06-5080-43b6-803b-d0aaef574de0)
+
 
 en: https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/tomcat
 buscamos las credenciales por default para poder entrar al "manager app"
