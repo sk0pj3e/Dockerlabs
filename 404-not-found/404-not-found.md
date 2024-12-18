@@ -42,7 +42,9 @@ nos da: info
 metemos ese info en /etc/host como el primer URL que tenemos.
 http://info.404-not-found.hl/
 quedaría: info.404-not-found.hl
-![[login.png]]
+
+![image](https://github.com/user-attachments/assets/326bd27a-8218-48a8-8afe-9fff9203851d)
+
 
 nos manda a un login y vamos probando credenciales por default. 
 vemos el código fuente y al final hay un mensaje:
