@@ -72,7 +72,9 @@ en el panel de admin nos da las credenciales:
 
 
 entramos por el ssh en el terminal y ahora buscamos como escalar hacia root.
-![[conexion .png]]
+
+![image](https://github.com/user-attachments/assets/c83ef588-3f2f-4658-8b07-95b98ff1dc96)
+
 
 como se ve hay un calculadora.py se refiere a python y solo podemos ejecutar.
 
