@@ -84,7 +84,8 @@ como se ve hay un calculadora.py se refiere a python y solo podemos ejecutar.
 encontramos un comando para ejecutar con python del programa que encontramos:
 https://snyk.io/blog/command-injection-python-prevention-examples/
 
-![[codigo python 1.png]]
+![image](https://github.com/user-attachments/assets/6d7098a9-2ec1-4a2d-8d01-b0f91aa1a879)
+
 
 comando de ejecución:
 
