@@ -10,7 +10,9 @@ entramos a la pagina principal y no hay mucho
 ![image](https://github.com/user-attachments/assets/e7c0645d-1ef4-4150-94ae-581a881de90a)
 
  nos vamos al código fuente y dice al final:
-![[codigo fuente .png]]
+ 
+![image](https://github.com/user-attachments/assets/4e554fc6-666b-408a-8609-1b41c78ea9a7)
+
 entramos:
 > http://172.17.0.2/cmsms/
 ![[pagina principal 2.png]]
