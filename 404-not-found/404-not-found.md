@@ -91,7 +91,8 @@ comando de ejecución:
 
      __import__('os').popen('ls').read()
 
-![[prueba 1 1.png]]
+![image](https://github.com/user-attachments/assets/aab997c9-6d97-4236-b52d-48cde834676b)
+
 
 lo modificamos para una reverse shell para verificar: 
 
