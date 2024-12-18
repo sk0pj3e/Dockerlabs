@@ -48,9 +48,10 @@ quedaría: info.404-not-found.hl
 
 nos manda a un login y vamos probando credenciales por default. 
 vemos el código fuente y al final hay un mensaje:
-> I believe this login works with LDAP  
+> I believe this login works with LDAP
+> 
+![image](https://github.com/user-attachments/assets/d2ed5af5-49d9-4b99-b3b5-c9694372c261)
 
-![[codigo fuente.png]]
 
 buscamos credenciales de inyección de LDAP
 probamos las inyección que tiene: https://book.hacktricks.xyz/v/es/pentesting-web/ldap-injection
