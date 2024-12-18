@@ -74,7 +74,9 @@ guardamos y colocamos "run" nos mostrara este mensaje:
 
 
 probamos si la vulnerabilidad que encontramos esta funcionando:
-![[prueba 3.png]]
+
+![image](https://github.com/user-attachments/assets/2a61ceba-4310-4ae6-9f0d-09858b14c83a)
+
 nos dará: 
 
 >uid=33(www-data) gid=33(www-data) groups=33(www-data) uid=33(www-data) gid=33(www-data) groups=33(www-data)
