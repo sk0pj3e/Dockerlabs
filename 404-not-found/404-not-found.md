@@ -105,7 +105,8 @@ colocamos el puerto en escucha y estamos dentro del usuario 200-ok
  buscamos como escalar y aparece un txt que se llama: 
 >boss.txt que contiene: what is rooteable
 
-![[boss.png]]
+![image](https://github.com/user-attachments/assets/6c1e67b2-2197-4aa4-8ffa-599292173d1e)
+
 
 probamos rooteable como contraseña de root:
 
