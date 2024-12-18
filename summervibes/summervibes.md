@@ -69,7 +69,9 @@ en code colocamos:
 veremos que queda guardado y entramos al "prueba" que creamos:
 
 guardamos y colocamos "run" nos mostrara este mensaje:
-![[prueba 2.png]]
+
+![image](https://github.com/user-attachments/assets/cb6c9261-d0ae-4ffb-b8ba-2aeeda6aa241)
+
 
 probamos si la vulnerabilidad que encontramos esta funcionando:
 ![[prueba 3.png]]
