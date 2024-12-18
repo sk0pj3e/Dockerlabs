@@ -32,7 +32,8 @@ que nos lleva al login
 si capturo con burpsuite el login que ya tiene por defecto un usuario y contraseña que dicen que es incorrecto, da esto:
 > username=admin&password=christelle&loginsubmit=Submit
 
-![[captura burp.png]]
+![image](https://github.com/user-attachments/assets/7d840e91-62f4-4ccd-ae4e-0d7931073828)
+
 Que realmente no nos dice mucho. 
 
 hacemos un ataque de fuerza bruta:
