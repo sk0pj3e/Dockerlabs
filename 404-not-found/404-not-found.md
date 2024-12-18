@@ -110,6 +110,7 @@ colocamos el puerto en escucha y estamos dentro del usuario 200-ok
 
 probamos rooteable como contraseña de root:
 
-![[root.png]]
+![image](https://github.com/user-attachments/assets/22834dc8-54b2-40bd-8709-4156b9c520fe)
+
 
 su root / rooteable y somos root!: 
