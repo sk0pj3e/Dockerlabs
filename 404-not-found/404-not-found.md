@@ -78,7 +78,8 @@ entramos por el ssh en el terminal y ahora buscamos como escalar hacia root.
 
 como se ve hay un calculadora.py se refiere a python y solo podemos ejecutar.
 
-![[ejecutable 1.png]]
+![image](https://github.com/user-attachments/assets/f6823809-e7f4-49d4-94ab-c37a7f896524)
+
 
 encontramos un comando para ejecutar con python del programa que encontramos:
 https://snyk.io/blog/command-injection-python-prevention-examples/
