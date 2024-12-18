@@ -25,7 +25,8 @@ buscando y haciendo Fuerza bruta de directorios, no encontraba mucho, pero me en
 Esta en PHP así que probablemente tiene un "login.php" y al final di con esto
 > http://172.17.0.2/cmsms/admin/login.php
 
-![[login.php 1.png]]
+![image](https://github.com/user-attachments/assets/6b2308bf-3725-4455-b601-cbfa0091862f)
+
 que nos lleva al login
 
 si capturo con burpsuite el login que ya tiene por defecto un usuario y contraseña que dicen que es incorrecto, da esto:
