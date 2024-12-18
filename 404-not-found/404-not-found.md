@@ -18,7 +18,8 @@ en la pagina principal ahora vemos eso y aceptamos el desafio:
 
 en la pagina hay cuadros con "pistas". hay una en código base64 
 
-![[pagina 3.png]]
+![image](https://github.com/user-attachments/assets/21c6bc7f-4b39-4991-b972-2e4f1fbf9b75)
+
 
 que lo sacamos:
 >echo "`UXVlIGhhY2VzPywgbWlyYSBlbiBsYSBVUkwu`" | base64 -d 
