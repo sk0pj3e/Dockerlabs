@@ -59,7 +59,8 @@ aquí la pagina de la explicación sobre la vulnerabilidad: https://cve-mitre-or
 nos vamos a: 
 > extensiones > user defined tags > add defined tags > le colocamos un nombre y pruebo su vulnerabilidad 
 
-![[prueba.png]]
+![image](https://github.com/user-attachments/assets/002a7c04-f680-4f37-b1f4-3b5d3a345efe)
+
 
 en code colocamos:
 
