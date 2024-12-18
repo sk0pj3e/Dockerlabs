@@ -13,7 +13,9 @@ como exploit a esa versión no encontré mucho, en la pagina hay un "manager app
 en: https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/tomcat
 buscamos las credenciales por default para poder entrar al "manager app"
 intentamos con las credenciales
-![[credenciales.png]]
+
+![image](https://github.com/user-attachments/assets/6f3bfbf0-bb14-48c1-bb7a-71101acce2f4)
+
 > las credenciales: tomcat/s3cr3t
 
 entramos al "magaer app" con esas credenciales
