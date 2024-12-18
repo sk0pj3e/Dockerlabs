@@ -91,7 +91,9 @@ entonces modificamos ese código dentro del paréntesis y colocamos así la reve
 
 
 entonces la lanzamos con el terminal en escucha y entramos.
-![[conexion .png]]
+
+![image](https://github.com/user-attachments/assets/e5f24e05-b124-4411-b877-6f4f132bdf00)
+
 dentro no encontré nada y probé con la misma contraseña de admin del panel por curiosidad con el usuario  admin
 ingresamos la contraseña "chocolate" al su root
 ![[final.png]]
