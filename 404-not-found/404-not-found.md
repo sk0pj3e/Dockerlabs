@@ -1,5 +1,7 @@
 nmap: 22,80
-![[nmap.png]]
+
+![image](https://github.com/user-attachments/assets/2b6eed0f-c4b9-4bcb-b84d-3fbfe9437982)
+
 
 ---
 al hacer el nmap vemos que el puerto 80 tiene una pagina con "hl" al final
