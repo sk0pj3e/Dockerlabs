@@ -35,7 +35,9 @@ hacemos un:
     - wfuzz -c -u 404-not-found.hl -H "HOST: FUZZ.404-not-found.hl" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt --hw 28
 
 nos da: info
-![[resultado wff.png]]
+
+![image](https://github.com/user-attachments/assets/e26da39b-a5fd-47dd-8b60-3489ca23bc2a)
+
 
 metemos ese info en /etc/host como el primer URL que tenemos.
 http://info.404-not-found.hl/
