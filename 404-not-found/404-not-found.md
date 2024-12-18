@@ -11,6 +11,11 @@ al hacer el nmap vemos que el puerto 80 tiene una pagina con "hl" al final
 lo que tenemos que agregar esa redirección en el  "/etc/hosts"
 http://404-not-found.hl/
 
+en la pagina principal ahora vemos eso y aceptamos el desafio:
+
+![image](https://github.com/user-attachments/assets/ca2f05b7-9e39-4c8b-b1c6-ab6cef4f2fd4)
+
+
 en la pagina hay cuadros con "pistas". hay una en código base64 
 
 ![[pagina 3.png]]
