@@ -19,7 +19,9 @@ entramos:
 ![image](https://github.com/user-attachments/assets/e690e84e-f33d-4b2a-9c3c-53e1b49b5e6c)
 
 buscando y haciendo Fuerza bruta de directorios, no encontraba mucho, pero me entro la curiosidad por esto:
-![[curiosidad 1.png]]
+
+![image](https://github.com/user-attachments/assets/77cc8607-d8e3-4ae9-b77f-5e8c4a8833a5)
+
 Esta en PHP así que probablemente tiene un "login.php" y al final di con esto
 > http://172.17.0.2/cmsms/admin/login.php
 
