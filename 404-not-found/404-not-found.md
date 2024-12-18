@@ -68,7 +68,8 @@ en el panel de admin nos da las credenciales:
        - Nombre de usuario: `404-page`
        - Contraseña: `not-found-page-secret`
 
-![[credenciales 2.png]]
+![image](https://github.com/user-attachments/assets/b5768cb3-21d1-44b2-a00b-df510322316e)
+
 
 entramos por el ssh en el terminal y ahora buscamos como escalar hacia root.
 ![[conexion .png]]
