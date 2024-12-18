@@ -56,7 +56,8 @@ vemos el código fuente y al final hay un mensaje:
 buscamos credenciales de inyección de LDAP
 probamos las inyección que tiene: https://book.hacktricks.xyz/v/es/pentesting-web/ldap-injection
 
-![[credenciales 1 1.png]]
+![image](https://github.com/user-attachments/assets/7a5b62ab-8c46-4f74-bdb1-59d1f49849b7)
+
 y sirve: 
 
         user=*)(|(&
