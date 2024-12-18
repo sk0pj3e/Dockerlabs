@@ -45,7 +45,9 @@ hacemos un ataque de fuerza bruta:
 
 y nos da la contraseña "chocolate" para admin
 probamos en el panel de login
-![[panel admin.png]]
+
+![image](https://github.com/user-attachments/assets/386e9cb0-5a71-4b1d-812d-dc6a0972ad2f)
+
 ya estamos dentro el panel, vemos una versión antigua entonces buscamos las vulnerabilidades conocidas para la versión 2.2.19 de CMS Made Simple. las cuales encontré con esta explicación 
 
 > |[CVE-2024-27625](https://translate.google.com/website?sl=en&tl=es&hl=es&client=srp&u=https://www.cve.org/CVERecord?id%3DCVE-2024-27625)|La versión 2.2.19 de CMS Made Simple es vulnerable a ataques de secuencias de comandos entre sitios (XSS). Esta vulnerabilidad reside en el módulo Administrador de archivos del panel de administración. En concreto, el problema surge debido a una limpieza inadecuada de la entrada del usuario en el campo "Nuevo directorio".|
