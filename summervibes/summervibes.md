@@ -1,6 +1,7 @@
 Empezamos la maquina Dificil
 
-![[nmap.png]]
+![image](https://github.com/user-attachments/assets/71b619b0-2b37-412e-83a7-83b78f38fe80)
+
 nmap: 22,80
 
 ---
