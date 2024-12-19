@@ -1,6 +1,7 @@
 nmap:  443, 80, 22
 
-![[dockerlabs/dificil/debugme/nmap.png]]
+![image](https://github.com/user-attachments/assets/49f75831-c32a-4554-9753-b7c610099ee0)
+
 
 ---
 entramos a la pagina principal y nos da esto:
