@@ -47,7 +47,9 @@ al hacer un "ps aux" vemos que en el PID 53 se ejecuta un "index.js"
 buscamos en: https://book.hacktricks.xyz/linux-hardening/privilege-escalation/electron-cef-chromium-debugger-abuse
 
 y vemos que podemos escalar con: kill -s SIGUSR1 nodejs-ps
-![[ejecucion 1.png]]
+
+![image](https://github.com/user-attachments/assets/16c17a4c-28fa-4d27-9154-40b98c1d9c6e)
+
 
 que quedaría:  sudo kill -s SIGUSR1 49 (o según se ejecute en este caso 49)
 ahora si ejecutamos: netstat -atunop vemos que se reinicia ya hora esta habitado el puerto 9229
