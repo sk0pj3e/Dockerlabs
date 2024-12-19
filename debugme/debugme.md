@@ -12,7 +12,9 @@ entramos a la pagina principal y nos da esto:
 hay una subida de imagen o pdf y encontré este exploit que roba metadatos: https://github.com/voidz0r/CVE-2022-44268
 
 seguimos los pasos y subimos la imagen 1200x1200
-![[imagen subida.png]]
+
+![image](https://github.com/user-attachments/assets/1fa9aaf9-cfe5-4db4-b69d-23a73cd077bf)
+
 
 después guardamos la foto desde la pagina subida y al guardarla nos dará muchos números.
 ![[primer paso nombre.png]]
