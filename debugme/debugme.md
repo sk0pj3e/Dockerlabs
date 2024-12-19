@@ -5,7 +5,9 @@ nmap:  443, 80, 22
 
 ---
 entramos a la pagina principal y nos da esto:
-![[pagina principal 1.png]]
+
+![image](https://github.com/user-attachments/assets/7e0cb7f2-b4e8-47a6-8a08-10226e7e6d2c)
+
 
 hay una subida de imagen o pdf y encontré este exploit que roba metadatos: https://github.com/voidz0r/CVE-2022-44268
 
