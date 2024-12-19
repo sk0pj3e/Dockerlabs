@@ -25,11 +25,6 @@ lanzamos este comando con el numero dentro de los ""
 
 >python3 -c 'print(bytes.fromhex("con el numero que nos dio"))'
 
-y al final dará:
-
-![image](https://github.com/user-attachments/assets/a1940997-6a1a-4eb4-85b4-b3c09857421c)
-
-
 y nos dará el listado de "/etc/passwd" con un usuario llamado "lenam"
 
 hacemos fuerza bruta
@@ -37,7 +32,9 @@ hacemos fuerza bruta
      - hydra -l lenam -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
 
 nos da la contraseña: loverboy
-![[dockerlabs/dificil/debugme/fuerza bruta.png]]
+
+![image](https://github.com/user-attachments/assets/f72bfc59-fd0a-4045-8ba8-c2d7e9a9a7d5)
+
 dentro al hacer sudo -l aparece: "kill"
 ![[kill.png]]
 al hacer un "ps aux" vemos que en el PID 53 se ejecuta un "index.js"
