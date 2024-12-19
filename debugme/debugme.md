@@ -65,7 +65,8 @@ dentro del debug ejecutamos:
 
 ahora salimos y ejecutamos el bash -p
 
-![[dockerlabs/dificil/debugme/root.png]]
+![image](https://github.com/user-attachments/assets/191e37dc-13ec-4e4f-a04b-84e8155b9eb1)
+
 
 pero no somos root absoluto, modificamos el código para una reverse shell
 
