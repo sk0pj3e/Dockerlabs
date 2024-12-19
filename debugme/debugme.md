@@ -17,7 +17,9 @@ seguimos los pasos y subimos la imagen 1200x1200
 
 
 después guardamos la foto desde la pagina subida y al guardarla nos dará muchos números.
-![[primer paso nombre.png]]
+
+![image](https://github.com/user-attachments/assets/a2472f55-bf63-499f-a542-2beb191ae383)
+
 
 lanzamos este comando con el numero dentro de los ""
 
