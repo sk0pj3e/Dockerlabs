@@ -40,7 +40,9 @@ dentro al hacer sudo -l aparece: "kill"
 ![image](https://github.com/user-attachments/assets/e5a0d4e9-ac1b-4ca7-a0b2-cd5a2b7a87d3)
 
 al hacer un "ps aux" vemos que en el PID 53 se ejecuta un "index.js"
-![[codigojs.png]]
+
+![image](https://github.com/user-attachments/assets/c6cfc13b-ad4f-4d5c-8cfe-179beb50b297)
+
 
 buscamos en: https://book.hacktricks.xyz/linux-hardening/privilege-escalation/electron-cef-chromium-debugger-abuse
 
