@@ -36,7 +36,9 @@ nos da la contraseña: loverboy
 ![image](https://github.com/user-attachments/assets/f72bfc59-fd0a-4045-8ba8-c2d7e9a9a7d5)
 
 dentro al hacer sudo -l aparece: "kill"
-![[kill.png]]
+
+![image](https://github.com/user-attachments/assets/e5a0d4e9-ac1b-4ca7-a0b2-cd5a2b7a87d3)
+
 al hacer un "ps aux" vemos que en el PID 53 se ejecuta un "index.js"
 ![[codigojs.png]]
 
