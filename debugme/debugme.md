@@ -26,7 +26,9 @@ lanzamos este comando con el numero dentro de los ""
 >python3 -c 'print(bytes.fromhex("con el numero que nos dio"))'
 
 y al final dará:
-![[etcpasswd.png]]
+
+![image](https://github.com/user-attachments/assets/a1940997-6a1a-4eb4-85b4-b3c09857421c)
+
 
 y nos dará el listado de "/etc/passwd" con un usuario llamado "lenam"
 
