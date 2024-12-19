@@ -53,7 +53,9 @@ y vemos que podemos escalar con: kill -s SIGUSR1 nodejs-ps
 
 que quedaría:  sudo kill -s SIGUSR1 49 (o según se ejecute en este caso 49)
 ahora si ejecutamos: netstat -atunop vemos que se reinicia ya hora esta habitado el puerto 9229
-![[nuevopuerto.png]]
+
+![image](https://github.com/user-attachments/assets/6f69a3a4-d8f6-4f5b-ae2e-e64e50264c60)
+
 
 nos conectamos por la IP y puerto que da:  node inspect 127.0.0.1:9229
 
