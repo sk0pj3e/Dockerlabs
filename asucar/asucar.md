@@ -57,7 +57,8 @@ y encontré que tenemos permisos root generamos una clave primero:
 
       -  puttygen -t rsa -b 2048 -o rootAccess.ppk
 
-![[clave privada1.png]]
+![image](https://github.com/user-attachments/assets/8d29600c-e370-4b56-bef7-bd2708d06e7e)
+
 se puede dejar sin contraseña o con contraseña
 lo pasamos una clave publica:
     
