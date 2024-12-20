@@ -43,7 +43,9 @@ hacemos un ataque de fuerza bruta:
          -hydra -l curiosito -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
 
 y nos dio: password1
-![[dockerlabs/medio/asucar/fuerza bruta.png]]
+
+![image](https://github.com/user-attachments/assets/fb17e9e4-9822-4484-b6e2-52ffe7101fc1)
+
 entramos por el ssh
 
 al hacer "sudo -l" nos aparece "puttygen" que es un comando para generar claves privadas como publicas.
