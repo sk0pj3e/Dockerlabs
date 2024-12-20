@@ -73,7 +73,9 @@ en nuestra terminal colocamos:
       - scp curiosito@172.17.0.2:/home/curiosito/privateRootAccess.ppk . 
 
 para pasarnos la clave privada.
-![[privada2.png]]
+
+![image](https://github.com/user-attachments/assets/1755bf41-4b22-408b-b166-352148d9c0a2)
+
 
  ya pasado hacemos un:
         
