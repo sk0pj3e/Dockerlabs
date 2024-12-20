@@ -1,5 +1,7 @@
 nmap: 22,80
-![[dockerlabs/medio/asucar/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/8504499b-9655-431e-a40f-ea0959b954cf)
+
 
 ---
 en la pagina principal podemos ver que es de wordpress:
