@@ -13,7 +13,9 @@ como sabemos que es un wordpress podemos utilizar sus herramientas. hacemos un "
     -  wpscan --url http://asucar.dl/ 
 
 nos da una version de "site-editor 1.1"
-![[wpscan.png]]
+
+![image](https://github.com/user-attachments/assets/7e5f859f-eea9-4ac8-9341-3c89158bd8e5)
+
 
 hacemos un searchsploit site-editor plugin, buscamos con:
 
