@@ -8,8 +8,6 @@ en la pagina principal podemos ver que es de wordpress:
 
 ![image](https://github.com/user-attachments/assets/f9cd8200-a10f-4ea9-97fa-bde2654899cb)
 
-en la pagina encontramos un usuario: Annie Steiner (directora general)
-
 como sabemos que es un wordpress podemos utilizar sus herramientas. hacemos un "wpscan":
 
     -  wpscan --url http://asucar.dl/ 
