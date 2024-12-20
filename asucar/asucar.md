@@ -80,7 +80,7 @@ para pasarnos la clave privada.
  ya pasado hacemos un:
         
     - ssh root@172.17.0.2 -i privateRootAccess.ppk 
-
-![[dockerlabs/medio/asucar/root.png]]
+    
+![image](https://github.com/user-attachments/assets/5ec19d42-7ad6-4ea1-8244-59d94bd753d3)
 
 colocamos la contraseña que colocamos y somos root! 
