@@ -50,7 +50,8 @@ entramos por el ssh
 
 al hacer "sudo -l" nos aparece "puttygen" que es un comando para generar claves privadas como publicas.
 
-![[sudo -l.png]]
+![image](https://github.com/user-attachments/assets/d7798445-a0ae-43dc-ad7c-4c3895b06260)
+
 
 y encontré que tenemos permisos root generamos una clave primero:
 
