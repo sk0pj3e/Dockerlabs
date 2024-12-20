@@ -25,7 +25,9 @@ nos da:
 > site-editor/editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php
 
 buscamos sobre el exploit: https://www.exploit-db.com/exploits/44340
-![[exploit 1.png]]
+
+![image](https://github.com/user-attachments/assets/1fc5f8f5-8ed3-48dc-b28e-762f86653953)
+
 
 y encontré que si en la barra de búsqueda colocamos: http://asucar.dl/wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php?ajax_path=/etc/passwd
 
