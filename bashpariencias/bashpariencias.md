@@ -29,7 +29,9 @@ vemos que podemos entrar:
 
 
 encontré esto:
-![[encuentro1.png]]
+
+![image](https://github.com/user-attachments/assets/5af3897b-ba52-4fde-be0a-01cd25f6cc20)
+
 
 dentro vamos a la carpeta: cd > cd ./- > abrimos un servidor y en nuestro terminal un curl:
 
