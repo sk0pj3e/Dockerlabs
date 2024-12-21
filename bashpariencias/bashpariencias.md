@@ -67,7 +67,9 @@ da que tenemos un directorio con nombre "password" hacemos un
     sudo -u carlos cat /home/carlos/password
 
 nos da la contraseña de carlos: chocolateado
-![[contraseña3.png]]
+
+![image](https://github.com/user-attachments/assets/5d1dc3c7-2eed-4025-b1fa-e872ee5c2348)
+
 
 
 con sudo -l  y carlos ejecuta un "tee"
