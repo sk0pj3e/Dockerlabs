@@ -43,7 +43,8 @@ ahí se guardo la petición y así que hacemos un sqlmap
 
 
 y nos dio:
-![[resultado.png]]
+![image](https://github.com/user-attachments/assets/13406494-f292-40af-aac2-0c5114932387)
+
 creamos un hash con nano, pegamos la contraseña que nos dio el sqlmap
 crackeamos la contraseña con john:
 
