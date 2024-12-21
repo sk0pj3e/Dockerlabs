@@ -44,8 +44,8 @@ nos pasamos el zip
 
 nos pide una contraseña así que intentamos un "john"
 
-         zip2john rosa.zip > hash_zip
-          john hash_zip
+         zip2john rosa.zip > hash.txt
+          john hash.txt
 
 y nos da la contraseña:
 ![[dockerlabs/medio/bashpariencias/contraseña1.png]]
