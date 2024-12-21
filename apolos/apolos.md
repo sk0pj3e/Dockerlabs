@@ -5,7 +5,9 @@ nmap: 80
 
 ---
 entramos a la pagina principal y la verdad no hay mucho, tampoco en el código fuente
-![[dockerlabs/medio/apolos/pagina principal.png]]
+
+![image](https://github.com/user-attachments/assets/d055eff7-403d-4808-8008-e98742cc9f3c)
+
 hacemos un gobuster:
 > gobuster dir -u http://172.17.0.2/ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 64 -x php,html,py,txt
 
