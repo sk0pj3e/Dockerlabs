@@ -104,7 +104,8 @@ buscando encontré una posible contraseña:
 ![image](https://github.com/user-attachments/assets/442cc6a8-6ef4-4d3a-be1a-745fcaa7ceaf)
 
 dejamos un txt así: cosa que podamos sacar  la contraseña 
-![[paso2.png]]
+![image](https://github.com/user-attachments/assets/667e7b98-bfc6-4a45-88b3-0eb0fadf2032)
+
 de la mejor forma es hacer el ataque en nuestra  terminal con el comando:
 
         john --wordlist=/usr/share/wordlists/rockyou.txt shadows.txt
