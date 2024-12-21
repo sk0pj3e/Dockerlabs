@@ -93,7 +93,8 @@ utilizamos este diccionario: https://raw.githubusercontent.com/d4t4s3c/suForce/r
 nos pasamos el suforce y techyou.txt por wget abriendo un servidor en nuestro terminal con python3.
 pasamos dos diccionarios por si acaso, ahora iniciamos la fuerza bruta
 después de un rato nos da la contraseña de luis
-![[contraseña1.png]]
+![image](https://github.com/user-attachments/assets/1d4d1b58-b9ac-4f6c-bbab-87935da0557e)
+
 nos pasamos al otro usuario
 
 muestra que para escalar a root esta el grupo "shadow" que se vio con el id
