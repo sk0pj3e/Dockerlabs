@@ -32,7 +32,8 @@ y no funciona cuando:
 > y el motor de la base de datos no interpreta (--) como comentario.
 
 como en ese login no permite esa inyección probamos creando un usuario y contraseña e ingresamos, lo que logramos es entrar a la pagina de esta forma:
-![[panel1.png]]
+![image](https://github.com/user-attachments/assets/7ef3f704-d534-4c2f-9331-bbeffbfb11e3)
+
 voy a probar con burpsuite desde donde dice "comprar ahora", capturamos y hacemos una consulta sqlmap con el request que capturamos
 ![[burp.png]]
 ahí se guardo la petición y así que hacemos un sqlmap
