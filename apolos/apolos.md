@@ -12,7 +12,8 @@ hacemos un gobuster:
 > gobuster dir -u http://172.17.0.2/ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 64 -x php,html,py,txt
 
 nos da un login.php
-![[dockerlabs/medio/apolos/login.png]]
+![image](https://github.com/user-attachments/assets/44e2f0c3-bf79-4eac-9182-06d47ccae654)
+
 ![[login2.png]]
 
 dentro en el buscador colocamos 
