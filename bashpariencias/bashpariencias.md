@@ -80,5 +80,7 @@ y seguimos los pasos:
      echo "carlos ALL=(ALL) NOPASSWD: ALL" | sudo tee -a "$LFILE"
 
 ejecutamos "sudo su"
-![[dockerlabs/medio/bashpariencias/root.png]]
+
+![image](https://github.com/user-attachments/assets/65480878-01a8-47c0-a485-86d5116876ed)
+
  y somos root!.
