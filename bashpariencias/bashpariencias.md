@@ -1,5 +1,6 @@
 nmap: 80, 8899
-![[dockerlabs/medio/bashpariencias/nmap.png]]
+![image](https://github.com/user-attachments/assets/3640f876-af5a-4520-8312-e1baa9297e3c)
+
 
 ---
 
