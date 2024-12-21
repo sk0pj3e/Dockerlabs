@@ -87,7 +87,8 @@ entramos y ahora escalamos.
 encontré que para escalar se utiliza "su-bruteforce" , buscamos alguna forma y encontré:
 https://github.com/d4t4s3c/suForce
 utilizamos este diccionario: https://raw.githubusercontent.com/d4t4s3c/suForce/refs/heads/main/techyou.txt
-![[diccionario.png]]
+![image](https://github.com/user-attachments/assets/1ae3b8e7-bd61-4ef4-8e9a-b3002a5a56ed)
+
 
 nos pasamos el suforce y techyou.txt por wget abriendo un servidor en nuestro terminal con python3.
 pasamos dos diccionarios por si acaso, ahora iniciamos la fuerza bruta
