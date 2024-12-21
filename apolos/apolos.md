@@ -68,7 +68,8 @@ creamos un php dentro permite la ejecución remota de comandos sin validación
        ?>
 
 lo subimos:
-![[subida1.png]]
+![image](https://github.com/user-attachments/assets/114eb20f-49a2-41da-972e-0dcc6c9736cb)
+
 
 después de subir el archivo vamos a uploads  y vemos que esta ahí, comprobamos
 ![[comprobacion.png]]
