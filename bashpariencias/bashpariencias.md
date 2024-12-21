@@ -24,7 +24,8 @@ probamos:
      - ssh rosa@172.18.0.2 -p 8899 (porque el puerto 22 esta cerrado)
 
 vemos que podemos entrar:
-![[dockerlabs/medio/bashpariencias/conexion1.png]]
+![image](https://github.com/user-attachments/assets/f944088b-07c4-44f3-ab79-afb6f5c66152)
+
 
 encontré esto:
 ![[encuentro1.png]]
