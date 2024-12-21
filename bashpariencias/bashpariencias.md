@@ -51,7 +51,7 @@ y nos da la contraseña:
 
 ![image](https://github.com/user-attachments/assets/bae5bb6f-8dd8-4cb1-b0b5-9010d2342f90)
 
-ingresamos a la terminal victima y con al contraseña vemos lo que dice en "password.txt"
+ingresamos a la terminal victima y con la contraseña vemos lo que dice en "password.txt"
 contraseña: hackwhitbash
 
 ![image](https://github.com/user-attachments/assets/f1011197-0a68-4287-ad10-2fdd0744a00f)
