@@ -98,7 +98,8 @@ después de un rato nos da la contraseña de luis
 nos pasamos al otro usuario
 
 muestra que para escalar a root esta el grupo "shadow" que se vio con el id
-![[shadows.png]]
+![image](https://github.com/user-attachments/assets/17edfad2-d3d1-4e8f-9f81-dc474fbff6d8)
+
 buscando encontré una posible contraseña:
 ![[paso1.png]]
 dejamos un txt así: cosa que podamos sacar  la contraseña 
