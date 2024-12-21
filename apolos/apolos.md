@@ -101,7 +101,8 @@ muestra que para escalar a root esta el grupo "shadow" que se vio con el id
 ![image](https://github.com/user-attachments/assets/17edfad2-d3d1-4e8f-9f81-dc474fbff6d8)
 
 buscando encontré una posible contraseña:
-![[paso1.png]]
+![image](https://github.com/user-attachments/assets/442cc6a8-6ef4-4d3a-be1a-745fcaa7ceaf)
+
 dejamos un txt así: cosa que podamos sacar  la contraseña 
 ![[paso2.png]]
 de la mejor forma es hacer el ataque en nuestra  terminal con el comando:
