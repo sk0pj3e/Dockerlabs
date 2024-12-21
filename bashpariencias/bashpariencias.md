@@ -38,7 +38,9 @@ dentro vamos a la carpeta: cd > cd ./- > abrimos un servidor y en nuestro termin
      curl http://172.18.0.2:8080/backup_rosa.zip --output rosa.zip
 
 nos pasamos el zip
-![[dockerlabs/medio/bashpariencias/paso1.png]]
+
+![image](https://github.com/user-attachments/assets/af76f6a6-3cb2-4d7c-845b-c4e590ebb4d1)
+
 
 nos pide una contraseña así que intentamos un "john"
 
