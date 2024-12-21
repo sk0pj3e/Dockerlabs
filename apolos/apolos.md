@@ -51,7 +51,8 @@ crackeamos la contraseña con john:
     john --wordlist=/usr/share/wordlists/rockyou.txt hash
  
  me da la contraseña del admin
-![[crack.png]]
+![image](https://github.com/user-attachments/assets/61bfdc72-9ddf-4c67-b2ce-ef75e2229252)
+
 cerramos sesión e ingresamos con la sesión de admin
 al final podemos ver un panel de administración 
 vamos a configuraciones > subir archivos.
