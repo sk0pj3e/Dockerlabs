@@ -5,7 +5,8 @@ nmap: 80, 8899
 ---
 
 en la pagina principal da un usuario "rosa" y posibles contraseñas en texto plano txt y un sha384:
-![[dockerlabs/medio/bashpariencias/pagina principal 1.png]]
+![image](https://github.com/user-attachments/assets/e5b6b0b1-ddc1-46da-b4d1-14900eaf7de0)
+
 
       -UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1
 los pasamos por un sha384: https://emn178.github.io/online-tools/sha384.html
