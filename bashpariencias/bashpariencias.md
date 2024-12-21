@@ -16,7 +16,8 @@ y nos da:
 >e762c3709721038d65fa8365bbd50e88fd5515f56ee41c64e157607793d1bc8ce2ffd67a6e93431008b0cce67fa70c57
 
 si voy a formulario de la pagina principal y voy al código fuente encontramos esto:
-![[dockerlabs/medio/bashpariencias/codigo fuente.png]]
+![image](https://github.com/user-attachments/assets/8332872b-8231-4713-8063-99ce0c01c9d9)
+
 "rosa:lacagadenuevo" (posible contraseña)
 probamos:
 
