@@ -72,7 +72,8 @@ lo subimos:
 
 
 después de subir el archivo vamos a uploads  y vemos que esta ahí, comprobamos
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4838956b-d829-4f38-9ccf-d648e30600fe)
+
 
 ahora colocamos una bash
 
