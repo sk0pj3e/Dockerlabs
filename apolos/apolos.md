@@ -35,7 +35,8 @@ como en ese login no permite esa inyección probamos creando un usuario y contra
 ![image](https://github.com/user-attachments/assets/7ef3f704-d534-4c2f-9331-bbeffbfb11e3)
 
 voy a probar con burpsuite desde donde dice "comprar ahora", capturamos y hacemos una consulta sqlmap con el request que capturamos
-![[burp.png]]
+![image](https://github.com/user-attachments/assets/1a34f523-8919-41b2-bd7e-7af4cda97399)
+
 ahí se guardo la petición y así que hacemos un sqlmap
 
     sqlmap -r  request --batch --dump
