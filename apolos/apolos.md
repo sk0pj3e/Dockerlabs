@@ -1,5 +1,7 @@
 nmap: 80
-![[dockerlabs/medio/apolos/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/2ff1e276-c37b-4d4a-8b9f-14d603d06229)
+
 
 ---
 entramos a la pagina principal y la verdad no hay mucho, tampoco en el código fuente
