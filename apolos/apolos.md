@@ -14,7 +14,8 @@ hacemos un gobuster:
 nos da un login.php
 ![image](https://github.com/user-attachments/assets/44e2f0c3-bf79-4eac-9182-06d47ccae654)
 
-![[login2.png]]
+![image](https://github.com/user-attachments/assets/dba385cc-25fd-47ed-8789-fb7a1b457b55)
+
 
 dentro en el buscador colocamos 
 
