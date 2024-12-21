@@ -58,7 +58,8 @@ al final podemos ver un panel de administración
 vamos a configuraciones > subir archivos.
 
 creamos un phtml ya que con php no sirve y lo buscamos en: https://book.hacktricks.xyz/pentesting-web/file-upload
-![[pruebas1.png]]
+![image](https://github.com/user-attachments/assets/dbdd29ef-b39f-4204-8cab-cb6743b931fb)
+
 
 creamos un php dentro permite la ejecución remota de comandos sin validación
 
