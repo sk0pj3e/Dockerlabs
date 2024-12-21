@@ -113,5 +113,6 @@ de la mejor forma es hacer el ataque en nuestra  terminal con el comando:
 y nos da la contraseña: rainbow2
 
 su root / rainbow2
-![[dockerlabs/medio/apolos/root.png]]
+![image](https://github.com/user-attachments/assets/8bf9f25f-90d3-4672-b286-51862d7a3d5a)
+
 y somos root!
