@@ -53,7 +53,9 @@ y nos da la contraseña:
 
 ingresamos a la terminal victima y con al contraseña vemos lo que dice en "password.txt"
 contraseña: hackwhitbash
-![[contraseña2.png]]
+
+![image](https://github.com/user-attachments/assets/f1011197-0a68-4287-ad10-2fdd0744a00f)
+
 probamos con "juan" y ahora somos el usuario "juan"
 con sudo -l  vemos que carlos ejecuta "tree / cat" 
 colocamos:
