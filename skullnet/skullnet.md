@@ -27,7 +27,8 @@ hacemos un: git checkout -- .
 hacemos otra vez el "git log" y nos copiamos esto: 
 >648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
 
-![[gitlog.png]]
+![image](https://github.com/user-attachments/assets/89472b3c-802c-4b15-867c-84493aa96f4f)
+
 
 colocamos:
 >git reset 648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
