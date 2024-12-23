@@ -65,5 +65,7 @@ volvemos a lanzar el comando:
      echo "test" | sudo /usr/bin/procmail -m .procmailrc
 
 revisamos con "ls -la" el archivo en especifico de /bin/bash  y vemos que esta en rojo como queríamos con los permisos, ahora lanzamos un "bash -p"
-![[dockerlabs/medio/chatme/root.png]]
+
+![image](https://github.com/user-attachments/assets/52a093bb-99a6-4528-9649-04bf97f23556)
+
 y somos root!
