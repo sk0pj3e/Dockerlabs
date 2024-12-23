@@ -41,7 +41,8 @@ como no hay una carpeta de procmail creamos una llamada "procmailrc",  dentro co
      :0
 	 | touch $TMPFILE
 
-![[dockerlabs/medio/chatme/codigo1.png]]
+![image](https://github.com/user-attachments/assets/bbb826f0-fd6a-4090-bc9c-8e9d19ac7c36)
+
 
 ahora probamos que el código funciona utilizando este comando
 
