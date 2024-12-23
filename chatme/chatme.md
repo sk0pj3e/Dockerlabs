@@ -1,5 +1,7 @@
 nmap:80
-![[dockerlabs/medio/chatme/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/6da55b66-44e5-45aa-b6bd-204f3656c0a3)
+
 
 ---
 al ingresar a la pagina principal vemos esto
