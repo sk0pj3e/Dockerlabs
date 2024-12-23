@@ -1,5 +1,6 @@
 nmap: 80
-![[dockerlabs/dificil/skullnet/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/bbbb702f-524b-4b3b-9c7e-66352f5a510b)
 
 ---
 agregamos "skullnet.es" en nano /etc/host y entramos a la pagina
