@@ -30,7 +30,9 @@ después de esperar un rato tenemos al conexión
 ![image](https://github.com/user-attachments/assets/6a6eb0ab-ff4a-4779-8a46-521a44c1e07a)
 
 al hacer un sudo -l aparece: /usr/bin/procmail
-![[sudo-l.png]]
+
+![image](https://github.com/user-attachments/assets/db26a903-36f3-4593-a894-88fd0d403f01)
+
 
 en la carpeta /tmp hay un archivo llamado "crontab.z4q2tt" que podemos modificar 
 como no hay una carpeta de procmail creamos una llamada "procmailrc",  dentro colocamos el código: 
