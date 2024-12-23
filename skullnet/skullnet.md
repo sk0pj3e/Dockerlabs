@@ -92,7 +92,8 @@ ingresamos a la ruta, entramos con nano al skullnet_api, pero no tenemos permiso
 
 dentro muestra que se abre un puerto 8081 que dentro se pueden ejecutar comando como "ls" o "whoami" y para que funcione se tiene que mandar un token de autorización que nos permita ejecutar y dentro hay una "AUTH_KEY_BASE64 = "d2VfYXJlX2JvbmVzXzUxMzU0NjUxNjQ4NjQ4NA=="
 "
-![[nano1.png]]
+![image](https://github.com/user-attachments/assets/9d73fadc-548b-465d-b1bc-6840052e41d2)
+
 
 lo sacamos con:
 
