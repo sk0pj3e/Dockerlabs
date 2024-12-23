@@ -48,7 +48,8 @@ ahora probamos que el código funciona utilizando este comando
 
 	 echo "test" | sudo /usr/bin/procmail -m .procmailrc
 
-![[dockerlabs/medio/chatme/codigo2.png]]
+![image](https://github.com/user-attachments/assets/b1ed3ffa-2170-4e85-b29d-bfceddf9e825)
+
 
 ahora colocamos el mismo comando pero lo modificamos 
 
