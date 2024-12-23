@@ -74,7 +74,9 @@ se abrirá el puerto 22 y tenemos el usuario como contraseña que menciono antes
 > skulloperator / +%7nj^g!DQxp]a>c4v&0
 
 y estamos dentro
-![[proceso1.png]]
+
+![image](https://github.com/user-attachments/assets/751206d3-a53e-4c66-b70c-97520bfa2b35)
+
 ahora escalamos
 
 al hacer un sudo -l o find, no muestra nada
