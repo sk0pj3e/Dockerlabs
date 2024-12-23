@@ -97,8 +97,10 @@ lo sacamos con:
 
     echo 'd2VfYXJlX2JvbmVzXzUxMzU0NjUxNjQ4NjQ4NA=' | base 64 -d 
 
->nos da: we_are_bones_513546516486484  
-![[base1.png]]
+>nos da: we_are_bones_513546516486484
+
+![image](https://github.com/user-attachments/assets/b0052559-89ea-4203-82a5-c8878bf8f1bd)
+
 
 en el código aparece que hay que iniciar con una palabra que comience por "basic"
 
