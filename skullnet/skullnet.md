@@ -51,7 +51,9 @@ entramos al authentication.txt y nos da:
      - +%7nj^g!DQxp]a>c4v&0
 
 el final del resultado de esos paso: 
-![[resultado1.png]]
+
+![image](https://github.com/user-attachments/assets/116bd170-09b3-4adb-97df-ea62674730e1)
+
 
 la ultima es una posible contraseña, pero igual tenemos el archivo de red adjuntado que es el "network.pcap" que es un wireshark
 lo abrimos: wireshark network.pcap
