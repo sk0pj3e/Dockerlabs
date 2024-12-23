@@ -22,33 +22,34 @@ lo pasamos con:
 hacemos un "git log" para ver los archivos modificados y da dos:
 > fix y First commit
 
-hacemos un: git checkout -- . 
+hacemos un: 
+> git checkout -- . 
 
 hacemos otra vez el "git log" y nos copiamos esto: 
->648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
+> 648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
 
 ![image](https://github.com/user-attachments/assets/89472b3c-802c-4b15-867c-84493aa96f4f)
 
 
 colocamos:
->git reset 648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
+
+     git reset 648d951e0f8b7cc60b11c82d9328fe9cb1a4a53d
 
 y nos da: 
 
-     - Unstaged changes after reset:
-     - D authentication.txt
-     - D network.pcap
+>Unstaged changes after reset:
+>D authentication.txt
+>D network.pcap
 
 colocamos "git diff" y vemos los cambios que se han realizado
 
 volvemos hacer un "git checkout -- ." y tenemos los archivos
 
 entramos al authentication.txt y nos da:
-
-     - cat authentication.txt 
-     - Hello skulloperator, as you know, we are implementing a new authentication mechanism to avoid brute-forcing...
-     - This credential and the attached network file will be enough. I know you will get it ;)
-     - +%7nj^g!DQxp]a>c4v&0
+>cat authentication.txt 
+>Hello skulloperator, as you know, we are implementing a new authentication mechanism to avoid brute-forcing...
+>This credential and the attached network file will be enough. I know you will get it ;)
+>+%7nj^g!DQxp]a>c4v&0
 
 el final del resultado de esos paso: 
 
