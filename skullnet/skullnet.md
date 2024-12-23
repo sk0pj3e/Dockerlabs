@@ -13,7 +13,9 @@ da un git. quedaría así la búsqueda: http://skullnet.es/.git/
 ![image](https://github.com/user-attachments/assets/9df19053-5d80-4100-96f7-3ba56452a335)
 
 quedamos donde hay muchos archivos y nos pasamos los archivos a nuestra terminal
-![[pagina2.png]]
+
+![image](https://github.com/user-attachments/assets/324ea04e-2e75-4fa4-a049-594c42842120)
+
 lo pasamos con: 
 > wget -r http://skullnet.es/.git/
 
