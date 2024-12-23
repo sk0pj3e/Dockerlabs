@@ -140,6 +140,8 @@ lo lanzamos aparece solo root, vemos si cambio los permisos
 > ls -ls /bin/bash
 
 ahora aparece en rojo, lanzamos un bash -p
-![[rootfinal.png]]
+
+![image](https://github.com/user-attachments/assets/af2c70ad-b1b8-4a0f-9afc-6dd54e17924e)
+
 y somos root! 
 
