@@ -26,7 +26,9 @@ en la pagina https://www.revshells.com/ creamos una reverse en base64 y nos dara
 lo guardamos, colocamos el terminal en escucha y subimos el archivo
 esperamos un rato y estamos dentro ahora escalamos
 después de esperar un rato tenemos al conexión
-![[dockerlabs/medio/chatme/conexion1.png]]
+
+![image](https://github.com/user-attachments/assets/6a6eb0ab-ff4a-4779-8a46-521a44c1e07a)
+
 al hacer un sudo -l aparece: /usr/bin/procmail
 ![[sudo-l.png]]
 
