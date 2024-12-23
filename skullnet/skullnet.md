@@ -4,7 +4,9 @@ nmap: 80
 
 ---
 agregamos "skullnet.es" en nano /etc/host y entramos a la pagina
-![[dockerlabs/dificil/skullnet/pagina principal.png]]
+
+![image](https://github.com/user-attachments/assets/01fa9c26-8511-47e1-8c79-b8ea4e2f6d74)
+
 no hay nada, hacemos un nmap mas profundo en el puerto 80
 da un git. quedaría así la búsqueda: http://skullnet.es/.git/
 ![[nmap2.png]]
