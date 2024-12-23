@@ -11,7 +11,9 @@ al ingresar a la pagina principal vemos esto
 entramos a "chat Right now" y es un .dl así que lo añadimos a "/etc/host" 
 
 al entrar nos mandara a un tipo chat que hay
-![[chat.png]]
+
+![image](https://github.com/user-attachments/assets/fa5ddaa2-dc0d-4b43-a35e-4a977eb12627)
+
 
 con burpsuite capturamos y vemos que los archivos se suben en formato "PYZ"
 en el terminal creo un virus.pyz:
