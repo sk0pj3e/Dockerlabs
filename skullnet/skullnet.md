@@ -83,7 +83,9 @@ al hacer un sudo -l o find, no muestra nada
 
 al hacer un "ps -faux" muestra que se ejecuta un "cron -P" donde se ejecuta un archivo : 
 >bin/sh -c python3 /var/www/skullnet.es/skullnet_api.py
-![[psaux.png]]
+>
+![image](https://github.com/user-attachments/assets/39bf88d3-a708-47ee-8b38-85e850f3d675)
+
 
 ingresamos a la ruta, entramos con nano al skullnet_api, pero no tenemos permisos de escritura pero si de lectura
 
