@@ -5,7 +5,9 @@ nmap:80
 
 ---
 al ingresar a la pagina principal vemos esto
-![[dockerlabs/medio/chatme/pagina principal.png]]
+
+![image](https://github.com/user-attachments/assets/3924a298-cd07-4d62-a48b-c0491a3129b3)
+
 entramos a "chat Right now" y es un .dl así que lo añadimos a "/etc/host" 
 
 al entrar nos mandara a un tipo chat que hay
