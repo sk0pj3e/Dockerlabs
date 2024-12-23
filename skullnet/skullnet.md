@@ -62,7 +62,9 @@ abrirá wireshark con las reglas capturadas y las revisaremos
 
 las primeras 5 peticiones son mas color gris y hace peticiones en los puertos:
 > 1000, 12000, 5000, 22 y 38118
-![[wire.png]]
+> 
+![image](https://github.com/user-attachments/assets/61641d93-d894-4b88-bdd1-d82df150a6ad)
+
 
 como el puerto 22 esta cerrado hacemos un: 
 
