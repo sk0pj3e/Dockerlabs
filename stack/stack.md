@@ -23,7 +23,9 @@ y nos dio 2 llamativas:
 
 
 y al entrar en file no da nada, pero al entrar en nota da esto
-![[nota.png]]
+
+![image](https://github.com/user-attachments/assets/c3146de1-a0b5-473b-b2f1-fd8ad248c460)
+
 
 *`str_replace()` para mitigar un Local File Inclusion (LFI) puede ser inefectivo si no se valida o sanitiza adecuadamente la entrada del usuario. Un atacante podría evadir el reemplazo con técnicas como codificación doble o secuencias alternativas.*
 
