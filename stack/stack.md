@@ -19,7 +19,8 @@ hacemos un gobuster:
 y nos dio 2 llamativas: 
 >note.txt y file.php
 
-![[dockerlabs/medio/stack/gobuster.png]]
+![image](https://github.com/user-attachments/assets/ee4cbe5e-8eb4-42c0-be88-56d2a5f87798)
+
 
 y al entrar en file no da nada, pero al entrar en nota da esto
 ![[nota.png]]
