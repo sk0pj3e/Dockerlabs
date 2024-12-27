@@ -88,7 +88,8 @@ ahora modificamos el código para que muestre la contraseña que ingresamos
 
 esto nos dio. Finalmente, debemos  actualizar el script añadiendo el comando que queremos  ejecutar, pues en el binario descompilado vemos que esta es la siguiente instrucción.
 
-![[confirmacion.png]]
+![image](https://github.com/user-attachments/assets/d71a797c-43a6-499b-bd4e-a42edae63dbd)
+
 
 al final el código deberá quedar así.
 ![[codigo final.png]]
