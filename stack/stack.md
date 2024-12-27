@@ -52,7 +52,9 @@ ahora para escalar podemos ver que hay un command_exec y probamos si tiene conex
 ![image](https://github.com/user-attachments/assets/5977fbd7-68e6-419a-a8e7-b8d265866975)
 
 y tiene conexión, vamos a revisar si es posible un desbordamiento de buffer
-![[buffer.png]]
+
+![image](https://github.com/user-attachments/assets/d6478840-a709-4c01-8db8-defb36ca140a)
+
 la ultima linea aparece "segmentation default" lo que podría ser la posibilidad del desbordamiento.
 al revisar la arquitectura podemos ver dos cosas importantes:
 ![[arquitectura.png]]
