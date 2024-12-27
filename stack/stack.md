@@ -1,5 +1,6 @@
 nmap: 22, 80
-![[dockerlabs/medio/stack/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/5a0d9537-3c14-4b1a-9da1-9e20aab84128)
 
 ---
 entramos a la pagina principal 
