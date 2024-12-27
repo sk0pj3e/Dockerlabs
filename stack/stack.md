@@ -43,7 +43,9 @@ y nos dio la contraseña
 
 
 ingresamos por el SSH con el usuario y contraseña que se consiguió
-![[dockerlabs/medio/stack/conexion1.png]]
+
+![image](https://github.com/user-attachments/assets/9e097a80-884a-436a-b5f2-c3ba8b8940cd)
+
 
 ahora para escalar podemos ver que hay un command_exec y probamos si tiene conexión el binario y nos pasamos el archivo:
 ![[conexion2.png]]
