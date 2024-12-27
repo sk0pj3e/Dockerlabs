@@ -68,7 +68,8 @@ ahora creare una cadena especialmente diseñada para el calculo del `offset`
 
 Para entender mejor el funcionamiento del binario lo voy a analizar con **ghydra**. El código descompilado es el siguiente:
 
-![[dockerlabs/medio/stack/codigo1.png]]
+![image](https://github.com/user-attachments/assets/78c6a848-8939-43b5-8c5d-2f7a886efb95)
+
 
 en conclusión después del análisis del código descompilado que el offset identificado es de 76. aparte que el programa es vulnerable a un Buffer Overflow debido al uso de la función `gets()` también si logramos establecer el valor de la variable `password` en `0xdead`, será posible acceder al modo administrador y ejecutar comandos mediante la función `system()`.
 
