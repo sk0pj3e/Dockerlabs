@@ -121,6 +121,8 @@ ahora ejecutamos  el comando:
 ahora hacemos un: ls -la /bin/bash
 y veremos que ya no pide escribir un comando porque aparece vacío
 entonces lanzamos un bash -p
-![[dockerlabs/medio/stack/root.png]]
+
+![image](https://github.com/user-attachments/assets/e63f0830-e0cb-49f0-b40c-69b94e6f30fd)
+
 
 y seremos root! 
