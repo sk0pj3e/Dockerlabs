@@ -30,7 +30,9 @@ y al entrar en file no da nada, pero al entrar en nota da esto
 *`str_replace()` para mitigar un Local File Inclusion (LFI) puede ser inefectivo si no se valida o sanitiza adecuadamente la entrada del usuario. Un atacante podría evadir el reemplazo con técnicas como codificación doble o secuencias alternativas.*
 
 Después de probar y suponiendo que tiene un LFI en el archivo PHP, encontré que en la ruta del URL podemos ir moviendo hasta que nos da: 
-![[LFI.png]]
+
+![image](https://github.com/user-attachments/assets/a23ad4ea-1651-4ac6-a2cb-0bb63a56401c)
+
 con esa ruta nos da el contenido y también un usuario llamado bob que ya se menciono en el código fuente. ahora colocamos en el URL la ruta que se mostraba en el código fuente.
 
      /usr/share/bob/password.txt
