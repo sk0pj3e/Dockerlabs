@@ -57,7 +57,9 @@ y tiene conexión, vamos a revisar si es posible un desbordamiento de buffer
 
 la ultima linea aparece "segmentation default" lo que podría ser la posibilidad del desbordamiento.
 al revisar la arquitectura podemos ver dos cosas importantes:
-![[arquitectura.png]]
+
+![image](https://github.com/user-attachments/assets/00a4e7e0-73f6-4a9d-afe5-0d22b0a896ce)
+
 que esta activa la protección NX y PIE.  buscando encontré que si esta con la protección NX no es posible una ejecución de shellcode y que PIE se encuentra activa igual y tiene una aleatorización en las direcciones de memoria de las funciones por la protección de PIE o sea que no es posible hacer una explotación de buffer.  pero si que se puede deshabilitar el ASLR.
 
 ahora creare una cadena especialmente diseñada para el calculo del `offset`
