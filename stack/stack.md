@@ -92,7 +92,8 @@ esto nos dio. Finalmente, debemos  actualizar el script añadiendo el comando qu
 
 
 al final el código deberá quedar así.
-![[codigo final.png]]
+
+![image](https://github.com/user-attachments/assets/618ebfb0-56c6-4c48-84f2-4143cf39ddf2)
 
 lo pasamos a la maquina victima 
 
