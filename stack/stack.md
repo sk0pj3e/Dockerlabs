@@ -97,7 +97,8 @@ al final el código deberá quedar así.
 
 lo pasamos a la maquina victima 
 
-![[pasar.png]]
+![image](https://github.com/user-attachments/assets/6ce6df35-b0a5-482f-914a-05bf22c0fd70)
+
 
 nos vamos a la carpeta /tmp y creamos un nano en la maquina victima con el código final copiado  con el comando:
 
