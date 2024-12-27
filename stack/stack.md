@@ -83,7 +83,8 @@ después de muchos errores en el código nos dio lo que buscábamos  que es que 
 
 ahora modificamos el código para que muestre la contraseña que ingresamos
 
-![[dockerlabs/medio/stack/contraseña2.png]]
+![image](https://github.com/user-attachments/assets/870c9265-78e4-46ac-aedc-c20d2527890e)
+
 
 esto nos dio. Finalmente, debemos  actualizar el script añadiendo el comando que queremos  ejecutar, pues en el binario descompilado vemos que esta es la siguiente instrucción.
 
