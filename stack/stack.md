@@ -38,7 +38,9 @@ con esa ruta nos da el contenido y también un usuario llamado bob que ya se men
      /usr/share/bob/password.txt
 
 y nos dio la contraseña
-![[dockerlabs/medio/stack/contraseña1.png]]
+
+![image](https://github.com/user-attachments/assets/f46546f7-f494-46bd-9b49-9f2e20685cf7)
+
 
 ingresamos por el SSH con el usuario y contraseña que se consiguió
 ![[dockerlabs/medio/stack/conexion1.png]]
