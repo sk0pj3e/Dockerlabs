@@ -75,7 +75,8 @@ en conclusión después del análisis del código descompilado que el offset ide
 
 ahora vamos a crear un script en python con el cual seremos capaces de interactuar con el binario, para controlar el RIP y así poder ejecutar comandos. 
 
-![[codigo3.png]]
+![image](https://github.com/user-attachments/assets/b79c59ee-ab17-4ada-827d-50f354c35ab4)
+
 
 después de muchos errores en el código nos dio lo que buscábamos  que es que saliera: 
 > escribe la contraseña: Estas en modo administrador (key = dead)
