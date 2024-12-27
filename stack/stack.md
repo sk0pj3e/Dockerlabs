@@ -8,7 +8,9 @@ entramos a la pagina principal
 ![image](https://github.com/user-attachments/assets/c127baa8-2bcf-4421-8e08-5e3a50787fa1)
 
 entramos al código fuente
-![[dockerlabs/medio/stack/codigo fuente.png]]
+
+![image](https://github.com/user-attachments/assets/8753af1b-7e27-4900-9ff7-09956b9b91bd)
+
 
 hacemos un gobuster:
 
