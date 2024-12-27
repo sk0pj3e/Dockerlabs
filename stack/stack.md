@@ -48,7 +48,9 @@ ingresamos por el SSH con el usuario y contraseña que se consiguió
 
 
 ahora para escalar podemos ver que hay un command_exec y probamos si tiene conexión el binario y nos pasamos el archivo:
-![[conexion2.png]]
+
+![image](https://github.com/user-attachments/assets/5977fbd7-68e6-419a-a8e7-b8d265866975)
+
 y tiene conexión, vamos a revisar si es posible un desbordamiento de buffer
 ![[buffer.png]]
 la ultima linea aparece "segmentation default" lo que podría ser la posibilidad del desbordamiento.
