@@ -113,6 +113,6 @@ somos scooby
 ahora al hacer sudo -l podemos  ver que se escala por "sudo", modifico  el codigo para que se vea de esta forma:
 > sudo -u root /usr/bin/sudo /bin/bash
 
-![[dockerlabs/facil/elevador/root.png]]
+![image](https://github.com/user-attachments/assets/e6cf6957-92db-453f-9cb1-be2c80689922)
 
 y somos root! 
