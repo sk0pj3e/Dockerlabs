@@ -70,7 +70,9 @@ la buscamos: https://gtfobins.github.io/gtfobins/env/
 
 como se que hay otros usuarios pobre y funciono el escalado con daphne:
 > sudo -u daphne /usr/bin/env /bin/sh
-![[usuario1.png]]
+
+![image](https://github.com/user-attachments/assets/a63fdff9-756f-4517-a349-cffc7e68426f)
+
 
 y somos el usuario daphne
 
