@@ -5,7 +5,9 @@ nmap:  80
 
 ---
 dentro de la pagina podemos ver que nos da un mensaje al abrir el ascensor:
-![[dockerlabs/facil/elevador/pagina principal.png]]
+
+![image](https://github.com/user-attachments/assets/43924d93-9367-4f22-9921-583d71be6e11)
+
 ![[dockerlabs/facil/elevador/pagina principal 2.png]]
 al hacer una ataque de fuerza bruta a los directorios  nos mostrara un "themes",
 
