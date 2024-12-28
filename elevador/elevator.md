@@ -80,7 +80,9 @@ al hacer sudo -l da: "ash" la buscamos: https://gtfobins.github.io/gtfobins/ash/
 
 ahora lanzamos asi:
 > sudo -u vilma /usr/bin/ash
-![[dockerlabs/facil/elevador/usuario2.png]]
+
+![image](https://github.com/user-attachments/assets/5acab12d-f16d-4bef-b762-c6b0645db515)
+
 
 y somos vilma
 
