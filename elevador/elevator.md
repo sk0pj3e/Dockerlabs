@@ -1,5 +1,6 @@
 nmap:  80
-![[dockerlabs/facil/elevador/nmap.png]]
+![image](https://github.com/user-attachments/assets/206a9c1a-9a66-4136-b0f9-050aa3a76ad0)
+
 
 ---
 dentro de la pagina podemos ver que nos da un mensaje al abrir el ascensor:
