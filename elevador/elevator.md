@@ -14,7 +14,8 @@ al hacer una ataque de fuerza bruta a los directorios  nos mostrara un "themes",
 
       gobuster dir -u http://172.17.0.2/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 20 -x php,html,txt -k
 
-![[dockerlabs/facil/elevador/gobuster.png]]
+![image](https://github.com/user-attachments/assets/6b57711b-3b7a-4c5a-9ec9-8278ccd4ea80)
+
 
 ahora si hacemos otra vez un gobuster pero agregando el "themes" 
 
