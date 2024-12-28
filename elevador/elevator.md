@@ -88,7 +88,9 @@ y somos vilma
 
 ahora al hacer sudo -l da que es ruby buscamos donde mismo y lanzamos asi:
 > sudo -u shaggy /usr/bin/ruby -e 'exec "/bin/sh"'
-![[dockerlabs/facil/elevador/usuario3.png]]
+
+![image](https://github.com/user-attachments/assets/c20e64b8-a8ba-4190-aa46-c2f5a49597b1)
+
 
 ahora somos shaggy y entonces ahora buscamos como escalar y aparece "lua"
 
