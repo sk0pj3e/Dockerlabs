@@ -28,7 +28,9 @@ y nos dará algunos importantes
 
 
 si ingresamos al primero o sea al uploads nos mandara a una subida de archivos
-![[uploads.png]]
+
+![image](https://github.com/user-attachments/assets/a369a585-4f64-44ec-aea7-50398bcbd6e1)
+
 
 como también me dio: archivo.html nos vamos ahí y vemos que podemos subir archivos pero solo archivos JPG
 ![[pagina principal3.png]]
