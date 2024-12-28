@@ -23,7 +23,9 @@ ahora si hacemos otra vez un gobuster pero agregando el "themes"
 
 
 y nos dará algunos importantes
-![[gobuster2.png]]
+
+![image](https://github.com/user-attachments/assets/3582ef9d-7e61-442d-80d0-9124e65d5e37)
+
 
 si ingresamos al primero o sea al uploads nos mandara a una subida de archivos
 ![[uploads.png]]
