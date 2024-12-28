@@ -62,8 +62,10 @@ dejamos la terminal asi:
 ![image](https://github.com/user-attachments/assets/aaf0c7df-4b93-4a68-8979-148e56b1defe)
 
 
-y ahora dentro si hacemos un "sudo -l" vemos que podemos escalar por "env", 
-![[env.png]]
+y ahora dentro si hacemos un "sudo -l" vemos que podemos escalar por "env"
+
+![image](https://github.com/user-attachments/assets/bd7d442b-bb52-466c-b636-4a6d759de53d)
+
 la buscamos: https://gtfobins.github.io/gtfobins/env/
 
 como se que hay otros usuarios pobre y funciono el escalado con daphne:
