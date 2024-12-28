@@ -8,7 +8,8 @@ dentro de la pagina podemos ver que nos da un mensaje al abrir el ascensor:
 
 ![image](https://github.com/user-attachments/assets/43924d93-9367-4f22-9921-583d71be6e11)
 
-![[dockerlabs/facil/elevador/pagina principal 2.png]]
+![image](https://github.com/user-attachments/assets/7e847733-9588-4015-94c3-874fb076e3e1)
+
 al hacer una ataque de fuerza bruta a los directorios  nos mostrara un "themes",
 
       gobuster dir -u http://172.17.0.2/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 20 -x php,html,txt -k
