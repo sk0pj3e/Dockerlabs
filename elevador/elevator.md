@@ -33,7 +33,8 @@ si ingresamos al primero o sea al uploads nos mandara a una subida de archivos
 
 
 como también me dio: archivo.html nos vamos ahí y vemos que podemos subir archivos pero solo archivos JPG
-![[pagina principal3.png]]
+
+![image](https://github.com/user-attachments/assets/48ab9e59-7a3a-4580-a1df-2d9ba76fd769)
 
 
 como solo deja subir archivos "jpg" modificamos un archivo 
