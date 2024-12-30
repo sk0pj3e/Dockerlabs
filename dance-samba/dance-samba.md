@@ -28,7 +28,8 @@ así que la buscamos:
 >la contraseña: donald
 
 dentro veremos un user.txt pero solo tiene la flag
-![[flag.png]]
+
+![image](https://github.com/user-attachments/assets/5c4077fb-161c-474a-9856-ec1b24f3e608)
 
 ahora seguimos estos pasos:
 * creamos una carpeta ".ssh" en el smb, y creamos una clave en nuestra terminal
