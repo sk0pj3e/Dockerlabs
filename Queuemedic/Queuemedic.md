@@ -80,7 +80,8 @@ creamos:
 > nano filter.py / pegamos el código guardamos
 
 
-![[dockerlabs/dificil/queuemedic/codigo1.png]]
+![image](https://github.com/user-attachments/assets/8c00970d-f30f-4413-8051-73320aed657d)
+
 
 > ahora python3 filter.py
 
