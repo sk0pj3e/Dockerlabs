@@ -33,7 +33,9 @@ dentro veremos un user.txt pero solo tiene la flag
 
 ahora seguimos estos pasos:
 * creamos una carpeta ".ssh" en el smb, y creamos una clave en nuestra terminal
-![[dockerlabs/medio/dance-samba/ssh.png]]
+  
+![image](https://github.com/user-attachments/assets/6923efc8-5fe8-406a-b9f2-d3d2f9f0cc7c)
+
 a la: id_rsa.pub le cambiamos el nombre: 
 
      mv id_rsa.pub authorized_keys
