@@ -5,7 +5,9 @@ nmap: 21,22,139,445
 ---
 en el puerto 21 entramos con la credencial por defecto "anonymous" y sin contraseña, nos pasamos el "nota.txt" que hay con un "get nota.txt"
 la leemos en nuestra terminal y dice: 
-![[dockerlabs/medio/dance-samba/nota.png]]
+
+![image](https://github.com/user-attachments/assets/85125c7a-8a6e-4eb0-a760-0e87c374e183)
+
 ![[cat.png]]
 
 probamos si el usuario macarena  y donald sirve para el ssh:
