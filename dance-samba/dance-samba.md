@@ -60,7 +60,8 @@ utilizamos: https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')&inp
 
 buscamos "magic" y ejecutamos y nos da la contraseña: supersecurepassword
 ahora al usuario mismo de macarena le colocamos la contraseña y podemos ver el contenido de sudo -l
-![[clave1.png]]
+
+![image](https://github.com/user-attachments/assets/7f584194-a6e8-497c-9f7e-86e7c783f585)
 
 ahora sudo -l y como vemos dio /usr/bin/file
 
