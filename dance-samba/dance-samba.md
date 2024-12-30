@@ -51,7 +51,8 @@ y ahora nos conectamos con macarena y el ssh
 y tenemos la conexión. 
 
 dentro hay un usuario "secret" entramos y hay un "hash" lo leemos y tiene una contraseña en base32, 
-![[hash.png]]
+
+![image](https://github.com/user-attachments/assets/3a195503-6ef1-415a-9d72-8049fe72ef85)
 
 utilizamos: https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')&input=TU1aVk01MjJMQkZIVVdTWEpZWVdHM0tXTzVNVlFUVDJNUVpEUzZLMklFNlQyPT09
 
