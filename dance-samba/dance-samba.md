@@ -46,7 +46,8 @@ ahora la pasamos a la smb:
 
 y ahora nos conectamos con macarena y el ssh
 
-![[dockerlabs/medio/dance-samba/conexion.png]]
+![image](https://github.com/user-attachments/assets/691187de-1ab0-4334-9399-8fa71eece227)
+
 y tenemos la conexión. 
 
 dentro hay un usuario "secret" entramos y hay un "hash" lo leemos y tiene una contraseña en base32, 
