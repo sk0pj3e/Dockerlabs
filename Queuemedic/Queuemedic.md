@@ -109,7 +109,8 @@ y estamos dentro, buscando no encontré mucho y probé con las mismas credencial
 ahora al hacer sudo -l aparece:  (root) NOPASSWD: sudoedit /var/www/html/*
 
 para escalar encontré: 
-![[sudoedit.png]]
+
+![image](https://github.com/user-attachments/assets/41ea38c9-04e3-402f-845e-c2c726bc7df0)
 
 o sea que puedo modificar el archivo, encontré este comando para poder dar el permiso de modificar por decir asi:
 
