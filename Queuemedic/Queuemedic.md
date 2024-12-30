@@ -1,5 +1,6 @@
 nmap:  80
-![[dockerlabs/dificil/queuemedic/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/2efcdff6-8aab-4844-9d4b-9df84354303e)
 
 ---
 vamos a la pagina principal y hay un login 
