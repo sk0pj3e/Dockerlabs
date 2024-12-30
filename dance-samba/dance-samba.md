@@ -1,5 +1,6 @@
 nmap: 21,22,139,445
-![[dockerlabs/medio/dance-samba/nmap.png]]
+
+![image](https://github.com/user-attachments/assets/8a92508a-6613-4fc4-86bd-79b8cc649807)
 
 ---
 en el puerto 21 entramos con la credencial por defecto "anonymous" y sin contraseña, nos pasamos el "nota.txt" que hay con un "get nota.txt"
