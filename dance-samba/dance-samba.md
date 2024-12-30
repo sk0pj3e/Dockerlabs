@@ -66,7 +66,8 @@ ahora al usuario mismo de macarena le colocamos la contraseña y podemos ver el 
 ahora sudo -l y como vemos dio /usr/bin/file
 
 buscamos como escalar en: https://gtfobins.github.io/gtfobins/file/
-![[gtf.png]]
+
+![image](https://github.com/user-attachments/assets/024d8dd2-fa59-41de-a3a9-d6136095afc6)
 
 ejecutamos los pasos que dice: LFILE=/opt/password.txt
 o sea que ejecutamos los indicadores que da sudo -l, luego -f y por ultimo el archivo que contenga la contraseña de root o solo pueda ejecutar root.
