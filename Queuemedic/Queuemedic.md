@@ -4,8 +4,8 @@ nmap:  80
 
 ---
 vamos a la pagina principal y hay un login 
-![[dockerlabs/dificil/queuemedic/login.png]]
 
+![image](https://github.com/user-attachments/assets/ceb080c3-198f-466f-aeb2-f36ca68675c2)
 
 hacemos un gobuster y nos da algunos que son llamativos
 ![[dockerlabs/dificil/queuemedic/gobuster.png]]
