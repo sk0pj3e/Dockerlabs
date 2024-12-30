@@ -22,7 +22,8 @@ al /backup nos descargamos el zip y lo descomprimimos. nos da:
 ahora entramos a una carpeta que nos dio llamada /db/ y nos da un txt que dentro hay un nombre o dos junto a una posible contraseña.
 > castrojessica
 
-![[clave.png]]
+![image](https://github.com/user-attachments/assets/feec5145-33e9-4e84-93c6-54fc19abe3f1)
+
 
 utilizamos esta herramienta https://github.com/urbanadventurer/username-anarchy
 para que nos genere contraseñas basadas en los nombres encontrados
