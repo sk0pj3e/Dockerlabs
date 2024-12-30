@@ -8,7 +8,8 @@ vamos a la pagina principal y hay un login
 ![image](https://github.com/user-attachments/assets/ceb080c3-198f-466f-aeb2-f36ca68675c2)
 
 hacemos un gobuster y nos da algunos que son llamativos
-![[dockerlabs/dificil/queuemedic/gobuster.png]]
+
+![image](https://github.com/user-attachments/assets/6db3b8c6-b51c-4cfd-b77c-1d350db89b1f)
 
 aquí http://172.17.0.2/patients.php nos da una pagina con un calendario básico
 ![[calendario.png]]
