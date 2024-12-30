@@ -103,7 +103,8 @@ dejamos la terminal en escucha y lanzamos
 ![image](https://github.com/user-attachments/assets/30de1100-7353-4a00-8bad-3bf59efb6db9)
 
 y estamos dentro, buscando no encontré mucho y probé con las mismas credenciales ya que no hay otro usuario aparte de jessica y root:  jessica / j.castro
-![[jessica.png]]
+
+![image](https://github.com/user-attachments/assets/f91d2c15-86ad-4e95-b985-2b3caf3a07be)
 
 ahora al hacer sudo -l aparece:  (root) NOPASSWD: sudoedit /var/www/html/*
 
