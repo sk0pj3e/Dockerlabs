@@ -8,7 +8,8 @@ la leemos en nuestra terminal y dice:
 
 ![image](https://github.com/user-attachments/assets/85125c7a-8a6e-4eb0-a760-0e87c374e183)
 
-![[cat.png]]
+![image](https://github.com/user-attachments/assets/86766d53-0e15-4cbe-b698-c6575e4a5d86)
+
 
 probamos si el usuario macarena  y donald sirve para el ssh:
 
