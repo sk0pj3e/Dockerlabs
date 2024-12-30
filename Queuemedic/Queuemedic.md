@@ -124,7 +124,8 @@ le quitamos la x a root
 
 ![image](https://github.com/user-attachments/assets/bc9961fd-a47b-4faa-98fb-b4f32dcec2af)
 
-![[pasos1.png]]
+![image](https://github.com/user-attachments/assets/df39af77-bdae-4163-b5e1-30263aa60ac9)
+
 colocamos su root y somos root!
 ![[suroot.png]]
 muchas gracias! 
