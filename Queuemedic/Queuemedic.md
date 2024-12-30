@@ -55,7 +55,8 @@ pasamos la contraseña un hash
  y nos da la contraseña: 
  > j.castro
  
- ![[crack.jpg]]
+![image](https://github.com/user-attachments/assets/baf96a99-91d2-4ac7-bdae-66322e792093)
+
  
 ahora vamos al login.php e ingresamos las credenciales:
 > jessica / j.castro
