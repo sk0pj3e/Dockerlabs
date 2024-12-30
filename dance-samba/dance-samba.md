@@ -18,7 +18,8 @@ probamos si el usuario macarena  y donald sirve para el ssh:
 
 pero no hay éxito.
 pero hay una carpeta llamada "macarena"
-![[maca.png]]
+
+![image](https://github.com/user-attachments/assets/72438aba-5e40-4b1e-b096-2bcc53dbd58c)
 
 así que la buscamos:
 
