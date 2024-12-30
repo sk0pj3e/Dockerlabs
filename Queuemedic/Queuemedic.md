@@ -38,7 +38,8 @@ ahora hacemos:
     ./username-anarchy -i username > users
 
 y nos dará: 
-![[username.png]]
+
+![image](https://github.com/user-attachments/assets/f63b8c97-7470-4e27-87af-f8f4135137af)
 
 también podemos ver que en el archivo "clinic_queuing_db.db " sale al contraseña 
 y podemos hacerlo mas fácil  
