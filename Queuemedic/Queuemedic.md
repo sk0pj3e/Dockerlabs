@@ -16,7 +16,8 @@ aquí http://172.17.0.2/patients.php nos da una pagina con un calendario básico
 ![image](https://github.com/user-attachments/assets/008ad910-5b3d-4d83-ad24-c07126d5aaf7)
 
 al /backup nos descargamos el zip y lo descomprimimos. nos da:
-![[backup.png]]
+
+![image](https://github.com/user-attachments/assets/2f6d5bbe-ee79-48d9-869b-f85a7a42c6fe)
 
 ahora entramos a una carpeta que nos dio llamada /db/ y nos da un txt que dentro hay un nombre o dos junto a una posible contraseña.
 > castrojessica
