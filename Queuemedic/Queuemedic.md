@@ -62,7 +62,8 @@ ahora vamos al login.php e ingresamos las credenciales:
 > jessica / j.castro
 
 y estamos dentro del panel
-![[dockerlabs/dificil/queuemedic/panel1.png]]
+
+![image](https://github.com/user-attachments/assets/85c0234e-5902-4120-a4b1-8bac02376020)
 
 tomamos el nombre principal de la pagina que dice:  # Clinic Queuing System
 
