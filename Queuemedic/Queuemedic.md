@@ -12,7 +12,8 @@ hacemos un gobuster y nos da algunos que son llamativos
 ![image](https://github.com/user-attachments/assets/6db3b8c6-b51c-4cfd-b77c-1d350db89b1f)
 
 aquí http://172.17.0.2/patients.php nos da una pagina con un calendario básico
-![[calendario.png]]
+
+![image](https://github.com/user-attachments/assets/008ad910-5b3d-4d83-ad24-c07126d5aaf7)
 
 al /backup nos descargamos el zip y lo descomprimimos. nos da:
 ![[backup.png]]
