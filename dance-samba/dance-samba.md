@@ -83,6 +83,6 @@ ahora ejecutaremos este comando:
 
 y nos dará esto
 
-![[dockerlabs/medio/dance-samba/root.png]]
+![image](https://github.com/user-attachments/assets/2986a1ca-efd5-40ba-8f60-8fe72397b927)
 
 al hacer "su root" y colocar la contraseña que nos muestra en el cuadro rojo y seremos root!
