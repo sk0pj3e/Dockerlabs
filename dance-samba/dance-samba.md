@@ -56,7 +56,7 @@ dentro hay un usuario "secret" entramos y hay un "hash" lo leemos y tiene una co
 
 utilizamos: https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')&input=TU1aVk01MjJMQkZIVVdTWEpZWVdHM0tXTzVNVlFUVDJNUVpEUzZLMklFNlQyPT09
 
-![[base32.png]]
+![image](https://github.com/user-attachments/assets/ea7bc69f-d391-4946-a072-220a051b24f4)
 
 buscamos "magic" y ejecutamos y nos da la contraseña: supersecurepassword
 ahora al usuario mismo de macarena le colocamos la contraseña y podemos ver el contenido de sudo -l
