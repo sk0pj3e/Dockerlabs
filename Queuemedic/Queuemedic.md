@@ -69,7 +69,8 @@ tomamos el nombre principal de la pagina que dice:  # Clinic Queuing System
 
 buscamos un exploit y encontramos: https://www.exploit-db.com/exploits/52008
 que vemos que podemos filtrar por php:  py filter_chain 
-![[filtro.png]]
+
+![image](https://github.com/user-attachments/assets/449a178d-5102-40ea-b9a4-132c9bff8eb9)
 
 buscamos un exploit en github: https://github.com/synacktiv/php_filter_chain_generator/blob/main/php_filter_chain_generator.py
 
