@@ -32,7 +32,7 @@ ahora mas especifico:
 
 nos da después de un rato una tabla con usuarios y contraseñas posibles:
 
-![[tabla.png]]
+![image](https://github.com/user-attachments/assets/763169fd-80d6-447c-be57-2bdafc6f3932)
 
 creamos en nuestra terminal un txt de pass y user. 
 luego un hydra para que pruebe combinaciones: 
