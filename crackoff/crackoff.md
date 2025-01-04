@@ -109,7 +109,8 @@ y nos dio
 
 
 ingresamos a mager app
-![[panel2.png]]
+
+![image](https://github.com/user-attachments/assets/a08c51e3-d37c-4724-b19f-e32878b0b8ce)
 
 creamos un archivo malicioso: 
 
