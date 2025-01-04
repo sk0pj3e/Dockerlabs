@@ -40,7 +40,8 @@ luego un hydra para que pruebe combinaciones:
     hydra -L user.txt -P pass.txt ssh://172.17.0.2 -vV
 
 nos dio: 
-![[contraseña.png]]
+
+![image](https://github.com/user-attachments/assets/e52d80f1-af2d-4400-aa76-828e83f0f9d8)
 
 entramos por el ssh
 ![[dockerlabs/dificil/crackoff/ssh.png]]
