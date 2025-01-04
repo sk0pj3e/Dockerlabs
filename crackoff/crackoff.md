@@ -44,7 +44,8 @@ nos dio:
 ![image](https://github.com/user-attachments/assets/e52d80f1-af2d-4400-aa76-828e83f0f9d8)
 
 entramos por el ssh
-![[dockerlabs/dificil/crackoff/ssh.png]]
+
+![image](https://github.com/user-attachments/assets/f7c0fa87-a2b7-41cd-a94f-e3c665e96fac)
 
 y vemos que hay tres usuarios: Alice, Mario y rosa que somos nosotros.
 
