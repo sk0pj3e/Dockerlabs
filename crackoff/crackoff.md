@@ -129,7 +129,8 @@ ahora colocamos el terminal en escucha y nos conectamos
 ![image](https://github.com/user-attachments/assets/7d717caa-6b8f-4e36-bc13-f1d2bf9f5525)
 
 luego de conectarme buscamos como llegar a root:
-![[catalina.png]]
+
+![image](https://github.com/user-attachments/assets/a5c2ada3-0d35-40ca-b1ca-5d58598a3596)
 
 escalamos privilegios con sh:
 
