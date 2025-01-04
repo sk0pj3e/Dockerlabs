@@ -84,7 +84,7 @@ y en la maquina víctima:
 ![image](https://github.com/user-attachments/assets/3951ac97-1b21-4dcd-b412-72d98c1db16e)
 
 entonces entramos al puerto 8080 por el 443:
-http://127.0.0.1:443/
+http://127.0.0.1:1234/
 
 ![image](https://github.com/user-attachments/assets/ad125df8-1b3c-4920-9000-60a0dce2a4c8)
 
