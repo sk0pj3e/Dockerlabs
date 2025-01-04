@@ -6,7 +6,8 @@ nmap: 22,80
 
 entramos a la pagina principal
 
-![[dockerlabs/dificil/crackoff/pagina principal.png]]
+![image](https://github.com/user-attachments/assets/5b370534-bdd8-4936-8f3f-2f41dd4890cf)
+
 
 En el login de la pagina
 
