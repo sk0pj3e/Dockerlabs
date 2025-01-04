@@ -125,7 +125,8 @@ cargamos y a parecerá en la parte principal de la pagina como "rev"
 ![image](https://github.com/user-attachments/assets/6fa74400-6985-45c9-acfc-63e741031fdf)
 
 ahora colocamos el terminal en escucha y nos conectamos
-![[dockerlabs/dificil/crackoff/conexion2.png]]
+
+![image](https://github.com/user-attachments/assets/7d717caa-6b8f-4e36-bc13-f1d2bf9f5525)
 
 luego de conectarme buscamos como llegar a root:
 ![[catalina.png]]
