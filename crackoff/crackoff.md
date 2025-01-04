@@ -23,7 +23,8 @@ probamos con la base de datos
 
     sqlpmap --url http://172.17.0.2/login.php --forms --batch --dbs
 
-![[sql1.png]]
+![image](https://github.com/user-attachments/assets/5135f540-3545-4ba5-9d04-2dd87713d821)
+
 
 ahora mas especifico:
 
