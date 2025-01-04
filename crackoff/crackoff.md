@@ -62,7 +62,8 @@ buscando probé con el comando
      netstat -an
 
 y me dio esto que me llamo la atención
-![[8080.png]]
+
+![image](https://github.com/user-attachments/assets/78ebbd5b-efa2-49a3-84c4-9d4d57fd3244)
 
 descargamos chisel: https://github.com/jpillora/chisel/releases/tag/v1.10.0
 
