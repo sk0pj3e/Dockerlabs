@@ -11,7 +11,8 @@ entramos a la pagina principal
 
 En el login de la pagina
 
-![[dockerlabs/dificil/crackoff/login.png]]
+![image](https://github.com/user-attachments/assets/08eeadc6-b8c7-451d-8990-0d9e60ec74bf)
+
 
 probamos un sql básico " 'or 1=1-- -" y nos da acceso al panel de control, o sea es vulnerable a un RCE o LFI.  y buscando que mas hacer par obtener algún usuario o algo, encontré que podemos ver la base de datos por esto:
 
