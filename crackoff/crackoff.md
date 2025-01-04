@@ -144,4 +144,4 @@ si vemos los permisos bash veremos que cambiaron:
 
 ![image](https://github.com/user-attachments/assets/72f11ffe-d1bd-4a6d-88ae-73ff5bce0be9)
 
-y al hace el bash -p seremos root!
+y al hacer el bash -p seremos root!
