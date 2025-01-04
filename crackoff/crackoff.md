@@ -85,7 +85,8 @@ y en la maquina víctima:
 
 entonces entramos al puerto 8080 por el 443:
 http://127.0.0.1:443/
-![[tomcat.png]]
+
+![image](https://github.com/user-attachments/assets/ad125df8-1b3c-4920-9000-60a0dce2a4c8)
 
 ahora empezamos a escalar hacia los otros usuarios a través de "manager app" de la pagina tomcat.
 
