@@ -53,7 +53,7 @@ escalamos: encontré esta nota
 
 ![image](https://github.com/user-attachments/assets/d19e416a-dacb-41fd-a87b-8d763cce1240)
 
-![[nota2.png]]
+![image](https://github.com/user-attachments/assets/f8951e5a-d763-411d-834c-04e1c4690a46)
 
 el contenido de la nota: flowerpower
 probé si era la contraseña pero no es
