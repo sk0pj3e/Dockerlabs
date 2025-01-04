@@ -50,8 +50,11 @@ entramos por el ssh
 y vemos que hay tres usuarios: Alice, Mario y rosa que somos nosotros.
 
 escalamos: encontré esta nota  
-![[dockerlabs/dificil/crackoff/nota.png]]
+
+![image](https://github.com/user-attachments/assets/d19e416a-dacb-41fd-a87b-8d763cce1240)
+
 ![[nota2.png]]
+
 el contenido de la nota: flowerpower
 probé si era la contraseña pero no es
 buscando probé con el comando 
