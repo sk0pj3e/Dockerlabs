@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/dificil/crackoff/nmap.png]]
+![image](https://github.com/user-attachments/assets/c7952ccc-1a71-4e0f-8171-57b0b65eff9f)
 
 ---
 
