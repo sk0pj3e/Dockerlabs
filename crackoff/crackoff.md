@@ -81,7 +81,7 @@ y en la maquina víctima:
 
     ./chisel client 172.17.0.1:1234 R:443:127.0.0.1:8080
 
-![[dockerlabs/dificil/crackoff/conexion1.png]]
+![image](https://github.com/user-attachments/assets/3951ac97-1b21-4dcd-b412-72d98c1db16e)
 
 entonces entramos al puerto 8080 por el 443:
 http://127.0.0.1:443/
