@@ -121,7 +121,8 @@ lo subimos en el apartado de "WAR"
 ![image](https://github.com/user-attachments/assets/1b98e90d-1784-408a-8e54-70d09ee51e97)
 
 cargamos y a parecerá en la parte principal de la pagina como "rev"
-![[rev.png]]
+
+![image](https://github.com/user-attachments/assets/6fa74400-6985-45c9-acfc-63e741031fdf)
 
 ahora colocamos el terminal en escucha y nos conectamos
 ![[dockerlabs/dificil/crackoff/conexion2.png]]
