@@ -55,8 +55,8 @@ escalamos: encontré esta nota
 
 ![image](https://github.com/user-attachments/assets/f8951e5a-d763-411d-834c-04e1c4690a46)
 
-el contenido de la nota: flowerpower
-probé si era la contraseña pero no es
+el contenido de la nota: flowerpower.
+probé si era la contraseña pero no es y
 buscando probé con el comando 
 
      netstat -an
