@@ -60,7 +60,7 @@ y vemos que nos da la contraseña de dark
 
 ahora hacer el sudo -l podemos ver un script y vemos que podemos ejecutar:
 
-![[dockerlabs/dificil/darkweb/script.png]]
+![image](https://github.com/user-attachments/assets/8fa1a0f5-d28f-4825-8211-e2414b90c8ff)
 
 si lo ejecutamos vemos que aparece: "script ejecutado con éxito" y lo podemos ejecutar porque en el código aparece: /usr/local/bin/update.sh
 y si vemos podemos ver que nosotros tenemos los permisos
