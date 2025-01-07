@@ -27,7 +27,7 @@ encontré un código para descifrar ROT5
 
 lo ejecutamos y colocamos lo que queremos descifrar. 
 
-![[ejecucion.png]]
+![image](https://github.com/user-attachments/assets/3f7275bc-0adc-422b-ad72-846ed484037c)
 
 nos dio:
 > no le compartas esta pagina a nadie, solo quiero que lo veas tu, ya que esto me puede meter el problemas: l2fhivsrcbyt2nu5rilmvmqmhpzhugai5szrmyrsyboykzvsokfd6did.onion
