@@ -52,7 +52,7 @@ ahora creamos con eso una password list
 
 y hacemos una fuerza bruta con el usuario dark que encontramos en enum
 
-![[dockerlabs/dificil/darkweb/hydra.png]]
+![image](https://github.com/user-attachments/assets/2010f55f-bfd6-48e4-a481-8811535d0461)
 
 y vemos que nos da la contraseña de dark
 
