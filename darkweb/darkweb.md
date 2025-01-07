@@ -70,7 +70,7 @@ nos vamos a la ruta "/usr/local/bin"
 borramos el .sh y creamos otro
 y dentro colocamos este comando
 
-![[nano2.png]]
+![image](https://github.com/user-attachments/assets/85f151d9-bee0-4a2d-b461-4826fb63bdc9)
 
 y ahora ejecutamos 
 
