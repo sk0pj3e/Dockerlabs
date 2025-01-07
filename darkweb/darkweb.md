@@ -78,6 +78,6 @@ y ahora ejecutamos
 
 tenemos los permisos, ahora ejecutamos un bash -p
 
-![[rootf.png]]
+![image](https://github.com/user-attachments/assets/0596fc89-5c1b-449c-b89a-c0a0a98e4e33)
 
  somos root!
