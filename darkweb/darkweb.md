@@ -18,7 +18,7 @@ usamos el comando smb que mostro en nmap
 
       smbclient //172.17.0.2/darkshare -N
 
-![[get.png]]
+![image](https://github.com/user-attachments/assets/95cfd42d-5f2a-404c-9a20-2e26d1374e7f)
 
 después de ver todos los txt el único importante es el "ilegal.txt"
 encontré un código para descifrar ROT5 
