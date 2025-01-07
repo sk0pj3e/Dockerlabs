@@ -23,7 +23,7 @@ usamos el comando smb que mostro en nmap
 después de ver todos los txt el único importante es el "ilegal.txt"
 encontré un código para descifrar ROT5 
 
-![[dockerlabs/dificil/darkweb/codigo1.png]]
+![image](https://github.com/user-attachments/assets/94da370d-b6f5-4cfc-b5a9-a6ffd2f392c7)
 
 lo ejecutamos y colocamos lo que queremos descifrar. 
 
