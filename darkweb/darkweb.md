@@ -40,7 +40,7 @@ la única que funciona: access the darkest web
 
 entramos después  
 
-![[list.png]]
+![image](https://github.com/user-attachments/assets/87467713-60e1-4dfa-8d87-c01843c3be05)
 
 y da:
 
