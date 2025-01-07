@@ -1,6 +1,6 @@
 nmap: 22,139,445 
 
-![[dockerlabs/dificil/darkweb/nmap.png]]
+![image](https://github.com/user-attachments/assets/8de1d2d8-358c-4b12-9c59-13c26a6693da)
 
 no tenemos pagina ni nada, probamos enumerando: 
 
