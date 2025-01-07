@@ -12,7 +12,7 @@ encontramos cosas importantes
 
 y un usuario
 
-![[dockerlabs/dificil/darkweb/usuario1.png]]
+![image](https://github.com/user-attachments/assets/17b3866b-e075-4f2b-b042-9923c287427f)
 
 usamos el comando smb que mostro en nmap
 
