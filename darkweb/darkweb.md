@@ -34,7 +34,7 @@ nos dio:
 
 lo primero que veo es que es un .onion lo que funciona solo en tor o brave con tor
 
-![[paginaprincipal.png]]
+![image](https://github.com/user-attachments/assets/4e00eaa8-3b3d-49e3-bf40-9c9cd9c16481)
 
 la única que funciona: access the darkest web
 
