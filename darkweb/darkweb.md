@@ -48,7 +48,7 @@ y da:
 
 ahora creamos con eso una password list
 
-![[nano.png]]
+![image](https://github.com/user-attachments/assets/866a9772-99b3-4c7e-96ce-4c13356ea729)
 
 y hacemos una fuerza bruta con el usuario dark que encontramos en enum
 
