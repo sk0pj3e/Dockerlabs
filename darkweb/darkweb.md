@@ -44,7 +44,7 @@ entramos después
 
 y da:
 
-![[pass.png]]
+![image](https://github.com/user-attachments/assets/d5c77a77-b2c1-417d-85fd-082e4f9d1318)
 
 ahora creamos con eso una password list
 
