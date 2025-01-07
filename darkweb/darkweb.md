@@ -8,7 +8,7 @@ no tenemos pagina ni nada, probamos enumerando:
 
 encontramos cosas importantes
 
-![[enu1.png]]
+![image](https://github.com/user-attachments/assets/75b5009c-14fb-4fe4-97c5-ec42e818863d)
 
 y un usuario
 
