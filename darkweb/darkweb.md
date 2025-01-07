@@ -74,7 +74,7 @@ y dentro colocamos este comando
 
 y ahora ejecutamos 
 
-![[bin2.png]]
+![image](https://github.com/user-attachments/assets/0cc47d60-255a-425b-8d75-1fba205009f1)
 
 tenemos los permisos, ahora ejecutamos un bash -p
 
