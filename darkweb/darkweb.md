@@ -56,7 +56,7 @@ y hacemos una fuerza bruta con el usuario dark que encontramos en enum
 
 y vemos que nos da la contraseña de dark
 
-![[dockerlabs/dificil/darkweb/conexion.png]]
+![image](https://github.com/user-attachments/assets/10a98880-b8bc-4961-bc2c-c4eb439b22e7)
 
 ahora hacer el sudo -l podemos ver un script y vemos que podemos ejecutar:
 
