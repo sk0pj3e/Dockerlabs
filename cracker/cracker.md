@@ -54,8 +54,7 @@ y nos da una contraseña
 
 entramos con la contraseña por el ssh
 
-
-![[dockerlabs/medio/cracker/conexion2.png]]
+![image](https://github.com/user-attachments/assets/6279d19f-99f6-40dc-b24d-a023cffd544c)
 
 luego de buscar mucho, probé el binario  como contraseña de root y funciono
 
