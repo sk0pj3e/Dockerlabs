@@ -24,7 +24,7 @@ nos dio:
 
 si descargamos me interesa una linea:
 
-![[file.png]]
+![image](https://github.com/user-attachments/assets/0390375a-f62d-4ee2-bc81-27373055b2fa)
 
 es un ejecutable lo que es un software, así que le damos permisos y ejecutamos
 
