@@ -20,8 +20,7 @@ nos dio:
 
 ![image](https://github.com/user-attachments/assets/bdacec94-0d7f-4c53-9865-c3d6e559eed1)
 
-
-![[japan.png]]
+![image](https://github.com/user-attachments/assets/865ce8e2-e7d4-4e01-bdca-4de84368367b)
 
 si descargamos me interesa una linea:
 
