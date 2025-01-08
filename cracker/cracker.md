@@ -38,7 +38,7 @@ vamos a intentar primero descomponiendo
 
 y da algo interesante 
 
-![[serial.png]]
+![image](https://github.com/user-attachments/assets/e94ae06a-311a-49bf-ac36-ee0a9a9248d5)
 
 la guardamos como nano
 
