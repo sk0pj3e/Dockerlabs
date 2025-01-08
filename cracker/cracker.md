@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/medio/cracker/nmap.png]]
+![image](https://github.com/user-attachments/assets/d1cc6252-cf61-4d24-a732-3abe3ca0efd3)
 
 en la pagina al final abajo hay un "cracker.dl"  que lo agregamos al /etc/hosts
 
