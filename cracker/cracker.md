@@ -42,7 +42,7 @@ y da algo interesante
 
 la guardamos como nano
 
-![[dockerlabs/medio/cracker/nano.png]]
+![image](https://github.com/user-attachments/assets/ecd14b19-f954-4c10-bfb5-75d49f0cd723)
 
 y logramos
 
