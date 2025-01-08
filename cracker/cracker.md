@@ -50,7 +50,7 @@ y logramos
 
 y nos da una contraseña
 
-![[dockerlabs/medio/cracker/contraseña.png]]
+![image](https://github.com/user-attachments/assets/f5c0b52d-19eb-4e56-aa53-421004ea64fd)
 
 entramos con la contraseña por el ssh
 
