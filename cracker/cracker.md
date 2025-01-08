@@ -46,7 +46,7 @@ la guardamos como nano
 
 y logramos
 
-![[admin.png]]
+![image](https://github.com/user-attachments/assets/6d58798e-ad7b-45be-991a-ceec83117265)
 
 y nos da una contraseña
 
