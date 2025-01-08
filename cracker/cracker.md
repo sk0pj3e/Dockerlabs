@@ -4,8 +4,7 @@ nmap: 22,80
 
 en la pagina al final abajo hay un "cracker.dl"  que lo agregamos al /etc/hosts
 
-![[dl.png]]
-
+![image](https://github.com/user-attachments/assets/153943c0-e94f-44ba-a48b-3c04591585cd)
 
 ahora ingresamos
 
