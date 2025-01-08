@@ -28,7 +28,7 @@ si descargamos me interesa una linea:
 
 es un ejecutable lo que es un software, así que le damos permisos y ejecutamos
 
-![[ejecutable.png]]
+![image](https://github.com/user-attachments/assets/18240e38-dfb7-4f66-a37f-797cbfc04960)
 
 hay dos opciones que funcionan seria ghidra o descompone el software en busca de alguna credencial que no este guardada de forma correcta.
 
