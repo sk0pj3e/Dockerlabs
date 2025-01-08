@@ -58,6 +58,6 @@ entramos con la contraseña por el ssh
 
 luego de buscar mucho, probé el binario  como contraseña de root y funciono
 
-![[dockerlabs/medio/cracker/root.png]]
+![image](https://github.com/user-attachments/assets/f8722e4f-79e5-4a49-97aa-88935c16a346)
 
 somos root
