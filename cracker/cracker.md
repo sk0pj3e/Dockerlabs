@@ -8,9 +8,7 @@ en la pagina al final abajo hay un "cracker.dl"  que lo agregamos al /etc/hosts
 
 ahora ingresamos
 
-![[cracker.png]]
-
-
+![image](https://github.com/user-attachments/assets/9a79dfd6-f078-45ec-bb28-174ad044f28e)
 
 no hay nada bueno
 
