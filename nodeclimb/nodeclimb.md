@@ -44,6 +44,6 @@ y ejecutamos el script
 
      sudo /usr/bin/node /home/mario/script.js
 
-![[dockerlabs/facil/nodeclimb/root.png]]
+![image](https://github.com/user-attachments/assets/7d297060-b800-40f4-96ee-e1c6898eead9)
 
 y somos root!
