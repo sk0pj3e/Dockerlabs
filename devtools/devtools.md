@@ -4,7 +4,7 @@ nmap: 22,80
 
 entramos al puerto 80
 
-![[dockerlabs/medio/devtools/paginaprincipal.png]]
+![image](https://github.com/user-attachments/assets/8c83f0ba-3079-487e-b448-ec8f37ff43ea)
 
 si no tenemos entramos a esta pagina:
 
