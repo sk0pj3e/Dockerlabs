@@ -12,7 +12,7 @@ y nos pide contraseña
 
 ahora sacamos la contraseña con el comando
 
-     zip2john secretitopicaron.zip
+     zip2john secretitopicaron.zip > hash_zip
 
 después 
 
