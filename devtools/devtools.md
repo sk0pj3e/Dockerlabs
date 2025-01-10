@@ -24,7 +24,7 @@ vemos que da un usuario y contraseña en la primera linea así que intentamos in
 
 y ahora la consola aparece así
 
-![[consola.png]]
+![image](https://github.com/user-attachments/assets/783449d9-f338-4c6f-bb97-8da5038ead2f)
 
 no encontré nada mas, solo que podemos ejecutar comandos en la consola pero nada útil realmente. así que pobre hacer una fuerza bruta a "baluleroh" 
 
