@@ -40,7 +40,7 @@ como ya ingresamos por la consola ahora probamos por el ssh y tenemos exito
 
 al hacer sudo -l da dos: ping y xxd. de ping no encontré pero de xxd encontre en https://gtfobins.github.io/gtfobins/xxd/#sudo 
 
-![[sudo.png]]
+![image](https://github.com/user-attachments/assets/48db3966-35bf-4ee2-9df4-2c6e4e7890a8)
 
 buscando como tirar ese comando encontré este comando para borrar la "x" de "/etc/passwd" y así pasar a root sin contraseña
 
