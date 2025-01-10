@@ -36,7 +36,7 @@ y me dio
 
 como ya ingresamos por la consola ahora probamos por el ssh y tenemos exito
 
-![[dockerlabs/medio/devtools/conexion.png]]
+![image](https://github.com/user-attachments/assets/04cb4936-b9f9-4e40-868b-e22dda8e6996)
 
 al hacer sudo -l da dos: ping y xxd. de ping no encontré pero de xxd encontre en https://gtfobins.github.io/gtfobins/xxd/#sudo 
 
