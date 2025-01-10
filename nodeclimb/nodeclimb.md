@@ -25,7 +25,7 @@ y da
 
 ahora sacamos el zip
 
-![[password.png]]
+![image](https://github.com/user-attachments/assets/8dc71c63-1151-4a0a-94bb-e6827c905bbe)
 
 y obtenemos la contraseña y usuario, entramos por el ssh, ahora entramos
 
