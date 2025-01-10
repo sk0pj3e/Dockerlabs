@@ -21,7 +21,7 @@ después
 
 y da
 
-![[jhon1.png]]
+![image](https://github.com/user-attachments/assets/f6956b23-3ba5-4d7d-9cb8-14159b066c1f)
 
 ahora sacamos el zip
 
