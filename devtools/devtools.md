@@ -16,7 +16,7 @@ buscando vi que en la pagina da como paso a paso pero me da:
 
 entramos a esa pagina
 
-![[back.png]]
+![image](https://github.com/user-attachments/assets/c62698a4-609f-436c-b502-d382473cfe74)
 
 vemos que da un usuario y contraseña en la primera linea así que intentamos ingresar en el primer recuadro, si probamos "chocolate:chocolate" vemos que tenemos exito
 
