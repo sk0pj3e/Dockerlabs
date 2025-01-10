@@ -1,6 +1,6 @@
 nmap: 21,22
 
-![[dockerlabs/facil/nodeclimb/nmap.png]]
+![image](https://github.com/user-attachments/assets/f278b033-4ada-4db4-bd22-f1b64aea118c)
 
 vamos al ftp y nos pasamos el zip
 
