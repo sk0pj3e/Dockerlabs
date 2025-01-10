@@ -8,7 +8,7 @@ vamos al ftp y nos pasamos el zip
 
 y nos pide contraseña
 
-![[zip2.png]]
+![image](https://github.com/user-attachments/assets/6b7ccde2-388d-42a7-9702-95da8b0c5a48)
 
 ahora sacamos la contraseña con el comando
 
