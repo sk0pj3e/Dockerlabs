@@ -33,7 +33,7 @@ y obtenemos la contraseña y usuario, entramos por el ssh, ahora entramos
 
 al hacer sudo -l podemos ver que hay un archivo script.js pero no tiene nada dentro, pero igual esta el node
 
-![[dockerlabs/facil/nodeclimb/script.png]]
+![image](https://github.com/user-attachments/assets/e6168389-fe56-423e-8d57-2c4f6d3da405)
 
 buscamos el node: https://gtfobins.github.io/gtfobins/node/
 dentro del script.js que esta vacío colocamos este comando
