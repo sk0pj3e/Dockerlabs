@@ -12,7 +12,7 @@ si no tenemos entramos a esta pagina:
 
 buscando vi que en la pagina da como paso a paso pero me da: 
 
-![[inpe.png]]
+![image](https://github.com/user-attachments/assets/7c8eb49a-2e3e-402a-b2b2-d4e30f3faba4)
 
 entramos a esa pagina
 
