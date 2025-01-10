@@ -32,7 +32,7 @@ no encontré nada mas, solo que podemos ejecutar comandos en la consola pero nad
 
 y me dio
 
-![[dockerlabs/medio/devtools/hydra.png]]
+![image](https://github.com/user-attachments/assets/0952207a-3e56-45f8-81cd-b78424d74017)
 
 como ya ingresamos por la consola ahora probamos por el ssh y tenemos exito
 
