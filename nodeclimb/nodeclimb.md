@@ -4,7 +4,7 @@ nmap: 21,22
 
 vamos al ftp y nos pasamos el zip
 
-![[zip.png]]
+![image](https://github.com/user-attachments/assets/e7fd669e-f52c-4af9-be43-554efac6afdb)
 
 y nos pide contraseña
 
