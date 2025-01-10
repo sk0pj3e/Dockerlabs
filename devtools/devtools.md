@@ -20,7 +20,7 @@ entramos a esa pagina
 
 vemos que da un usuario y contraseña en la primera linea así que intentamos ingresar en el primer recuadro, si probamos "chocolate:chocolate" vemos que tenemos exito
 
-![[exito.png]]
+![image](https://github.com/user-attachments/assets/cefac903-03c9-4b4c-85e6-96b1113e6400)
 
 y ahora la consola aparece así
 
