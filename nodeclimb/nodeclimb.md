@@ -29,7 +29,7 @@ ahora sacamos el zip
 
 y obtenemos la contraseña y usuario, entramos por el ssh, ahora entramos
 
-![[dockerlabs/facil/nodeclimb/conexion.png]]
+![image](https://github.com/user-attachments/assets/26df6c64-9617-4635-acc5-895752ec119a)
 
 al hacer sudo -l podemos ver que hay un archivo script.js pero no tiene nada dentro, pero igual esta el node
 
