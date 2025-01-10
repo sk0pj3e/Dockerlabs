@@ -8,7 +8,7 @@ entramos al puerto 80
 
 si no tenemos entramos a esta pagina:
 
-![[dockerlabs/medio/devtools/pagina1.png]]
+![image](https://github.com/user-attachments/assets/1b89a79e-1d5a-4517-b6bb-d6a16b3c4f5b)
 
 buscando vi que en la pagina da como paso a paso pero me da: 
 
