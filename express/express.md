@@ -49,7 +49,7 @@ dentro podríamos escalar por un script
 
 también encontré un .py
 
-![[os.png]]
+![image](https://github.com/user-attachments/assets/ecdacc13-1147-4e5d-a74c-467b6b2843f6)
 
 después de mucho rato, encontré otra carpeta y con permisos de ejecución
 
