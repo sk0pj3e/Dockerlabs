@@ -65,6 +65,6 @@ ahora podremos ejecutar
 
      sudo /usr/bin/python3 /opt/script.py
 
-![[dockerlabs/medio/express/root.png]]
+![image](https://github.com/user-attachments/assets/1fc8326f-5324-4273-b8ce-583594bb5fc0)
 
 y ahora somos root!
