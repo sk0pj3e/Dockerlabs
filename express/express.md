@@ -41,7 +41,7 @@ nos da
 
 y obtenemos la conexión
 
-![[dockerlabs/medio/express/conexion.png]]
+![image](https://github.com/user-attachments/assets/2660e39f-cb1f-460e-be68-8c8b48994873)
 
 dentro podríamos escalar por un script
 
