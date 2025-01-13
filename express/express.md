@@ -57,7 +57,7 @@ después de mucho rato, encontré otra carpeta y con permisos de ejecución
 
 dentro no hay nada y colocamos este os.
 
-![[os2.png]]
+![image](https://github.com/user-attachments/assets/0e2e64d4-f43e-4a52-991e-d5a6f7d90583)
 
 ![[import.png]]
 
