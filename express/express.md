@@ -5,7 +5,7 @@ nmap: 22,80
 después de buscar mucho encontré que puedo añadir un express.dl  en el "/etc/hosts" 
 que nos manda a una pagina un poco diferente. 
 
-![[dockerlabs/medio/express/pagina1.png]]
+![image](https://github.com/user-attachments/assets/3fe89d75-e8bf-4aea-9667-23b62f02282f)
 
 hacemos un feroxbuster: 
 
