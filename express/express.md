@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/medio/express/nmap.png]]
+![image](https://github.com/user-attachments/assets/3de098e7-0362-404a-aec9-854d68fe19ad)
 
 después de buscar mucho encontré que puedo añadir un express.dl  en el "/etc/hosts" 
 que nos manda a una pagina un poco diferente. 
