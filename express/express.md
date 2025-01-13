@@ -45,7 +45,7 @@ y obtenemos la conexión
 
 dentro podríamos escalar por un script
 
-![[dockerlabs/medio/express/script.png]]
+![image](https://github.com/user-attachments/assets/b4c5c8e5-3ae8-487d-8ecd-31d240e0c135)
 
 también encontré un .py
 
