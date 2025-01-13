@@ -16,7 +16,7 @@ y nos dio
 
 donde hay un descargable llamado game de 64 bites 
 
-![[game.png]]
+![image](https://github.com/user-attachments/assets/1223ad50-7666-4043-98b2-81f6f2ca0ecc)
 
 ejecutamos el game
 
