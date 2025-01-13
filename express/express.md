@@ -20,7 +20,7 @@ donde hay un descargable llamado game de 64 bites
 
 ejecutamos el game
 
-![[game2.png]]
+![image](https://github.com/user-attachments/assets/a54eb245-403c-48df-9002-4f9f7269baca)
 
 podemos hacer eso las 100 veces que aparece ahí, pero no lo haremos por razones obvias. Encontré que podemos depurar el binario con ghidra 
 y dentro vemos el hidden_key, lo que hacemos es ingeniería inversa.
