@@ -53,7 +53,7 @@ también encontré un .py
 
 después de mucho rato, encontré otra carpeta y con permisos de ejecución
 
-![[dockerlabs/medio/express/script2.png]]
+![image](https://github.com/user-attachments/assets/5fe9527e-92ad-436d-a90d-0946493924fd)
 
 dentro no hay nada y colocamos este os.
 
