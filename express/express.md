@@ -37,7 +37,7 @@ lanzamos:
 
 nos da
 
-![[dockerlabs/medio/express/hydra.png]]
+![image](https://github.com/user-attachments/assets/b6fa7da9-ff2e-4a89-bf03-84d3b0107643)
 
 y obtenemos la conexión
 
