@@ -32,7 +32,7 @@ lo que necesitamos es el numero 100 porque en la pagina llega al 99
 
 cuando ejecutamos el .py que creamos nos dará el numero 100, los números de ejecución tienen que ser los mismos que están en la pagina 
 
-![[respuesta.png]]
+![image](https://github.com/user-attachments/assets/4bef0f3d-8219-4ff8-ba2a-3972c805ad77)
 
 entramos por el ssh masha@172.17.0.2 y la contraseña: LCG_1s_E4Sy_t0_bR34k
 
