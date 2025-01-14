@@ -34,9 +34,9 @@ cuando ejecutamos el .py que creamos nos dará el numero 100, los números de ej
 
 ![image](https://github.com/user-attachments/assets/4bef0f3d-8219-4ff8-ba2a-3972c805ad77)
 
-entramos por el ssh masha@172.17.0.2 y la contraseña: LCG_1s_E4Sy_t0_bR34k
+entramos por el ssh mash@172.17.0.2 y la contraseña: LCG_1s_E4Sy_t0_bR34k
 
-![[dockerlabs/dificil/predictable/conexion.png]]
+![image](https://github.com/user-attachments/assets/d05d2486-b1c8-4e45-9aec-4cc0587f0e9a)
 
 ahora nos pide salir del script bash con algún comando.
 
