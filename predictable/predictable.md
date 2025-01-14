@@ -1,6 +1,6 @@
 nmap: 22,1111
 
-![[dockerlabs/dificil/predictable/nmap.png]]
+![image](https://github.com/user-attachments/assets/0c11c818-e3ca-405a-87e7-5051cb6da1cf)
 
 ---
 si entramos por el puerto 1111 a la pagina muestra resultados de numero hasta el 99
