@@ -5,7 +5,7 @@ nmap: 22,1111
 ---
 si entramos por el puerto 1111 a la pagina muestra resultados de numero hasta el 99
 
-![[dockerlabs/dificil/predictable/pagina1.png]]
+![image](https://github.com/user-attachments/assets/4d0d9e32-9140-480a-89cc-00773291bede)
 
 por lo que vi buscamos el valor 100, y para eso se tiene que calcular el numero pero encontré un código que facilita eso y nos da el valor del orden para obtener la clave:
 necesitamos un numero que esta en el código fuente:
