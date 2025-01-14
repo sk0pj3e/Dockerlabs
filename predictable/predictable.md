@@ -68,7 +68,7 @@ lanzamos el comando:
 
 después de tener un erro básico, vemos que cambio el color de ejecución
 
-![[shell2.png]]
+![image](https://github.com/user-attachments/assets/211c5123-694a-4729-9948-667b7f000629)
 
 lanzamos otra ves: sudo /opt/shell
 
