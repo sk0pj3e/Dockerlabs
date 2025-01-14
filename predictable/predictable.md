@@ -28,7 +28,7 @@ al ejecutar:
 
 lo que necesitamos es el numero 100 porque en la pagina llega al 99
 
-![[99.png]]
+![image](https://github.com/user-attachments/assets/647811d7-3cad-4ce9-926e-14ea0c24922d)
 
 cuando ejecutamos el .py que creamos nos dará el numero 100, los números de ejecución tienen que ser los mismos que están en la pagina 
 
