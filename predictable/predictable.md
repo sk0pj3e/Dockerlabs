@@ -10,7 +10,7 @@ si entramos por el puerto 1111 a la pagina muestra resultados de numero hasta el
 por lo que vi buscamos el valor 100, y para eso se tiene que calcular el numero pero encontré un código que facilita eso y nos da el valor del orden para obtener la clave:
 necesitamos un numero que esta en el código fuente:
 
-![[dockerlabs/dificil/predictable/codigo fuente.png]]
+![image](https://github.com/user-attachments/assets/c8a999b9-28d1-4422-affe-3d24ca6c376e)
 
 ahora dejamos un código así
 
