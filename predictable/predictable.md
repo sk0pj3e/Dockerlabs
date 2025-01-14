@@ -72,7 +72,7 @@ después de tener un erro básico, vemos que cambio el color de ejecución
 
 lanzamos otra ves: sudo /opt/shell
 
-![[dockerlabs/dificil/predictable/root.png]]
+![image](https://github.com/user-attachments/assets/11a732f9-f604-4f0d-be1d-614db71571ab)
 
 y somos root!
 
