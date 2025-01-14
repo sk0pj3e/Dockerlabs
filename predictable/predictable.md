@@ -14,7 +14,7 @@ necesitamos un numero que esta en el código fuente:
 
 ahora dejamos un código así
 
-![[dockerlabs/dificil/predictable/codigo1.png]]
+![image](https://github.com/user-attachments/assets/411c6483-8afe-45e2-b9ba-1dbb37d8fd19)
 
 el primero numero:
 n = es el numero del código fuente
