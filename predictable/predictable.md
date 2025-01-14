@@ -44,7 +44,7 @@ fuimos probando y encontré
 
       __builtins__.__dict__
 
-![[test.png]]
+![image](https://github.com/user-attachments/assets/d8e04296-5c87-42a4-af52-f032be448094)
 
 y encontré: 
 
