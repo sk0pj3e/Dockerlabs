@@ -24,7 +24,7 @@ y el result 17, en el numero que aparece bajo el titulo.
 al lanzarlo con: python3 solution.py
 al ejecutar:
 
-![[ejecucion .png]]
+![image](https://github.com/user-attachments/assets/1e8d9675-8823-4ede-beb2-8177460e73eb)
 
 lo que necesitamos es el numero 100 porque en la pagina llega al 99
 
