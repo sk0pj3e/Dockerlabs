@@ -1,0 +1,78 @@
+nmap: 22,1111
+
+![[dockerlabs/dificil/predictable/nmap.png]]
+
+---
+si entramos por el puerto 1111 a la pagina muestra resultados de numero hasta el 99
+
+![[dockerlabs/dificil/predictable/pagina1.png]]
+
+por lo que vi buscamos el valor 100, y para eso se tiene que calcular el numero pero encontré un código que facilita eso y nos da el valor del orden para obtener la clave:
+necesitamos un numero que esta en el código fuente:
+
+![[dockerlabs/dificil/predictable/codigo fuente.png]]
+
+ahora dejamos un código así
+
+![[dockerlabs/dificil/predictable/codigo1.png]]
+
+el primero numero:
+n = es el numero del código fuente
+los result del 1 al 3 son los primeros 3 números de la pagina
+y el result 17, en el numero que aparece bajo el titulo. 
+
+al lanzarlo con: python3 solution.py
+al ejecutar:
+
+![[ejecucion .png]]
+
+lo que necesitamos es el numero 100 porque en la pagina llega al 99
+
+![[99.png]]
+
+cuando ejecutamos el .py que creamos nos dará el numero 100, los números de ejecución tienen que ser los mismos que están en la pagina 
+
+![[respuesta.png]]
+
+entramos por el ssh masha@172.17.0.2 y la contraseña: LCG_1s_E4Sy_t0_bR34k
+
+![[dockerlabs/dificil/predictable/conexion.png]]
+
+ahora nos pide salir del script bash con algún comando.
+
+fuimos probando y encontré
+
+      __builtins__.__dict__
+
+![[test.png]]
+
+y encontré: 
+
+      __builtins__.__dict__['__imp'+'ort__']('o'+'s').__dict__['sys'+'tem']('bash')
+
+![[dockerlabs/dificil/predictable/codigo2.png]]
+
+obtenemos acceso, ahora a escalar hacia root
+
+al hacer un sudo -l muestra 
+> "/opt/shell"
+
+vemos que tenemos permiso que escritura al hacer el ls la /opt/shell
+pero no podemos entrar a nano
+
+![[shell.png]]
+
+lanzamos el comando:
+
+>echo "bash -p" > /opt/shell
+
+después de tener un erro básico, vemos que cambio el color de ejecución
+
+![[shell2.png]]
+
+lanzamos otra ves: sudo /opt/shell
+
+![[dockerlabs/dificil/predictable/root.png]]
+
+y somos root!
+
