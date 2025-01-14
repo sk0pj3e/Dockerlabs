@@ -60,7 +60,7 @@ al hacer un sudo -l muestra
 vemos que tenemos permiso que escritura al hacer el ls la /opt/shell
 pero no podemos entrar a nano
 
-![[shell.png]]
+![image](https://github.com/user-attachments/assets/a7c39d6c-4829-4173-8040-ac8b1ccd9e85)
 
 lanzamos el comando:
 
