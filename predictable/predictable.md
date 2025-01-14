@@ -66,7 +66,7 @@ lanzamos el comando:
 
 >echo "bash -p" > /opt/shell
 
-después de tener un erro básico, vemos que cambio el color de ejecución
+después de tener un error básico, vemos que cambio el color de ejecución
 
 ![image](https://github.com/user-attachments/assets/211c5123-694a-4729-9948-667b7f000629)
 
