@@ -13,7 +13,7 @@ hacemos un gobuster:
 
 nos dio upload.php
 
-![[upload.png]]
+![image](https://github.com/user-attachments/assets/4d4f493c-43c8-4824-b9c2-f362aa2990d4)
 
 vuelvo hacer un gobuster pero agrego un .txt
 
