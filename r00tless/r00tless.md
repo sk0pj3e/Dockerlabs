@@ -42,7 +42,7 @@ nos dara: id_rsa  id_rsa.pub
 
 pasamos la clave a un authorized_keys
 
-![[echo.png]]
+![image](https://github.com/user-attachments/assets/8ab00440-e29b-4c45-b999-d7b5cb3914d4)
 
 le damos permisos: 
 > chmod 600 id_rsa 
