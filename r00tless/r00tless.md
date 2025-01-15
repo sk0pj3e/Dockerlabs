@@ -92,7 +92,7 @@ como pide contraseña la sacamos:
     
 > contraseña: qwert
 
-![[dockerlabs/dificil/r00tless/hash.png]]
+![image](https://github.com/user-attachments/assets/5d72b198-dbda-48ca-971d-6e71aa66eee1)
 
 le colocamos al txt cat y nos da:
 > root-false:cGFzc3dvcmRiYWRzZWN1cmV1bHRyYQ==
