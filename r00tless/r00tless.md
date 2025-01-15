@@ -108,7 +108,7 @@ entramos por ssh en una terminal y colocamos la contraseña con el usuario "root
 
 dentro hay un: message.txt que dice:
 
-![[pinguino1.png]]
+![image](https://github.com/user-attachments/assets/4ee839aa-948b-44f5-8945-716001247013)
 
 encontramos esto
 
