@@ -56,7 +56,7 @@ ahora en el terminal colocamos:
 
  estamos dentro
 
-![[dockerlabs/dificil/r00tless/conexion.png]]
+![image](https://github.com/user-attachments/assets/e3f79d3c-7b47-433b-b866-849bcbae20db)
 
 al hacer un "ls", nos da esto:
 >cat note.txt
