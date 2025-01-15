@@ -120,7 +120,7 @@ ejecutamos el comando
 
 lo que lanzamos es lo del mensaje que vimos 
 
-![[curl3.png]]
+![image](https://github.com/user-attachments/assets/8d68948b-03ab-4824-a5f2-abd41ec454d2)
 
 lanzamos:
 
