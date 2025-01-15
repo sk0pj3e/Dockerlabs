@@ -102,7 +102,7 @@ en la misma terminal colocamos:
 
 nos da la contraseña
 
-![[dockerlabs/dificil/r00tless/zip.png]]
+![image](https://github.com/user-attachments/assets/7e47d33d-2cf5-4fea-9411-068ca33b6998)
 
 entramos por ssh en una terminal y colocamos la contraseña con el usuario "root-false"
 
