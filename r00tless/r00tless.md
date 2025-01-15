@@ -156,7 +156,7 @@ la probamos en el usuario less que sale al final del texto.
 y somos el usuario less 
 al hacer sudo -l nos da: chown
 
-![[conexion3.png]]
+![image](https://github.com/user-attachments/assets/2b437a35-affa-4ce9-bade-af9ad044a4a6)
 
 buscando encontré que podemos cambiar al propietario de la carpeta /etc/passwd
 con este comando: 
