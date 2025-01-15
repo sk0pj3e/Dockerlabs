@@ -49,7 +49,7 @@ le damos permisos:
 
 subimos el authorized_keys
 
-![[subida.png]]
+![image](https://github.com/user-attachments/assets/bdc38c49-08c0-4727-abc3-53421d68aab4)
 
 ahora en el terminal colocamos: 
 >  ssh passsamba@172.18.0.2 -i id_rsa
