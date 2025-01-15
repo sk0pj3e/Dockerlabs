@@ -9,7 +9,7 @@ en la pagina principal nos da:
 
 hacemos un gobuster:
 
-![[dockerlabs/dificil/r00tless/gobuster.png]]
+![image](https://github.com/user-attachments/assets/3c562d69-2edd-486b-a1fd-1d4009b5bff6)
 
 nos dio upload.php
 
