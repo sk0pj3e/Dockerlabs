@@ -36,7 +36,7 @@ creamos un id_rsa
 
     ssh-keygen -t rsa -b 4096
 
-![[id_rsa1.png]]
+![image](https://github.com/user-attachments/assets/3abfabf0-f121-40d6-987e-86224e2cba2f)
 
 nos dara: id_rsa  id_rsa.pub  
 
