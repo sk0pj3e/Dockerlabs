@@ -72,7 +72,7 @@ como no hay nada, encontré para ver posibles directorios:
 
     smbmap -u "sambauser" -p "sambaarribasiempre" -d workgroup -H 172.19.0.2
 
-![[samba2.png]]
+![image](https://github.com/user-attachments/assets/c56356f7-e265-4009-b2be-75228b56496c)
 
 nos dio dos:
 > read_only_share
