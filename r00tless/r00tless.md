@@ -61,7 +61,7 @@ ahora en el terminal colocamos:
 al hacer un "ls", nos da esto:
 >cat note.txt
 
-![[samba.png]]
+![image](https://github.com/user-attachments/assets/02e6ce37-d644-425f-ba73-bd0b01b4a1a4)
 
 por la similitud  con  un nombre de usuario, probamos como contraseña:
 > su sambauser / sambaarribasiempre
