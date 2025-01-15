@@ -167,9 +167,7 @@ ahora hacemos un:
 
     nano /etc/passwd
 
-![[Pasted image 20250115194824.png]]
-
-![[dockerlabs/dificil/r00tless/cat.png]]
+![image](https://github.com/user-attachments/assets/12c3764b-78f6-46de-87d3-39442c87aa15)
 
 le quitamos la "x" a root 
 guardamos y ejecutamos
