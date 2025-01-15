@@ -29,8 +29,8 @@ pero podemos enumerar con:
 > enum4linux 172.18.0.2
 
 nos da:
- ![[enum4.png]]
- 
+
+![image](https://github.com/user-attachments/assets/922a3b0b-ee7e-4809-bf6d-55356c4e5565)
 
 creamos un id_rsa 
 
