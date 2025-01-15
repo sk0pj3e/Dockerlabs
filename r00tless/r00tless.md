@@ -134,7 +134,7 @@ hacemos este comando:
 
 y nos conectaremos otra vez
 
-![[dockerlabs/dificil/r00tless/conexion2.png]]
+![image](https://github.com/user-attachments/assets/b1e035df-43e2-49aa-88be-55cc626b0589)
 
 nos vamos a firefox y buscamos esto:
 > http://127.0.0.1:9090/
