@@ -5,7 +5,7 @@ nmap: 80,22,139,445
 ---
 en la pagina principal nos da:
 
-![[dockerlabs/dificil/r00tless/pagina1.png]]
+![image](https://github.com/user-attachments/assets/fcc9059f-34dc-4407-a66f-0ffb9b1e35fe)
 
 hacemos un gobuster:
 
