@@ -17,7 +17,7 @@ nos dio upload.php
 
 vuelvo hacer un gobuster pero agrego un .txt
 
-![[readme.png]]
+![image](https://github.com/user-attachments/assets/3aab916e-3450-485c-8729-844555a092dd)
 
 entramos y nos da
 
