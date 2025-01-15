@@ -146,7 +146,7 @@ no me funciono pero del codigo anterior vi un "ultramegatexto.txt", lanzamos el 
 
 nos dio:
 
-![[ultra.png]]
+![image](https://github.com/user-attachments/assets/a7017a56-9d42-45e6-9499-8175c6eb12bb)
 
 nos dará la pagina de login - admin
 en el texto hay parte que me llamo la atención que parece contraseña que dice:
