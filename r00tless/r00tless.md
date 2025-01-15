@@ -1,6 +1,6 @@
 nmap: 80,22,139,445
 
-![[dockerlabs/dificil/r00tless/nmap.png]]
+![image](https://github.com/user-attachments/assets/c93e0c93-23ce-460d-b526-85e968e6f4ec)
 
 ---
 en la pagina principal nos da:
