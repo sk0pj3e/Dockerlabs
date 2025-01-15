@@ -83,8 +83,7 @@ nos conectamos como clientes.
 
 la contraseña es la misma y dentro nos pasamos con get el zip que hay
 
-![[scret.png]]
-
+![image](https://github.com/user-attachments/assets/4078231a-b32e-45f9-a536-865b0c8d77e4)
 
 como pide contraseña la sacamos:
 
