@@ -21,7 +21,7 @@ vuelvo hacer un gobuster pero agrego un .txt
 
 entramos y nos da
 
-![[readme2.png]]
+![image](https://github.com/user-attachments/assets/eabd553b-6926-48d4-ad8a-07d14d14bdf8)
 
 Esto significa que si realmente se sube en ".ssh", podemos subir nuestro "id_rsa.pub" con el nombre "authorized_keys" y conectarnos sin necesidad de clave, nos faltaría usuarios 
 
