@@ -172,7 +172,7 @@ ahora hacemos un:
 le quitamos la "x" a root 
 guardamos y ejecutamos
 
-![[dockerlabs/dificil/r00tless/root.png]]
+![image](https://github.com/user-attachments/assets/d34b87dc-97eb-4bfc-b7c0-bb68dfc2b95b)
 
 su root
 somos root! 
