@@ -112,7 +112,7 @@ dentro hay un: message.txt que dice:
 
 encontramos esto
 
-![[curl1.png]]
+![image](https://github.com/user-attachments/assets/be0d2017-31f6-44c3-852f-6563801c2187)
 
 ejecutamos el comando
 
