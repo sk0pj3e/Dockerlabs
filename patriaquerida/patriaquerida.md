@@ -45,7 +45,7 @@ utilizamos el comando
 
 y nos da un binario importante 
 
-![[python1.png]]
+![image](https://github.com/user-attachments/assets/dcda9d1d-36af-4c7b-9321-a1eaa8fdbbd9)
 
 la buscamos en https://gtfobins.github.io/gtfobins/python/#sudo
 
