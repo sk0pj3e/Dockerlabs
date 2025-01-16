@@ -21,7 +21,7 @@ tenemos conexión
 
 buscando encontramos esto
 
-![[dockerlabs/facil/extraviado/cat.png]]
+![image](https://github.com/user-attachments/assets/0636d695-01ce-4910-b52e-05a4c495e351)
 
 pasamos la contraseña a https://gchq.github.io/CyberChef/#recipe=Magic(3,false,false,'')&input=WW1Gc2JHVnVZVzVsWjNKaA
 
