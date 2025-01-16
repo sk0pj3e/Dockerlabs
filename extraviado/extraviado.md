@@ -45,6 +45,6 @@ seguimos estas rutas
 
 como vemos es un acertijo, lo busque y encontré que la respuesta de "osoazul", o sea que es la contraseña de root
 
-![[dockerlabs/facil/extraviado/root.png]]
+![image](https://github.com/user-attachments/assets/b9827c6f-f8be-475f-9fd0-fde060f37fd2)
 
 somos root!
