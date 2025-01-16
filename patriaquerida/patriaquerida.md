@@ -33,7 +33,7 @@ nos dan dos usuarios: pinguino y mario. probamos a los usuarios con la contrase√
 
 entramos
 
-![[dockerlabs/facil/patriaquerida/conexion.png]]
+![image](https://github.com/user-attachments/assets/6e168484-ed12-487a-b28a-a379ec8e0a4b)
 
 y escalamos a mario muy facil
 
