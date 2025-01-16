@@ -41,7 +41,7 @@ seguimos estas rutas
 
 ![image](https://github.com/user-attachments/assets/730d5619-7b3c-4f6e-b0ec-0961ab7fe3eb)
 
-![[ruta2.png]]
+![image](https://github.com/user-attachments/assets/f32e0f4d-938c-4ce9-97a7-0df389bf8138)
 
 como vemos es un acertijo, lo busque y encontré que la respuesta de "osoazul", o sea que es la contraseña de root
 
