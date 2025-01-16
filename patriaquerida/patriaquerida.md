@@ -49,7 +49,7 @@ y nos da un binario importante
 
 la buscamos en https://gtfobins.github.io/gtfobins/python/#sudo
 
-![[python2.png]]
+![image](https://github.com/user-attachments/assets/801624b3-5d4e-41b3-9aeb-8e6df74b59f5)
 
 modificamos el python a python3.8 como el binario y lanzamos
 
