@@ -1,6 +1,6 @@
 nmap:  22,80
 
-![[dockerlabs/facil/patriaquerida/nmap.png]]
+![image](https://github.com/user-attachments/assets/eaad09c8-5a05-446f-96cb-e8c76e63dd4f)
 
 en la pagina como en el nmap, vemos que es apache2, en el código fuente no hay nada, hacemos un gobuster
 
