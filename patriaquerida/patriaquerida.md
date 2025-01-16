@@ -27,7 +27,7 @@ y nos dio un: page
 
 y obtenemos
 
-![[dockerlabs/facil/patriaquerida/etc.png]]
+![image](https://github.com/user-attachments/assets/6b8483b6-54ab-4e9d-a79b-f37136262969)
 
 nos dan dos usuarios: pinguino y mario. probamos a los usuarios con la contraseña "balu"
 
