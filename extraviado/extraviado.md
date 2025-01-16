@@ -39,7 +39,7 @@ si vamos a la carpeta de diego encontramos un "pass" que dice "donde estara?"
 
 seguimos estas rutas
 
-![[ruta1.png]]
+![image](https://github.com/user-attachments/assets/730d5619-7b3c-4f6e-b0ec-0961ab7fe3eb)
 
 ![[ruta2.png]]
 
