@@ -15,7 +15,7 @@ la sacamos:
 tenemos usuario y contraseña
 > daniela:focaroja
 
-![[dockerlabs/facil/extraviado/conexion.png]]
+![image](https://github.com/user-attachments/assets/bf5631be-59cb-4ffd-9a4b-5e459b4d7e54)
 
 tenemos conexión
 
