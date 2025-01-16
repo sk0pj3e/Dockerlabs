@@ -15,7 +15,7 @@ y nos da in index.php
 
 buscamos eso y da solo en la pagina un "balu"
 
-![[hidden.png]]
+![image](https://github.com/user-attachments/assets/fed9b04c-c1b9-48ad-a9b4-bf5ad959017d)
 
 probé con hydra pero no obtuve nada. Como la carpeta o directorio que nos dio, podemos probar con ffuf
 
