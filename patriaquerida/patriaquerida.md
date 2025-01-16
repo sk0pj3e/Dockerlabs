@@ -11,7 +11,7 @@ y nos da in index.php
 
 ![image](https://github.com/user-attachments/assets/31191b22-876a-44d3-8876-3e596b67f795)
 
-![[index2.png]]
+![image](https://github.com/user-attachments/assets/6ff70d6f-697d-4666-90f8-355f6bbe8d46)
 
 buscamos eso y da solo en la pagina un "balu"
 
