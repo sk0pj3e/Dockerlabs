@@ -10,7 +10,7 @@ como vemos solo es un apache2 y en el código fuente se encuentra esto
 
 la sacamos:
 
-![[dockerlabs/facil/extraviado/base64.png]]
+![image](https://github.com/user-attachments/assets/0d2959a5-b8d3-4830-966d-0de1e6b5a73d)
 
 tenemos usuario y contraseña
 > daniela:focaroja
