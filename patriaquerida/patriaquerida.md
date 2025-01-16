@@ -7,7 +7,7 @@ en la pagina como en el nmap, vemos que es apache2, en el código fuente no hay 
      gobuster dir -u http://172.17.0.2/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -x php,html,py,txt -t 64
 
 
-y nos da in index.php
+y nos da un index.php
 
 ![image](https://github.com/user-attachments/assets/31191b22-876a-44d3-8876-3e596b67f795)
 
