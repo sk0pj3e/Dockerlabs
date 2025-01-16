@@ -9,7 +9,7 @@ en la pagina como en el nmap, vemos que es apache2, en el código fuente no hay 
 
 y nos da in index.php
 
-![[index.png]]
+![image](https://github.com/user-attachments/assets/31191b22-876a-44d3-8876-3e596b67f795)
 
 ![[index2.png]]
 
