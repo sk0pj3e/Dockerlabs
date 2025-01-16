@@ -33,7 +33,7 @@ y obtenemos la contraseña
 
 en la contraseña de diego
 
-![[dockerlabs/facil/extraviado/usuario2.png]]
+![image](https://github.com/user-attachments/assets/446811e1-dfe6-4e2d-bbe2-0f40da3b1cd3)
 
 si vamos a la carpeta de diego encontramos un "pass" que dice "donde estara?"
 
