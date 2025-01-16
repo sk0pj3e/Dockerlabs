@@ -37,7 +37,7 @@ entramos
 
 y escalamos a mario muy facil
 
-![[dockerlabs/facil/patriaquerida/conexion2.png]]
+![image](https://github.com/user-attachments/assets/5e88059d-1d92-4c99-b3f9-d1f2bb135098)
 
 utilizamos el comando
 
