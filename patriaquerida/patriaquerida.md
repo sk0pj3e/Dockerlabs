@@ -23,7 +23,7 @@ probé con hydra pero no obtuve nada. Como la carpeta o directorio que nos dio, 
 
 y nos dio un: page
 
-![[page.png]]
+![image](https://github.com/user-attachments/assets/030a13f1-9264-48ee-a294-ac3b02cebad3)
 
 y obtenemos
 
