@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/facil/extraviado/nmap.png]]
+![image](https://github.com/user-attachments/assets/8a61b617-d6eb-43ac-9beb-1bdbd7c02fab)
 
 como vemos solo es un apache2 y en el código fuente se encuentra esto
 
