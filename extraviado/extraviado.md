@@ -27,7 +27,7 @@ pasamos la contraseña a https://gchq.github.io/CyberChef/#recipe=Magic(3,false,
 
 y obtenemos la contraseña 
 
-![[chef.png]]
+![image](https://github.com/user-attachments/assets/ca1ce87f-5334-4e9d-8936-af60bca7abb1)
 
      ballenanegra
 
