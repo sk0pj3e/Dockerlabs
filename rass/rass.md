@@ -59,7 +59,7 @@ ahora lanzamos
 
     sudo -u calamardo node -e 'require("child_process").spawn("/bin/sh", {stdio: [0, 1, 2]})'
 
-![[calamardo.png]]
+![image](https://github.com/user-attachments/assets/3a53aad2-45ee-4800-8595-89d01a5cfb58)
 
 buscando como escalar encontramos esto
 
