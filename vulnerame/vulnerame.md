@@ -44,7 +44,7 @@ entramos a los dos de robots.txt y administrador
 
 buscando también me llamo la atención esto
 
-![[joomla version.png]]
+![image](https://github.com/user-attachments/assets/88ef841f-d5cb-4f34-8ee3-f38719dddb26)
 
 hasta que encontré este comando
 
