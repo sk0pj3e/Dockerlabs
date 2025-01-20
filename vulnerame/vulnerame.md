@@ -79,7 +79,7 @@ entramos a "mysql none":
 
 nos da una contraseña encriptada:
 
-![[pass1.png]]
+![image](https://github.com/user-attachments/assets/676d66ed-15cc-43de-984c-c8c6412ba7c4)
 
 
 utilizamos: https://hashes.com/en/decrypt/hash
