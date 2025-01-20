@@ -77,7 +77,7 @@ en patricio encontramos un python
 
 después de buscar encontré este código en gtfobins https://gtfobins.github.io/gtfobins/python/
 
-![[sudo2.png]]
+![image](https://github.com/user-attachments/assets/26da5a58-0ade-4f8d-a7e5-cdf57b89ac48)
 
 ejecutamos
 
