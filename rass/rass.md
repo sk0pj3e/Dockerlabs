@@ -9,7 +9,7 @@ Hacemos una enumeración de la IP
 
 nos da
 
-![[dockerlabs/dificil/rass/enu1.png]]
+![image](https://github.com/user-attachments/assets/2d2e925e-c849-46ac-959a-32170bd1e827)
 
 ransomware y dos 3 usuarios
 
