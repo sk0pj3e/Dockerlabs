@@ -67,7 +67,7 @@ entramos a "mysql none":
 
      show databases; 
 
-![[database.png]]
+![image](https://github.com/user-attachments/assets/f8d28e70-b8ea-405c-a017-ab7bcc4a3733)
 
     use joomla_db
     show tables
