@@ -12,7 +12,7 @@ hacemos un gobuster:
 
 y nos da:
 
-![[dockerlabs/dificil/vulnerame/gobuster.png]]
+![image](https://github.com/user-attachments/assets/c5162c38-f072-4037-a84a-e6493cb0bd95)
 
 entramos y tenemos pagina
 
