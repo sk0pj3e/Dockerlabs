@@ -111,7 +111,8 @@ luego buscando en la pagina como admin vamos a:
 
 para conectarnos: https://github.com/pentestmonkey/php-reverse-shell
 cambiamos IP y puerto: lo guardamos y en otra pestaña abrimos con la IP de la pagina mientras tenemos en escucha nuestro puerto 443, y entramos.
-![[dockerlabs/dificil/vulnerame/conexion.png]]
+
+![image](https://github.com/user-attachments/assets/9864687e-a268-45b9-8d7d-2a1334c1e591)
 
 luego de cargar en index.php la reverse la cargamos en el URL con el terminal en escucha
 
