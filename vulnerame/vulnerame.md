@@ -103,7 +103,7 @@ credenciales para admin:
 
 vamos al login e ingresamos
 
-![[dockerlabs/dificil/vulnerame/panel1.png]]
+![image](https://github.com/user-attachments/assets/aa06ac02-5ece-4d63-9e0c-56f8ed2117ea)
 
 luego buscando en la pagina como admin vamos a:
 
