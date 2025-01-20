@@ -144,6 +144,6 @@ ejecutamos
 
      sudo /usr/bin/ruby /usr/bin/saludos.rb
 
-![[dockerlabs/dificil/vulnerame/root.png]]
+![image](https://github.com/user-attachments/assets/75836fd7-fad0-46b3-9acb-51614cad2deb)
 
 y somos root! 
