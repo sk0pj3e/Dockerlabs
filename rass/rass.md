@@ -28,7 +28,7 @@ probé en ssh y no sirvió pero probamos con el archivo de "ransomware" como es 
 tenemos acceso
 el contenido de lo que hay es
 
-![[dockerlabs/dificil/rass/cat.png]]
+![image](https://github.com/user-attachments/assets/d665b555-67f7-43d4-8b1f-db9781466551)
 
 ahora para intentar desencriptar el archivo private.txt es necesario hacerle reversing al binario, por lo que hago reversing con ghidra 
 viendo el código el algoritmo de cifrado el cual es "AES-256-CBC". por lo que encontré la clave debe tener 32 bytes y el IV debe tener 16. después vemos que  "local_438" hace referencia a "local_438" y "local_430" entonces me da un valor: 1234567890123456
