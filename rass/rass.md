@@ -19,7 +19,7 @@ creamos una carpeta con los 3 usuarios  y lanzamos una fuerza bruta
 
      netexec smb 172.17.0.2 -u user.txt  -p /usr/share/wordlists/rockyou.txt  --ignore-pw-decoding
 
-![[net.png]]
+![image](https://github.com/user-attachments/assets/8bcd7bc4-4752-49dc-8183-bb58df2873fa)
 
 probé en ssh y no sirvió pero probamos con el archivo de "ransomware" como es smb intentamos entrar al client
 
