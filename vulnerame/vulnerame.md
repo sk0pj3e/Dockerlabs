@@ -16,7 +16,7 @@ y nos da:
 
 entramos y tenemos pagina
 
-![[wordpress.png]]
+![image](https://github.com/user-attachments/assets/962bf906-35fe-4292-8422-d8fd1704ad92)
 
 en la pagina encontré esto interesante
 
