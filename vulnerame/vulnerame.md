@@ -38,7 +38,7 @@ nos da:
 
 entramos a los dos de robots.txt y administrador
 
-![[robots.png]]
+![image](https://github.com/user-attachments/assets/92a794ae-04b3-419c-bff4-4f517e7cb9e7)
 
 ![[dockerlabs/dificil/vulnerame/admin.png]]
 
