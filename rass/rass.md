@@ -41,7 +41,7 @@ encontré un código python que sirve
 
 ejecutamos con python en una maquina virtual interna para que funcione el pip
 
-![[descrypt.png]]
+![image](https://github.com/user-attachments/assets/725752b0-9ba5-4ed3-b184-0bb72fca4803)
 
 y nos dio 
 
