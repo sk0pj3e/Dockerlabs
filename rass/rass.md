@@ -13,7 +13,7 @@ nos da
 
 ransomware y dos 3 usuarios
 
-![[enu2.png]]
+![image](https://github.com/user-attachments/assets/a0c6f96b-478e-489f-9c9c-8f2ddc9d8104)
 
 creamos una carpeta con los 3 usuarios  y lanzamos una fuerza bruta
 
