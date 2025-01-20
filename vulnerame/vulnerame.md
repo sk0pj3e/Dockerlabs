@@ -34,7 +34,7 @@ utilizamos joomscan (JoomScan es una herramienta de escaneo de vulnerabilidades 
 
 nos da:
 
-![[joomscan.png]]
+![image](https://github.com/user-attachments/assets/61314e6d-2a8b-4e5e-abe1-3f65103725a2)
 
 entramos a los dos de robots.txt y administrador
 
