@@ -23,7 +23,7 @@ creamos una carpeta con los 3 usuarios  y lanzamos una fuerza bruta
 
 probé en ssh y no sirvió pero probamos con el archivo de "ransomware" como es smb intentamos entrar al client
 
-![[smb.png]]
+![image](https://github.com/user-attachments/assets/04f71239-4000-464e-b68e-a9208c39b2ca)
 
 tenemos acceso
 el contenido de lo que hay es
