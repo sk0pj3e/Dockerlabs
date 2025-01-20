@@ -37,7 +37,7 @@ viendo el código el algoritmo de cifrado el cual es "AES-256-CBC". por lo que e
 
 encontré un código python que sirve 
 
-![[py.png]]
+![image](https://github.com/user-attachments/assets/19a628e9-9362-4c93-8446-6b9bd9b271ae)
 
 ejecutamos con python en una maquina virtual interna para que funcione el pip
 
