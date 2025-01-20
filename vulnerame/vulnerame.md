@@ -130,7 +130,7 @@ dentro hay dos usuarios: guadalupe e ignacio y hacemos un ataque de fuerza bruta
 
 y tenemos la contraseña de ambos usuarios. con el que podemos escalar es con ignacio
 
-![[dockerlabs/dificil/vulnerame/sudo -l.png]]
+![image](https://github.com/user-attachments/assets/7c491d6d-8d06-4303-b666-5ba0687ec4c6)
 
 ya dentro del usuario Ignacio podemos ejecutar los "nano" así que modificamos el archivo "saludos.rb": 
 
