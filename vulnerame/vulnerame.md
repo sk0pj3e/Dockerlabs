@@ -52,14 +52,12 @@ hasta que encontré este comando
 
 y me dio las credenciales
 
-![[usuarios.png]]
-
+![image](https://github.com/user-attachments/assets/9105f3c8-586f-48cb-85e7-09a41d13ac72)
 
 usuario: joomla_user
 contraseña: vuln
 
 probé en el login que teníamos en administrator, pero no funciono así que probé con la base de datos  
-
 
 revisamos una posible base de datos con los usuarios encontrados:
 
