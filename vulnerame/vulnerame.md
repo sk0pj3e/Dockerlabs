@@ -72,7 +72,7 @@ entramos a "mysql none":
     use joomla_db
     show tables
 
-![[show1.png]]
+![image](https://github.com/user-attachments/assets/610fc7fc-564a-4302-9f9b-e00df1af7c48)
 
 
     select * from ffsnq_users;
