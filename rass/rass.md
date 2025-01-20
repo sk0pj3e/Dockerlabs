@@ -1,6 +1,7 @@
 nmap: 22,139,445
 
-![[dockerlabs/dificil/rass/nmap.png]]
+![image](https://github.com/user-attachments/assets/931baef1-b5a7-4fd8-b6e5-f179f512ec2b)
+
 
 Hacemos una enumeración de la IP
 
