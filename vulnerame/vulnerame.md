@@ -126,7 +126,7 @@ dentro hay dos usuarios: guadalupe e ignacio y hacemos un ataque de fuerza bruta
 
      hydra -l guadalupe -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2 -t 64
 
-![[dockerlabs/dificil/vulnerame/hydra.png]]
+![image](https://github.com/user-attachments/assets/b6ebaff8-7100-4b50-8229-d26c4ce2d885)
 
 y tenemos la contraseña de ambos usuarios. con el que podemos escalar es con ignacio
 
