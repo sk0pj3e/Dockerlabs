@@ -11,7 +11,7 @@ nos da
 
 ![image](https://github.com/user-attachments/assets/2d2e925e-c849-46ac-959a-32170bd1e827)
 
-ransomware y dos 3 usuarios
+ransomware y 3 usuarios
 
 ![image](https://github.com/user-attachments/assets/a0c6f96b-478e-489f-9c9c-8f2ddc9d8104)
 
