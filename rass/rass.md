@@ -63,7 +63,7 @@ ahora lanzamos
 
 buscando como escalar encontramos esto
 
-![[bash2.png]]
+![image](https://github.com/user-attachments/assets/bb2139f0-f9de-4db1-961d-1c287ca20472)
 
 > patricio:Jap0n16ydcbd***
 
