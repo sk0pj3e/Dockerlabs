@@ -69,7 +69,7 @@ buscando como escalar encontramos esto
 
 obtenemos conexión a patricio
 
-![[patricio.png]]
+![image](https://github.com/user-attachments/assets/9a67383d-2ca0-44ee-8a09-6f2cae6ea83d)
 
 en patricio encontramos un python 
 
