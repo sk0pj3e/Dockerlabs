@@ -53,7 +53,7 @@ probamos por ssh y tenemos la conexión
 
 hacemos sudo -l y nos aparece node así que la buscamos https://gtfobins.github.io/gtfobins/node/#sudo
 
-![[node.png]]
+![image](https://github.com/user-attachments/assets/177b0524-935e-4d8d-8321-7360e0d9bfa7)
 
 ahora lanzamos
 
