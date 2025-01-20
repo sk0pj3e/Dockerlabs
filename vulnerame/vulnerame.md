@@ -26,7 +26,7 @@ en la pagina encontré esto interesante
 
 > exploit encontrado: https://vulncheck.com/blog/joomla-for-rce
 
-![[ve.png]]
+![image](https://github.com/user-attachments/assets/50675612-80c8-4071-b29a-581309090f31)
 
 utilizamos joomscan (JoomScan es una herramienta de escaneo de vulnerabilidades diseñada específicamente para aplicaciones web basadas en Joomla. Sirve para identificar posibles vulnerabilidades y debilidades en sitios web que utilizan este popular sistema de gestión de contenido (CMS):
 
