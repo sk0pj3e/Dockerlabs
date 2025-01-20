@@ -49,7 +49,7 @@ y nos dio
 
 probamos por ssh y tenemos la conexión 
 
-![[dockerlabs/dificil/rass/conexion.png]]
+![image](https://github.com/user-attachments/assets/97ea4ba6-06ce-4437-9a32-9f679040763f)
 
 hacemos sudo -l y nos aparece node así que la buscamos https://gtfobins.github.io/gtfobins/node/#sudo
 
