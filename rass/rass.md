@@ -73,7 +73,7 @@ obtenemos conexión a patricio
 
 en patricio encontramos un python 
 
-![[dockerlabs/dificil/rass/python1.png]]
+![image](https://github.com/user-attachments/assets/78499b13-420e-46d9-9775-6da6f309f711)
 
 después de buscar encontré este código en gtfobins https://gtfobins.github.io/gtfobins/python/
 
