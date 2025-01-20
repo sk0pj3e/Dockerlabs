@@ -20,7 +20,7 @@ entramos y tenemos pagina
 
 en la pagina encontré esto interesante
 
-![[joomla.png]]
+![image](https://github.com/user-attachments/assets/5c7ed55c-e58f-4781-8a1a-d152f4d59ceb)
 
 *buscar posible explotación:  Joomla 4.0.3*
 
