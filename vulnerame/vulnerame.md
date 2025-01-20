@@ -1,6 +1,6 @@
 nmap: 22,80 3306
 
-![[dockerlabs/dificil/vulnerame/nmap.png]]
+![image](https://github.com/user-attachments/assets/127b255b-eead-405d-ae0f-217aa3fc6a6b)
 
 ---
 
