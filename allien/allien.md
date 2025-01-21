@@ -74,7 +74,7 @@ entramos por el ssh con la de administrador
 hacemos el comando: find / -user administrador 2>/dev/null
 y encontramos esto
 
-![[var.png]]
+![image](https://github.com/user-attachments/assets/2bdc393e-152a-40ca-ad01-c1d6c6260651)
 
 Sabiendo esto, podemos intentar crear un archivo que nos permita pasar al usuario "www-data"
 
