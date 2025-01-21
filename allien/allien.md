@@ -49,7 +49,7 @@ da:
     - myshare
     - backup24
 
-![[dockerlabs/facil/allien/back.png]]
+![image](https://github.com/user-attachments/assets/36b341bc-287c-48d7-9386-0a2f917309fa)
 
 nos conectamos ahora al "smb" 
 
