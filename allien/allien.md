@@ -59,7 +59,7 @@ dentro hay varios documentos
 seguimos esta ruta: 
 > Documentos > personal > get credentials.txt
 
-![[document.png]]
+![image](https://github.com/user-attachments/assets/5a4f3955-e87c-4c33-abe3-2be18a043f22)
 
 en nuestra terminal lo leemos y tiene los usuarios y contraseñas
 
