@@ -113,6 +113,6 @@ lanzamos el comando que nos da:
 
 bash -p
 
-![[dockerlabs/facil/allien/root.png]]
+![image](https://github.com/user-attachments/assets/122db0fd-16f5-434a-a1f4-e983ca65c1e1)
 
 y somos root! 
