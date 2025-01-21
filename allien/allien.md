@@ -14,7 +14,7 @@ hacemos un gobuster y nos da:
 
 productos.php nos manda a otra pagina 
 
-![[dockerlabs/facil/allien/pagina1.png]]
+![image](https://github.com/user-attachments/assets/53410e19-348e-427a-94ea-322298cafe73)
 
 en esa hay posibles contraseñas o usuarios como "shopo" o el codigo SHOPO20
 
