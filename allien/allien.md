@@ -38,7 +38,7 @@ hacemos una fuerza bruta:
 da:
 > santriani7/50cent
 
-![[satriani.png]]
+![image](https://github.com/user-attachments/assets/6faf8fb6-d6a8-4faa-8de6-bd3e44c9e241)
 
 lo utilizamos para ver que ficheros tiene:
 
