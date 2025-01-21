@@ -96,7 +96,7 @@ ahora vamos al navegador que esten utilizando, en este caso firefox y colocamos:
     http://172.17.0.2/shell.php
 en el terminal victima colocamos en escucha: nc -nlvp 443 
 
-![[dockerlabs/facil/allien/conexion2.png]]
+![image](https://github.com/user-attachments/assets/3bcad5bf-8523-4102-b075-fc8b12a77519)
 
 y estamos otra vez dentro
 
