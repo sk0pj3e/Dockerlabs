@@ -69,7 +69,7 @@ entramos por el ssh con la de administrador
 
      administrador/Adm1nP4ss2024
 
-![[dockerlabs/facil/allien/conexion.png]]
+![image](https://github.com/user-attachments/assets/bfcb74cb-b347-48cc-a77b-e790c3830b2a)
 
 hacemos el comando: find / -user administrador 2>/dev/null
 y encontramos esto
