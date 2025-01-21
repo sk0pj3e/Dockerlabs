@@ -63,7 +63,7 @@ seguimos esta ruta:
 
 en nuestra terminal lo leemos y tiene los usuarios y contraseñas
 
-![[credencial.png]]
+![image](https://github.com/user-attachments/assets/cd8931bd-d876-458e-af02-8cad7850d293)
 
 entramos por el ssh con la de administrador
 
