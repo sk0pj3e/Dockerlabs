@@ -105,7 +105,7 @@ ahora un tratamiento stty
 colocamos sudo -l
 podemos escalar por "service". lo buscamos: https://gtfobins.github.io/gtfobins/service/#sudo
 
-![[dockerlabs/facil/allien/sudo.png]]
+![image](https://github.com/user-attachments/assets/6ebcdfdf-56b2-43be-a118-d3441ee54ee9)
 
 lanzamos el comando que nos da: 
 
