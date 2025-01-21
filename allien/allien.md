@@ -7,8 +7,7 @@ hacemos un gobuster y nos da:
 
     gobuster dir -u http://172.17.0.2/ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt  -x php,html,py,txt -t 64
 
-![[dockerlabs/facil/allien/gobuster.png]]
-
+![image](https://github.com/user-attachments/assets/b8a8ebeb-3b95-4134-a7fc-d1775b21470d)
 
     - info.php
     - productos.php
