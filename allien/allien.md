@@ -1,6 +1,6 @@
 nmap: 22,80,139,445
 
-![[dockerlabs/facil/allien/nmap.png]]
+![image](https://github.com/user-attachments/assets/78d857c5-460d-42ce-94d6-3159515263ec)
 
 ---
 hacemos un gobuster y nos da:
