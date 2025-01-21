@@ -29,8 +29,7 @@ nos da usuarios que tienen:
      - satriani7
      - administrador
 
-![[users.png]]
-
+![image](https://github.com/user-attachments/assets/b54865f2-aa71-4d41-b4f6-bb8620adca3b)
 
 hacemos una fuerza bruta: 
 
