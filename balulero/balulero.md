@@ -53,6 +53,6 @@ ejecutamos los siguientes comandos:
 
 por orden uno por uno, lanzamos bash -p
 
-![[dockerlabs/facil/balulero/root.png]]
+![image](https://github.com/user-attachments/assets/20271c87-bb1e-4499-b345-279e6c2cef11)
 
 y somos root! 
