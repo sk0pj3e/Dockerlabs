@@ -41,7 +41,7 @@ ahora a escalar a root
 utilizamos una herramienta llamada pspy para ver que ejecuta root sin ser root nosotros y poder ver: https://github.com/DominicBreuker/pspy
 lo ejecutamos y muestra que esta carpeta se ejecuta cada 5 segundos:  /opt/script.php
 
-![[sleep5.png]]
+![image](https://github.com/user-attachments/assets/9292dc4b-c6f1-496b-b9f3-626ab09e6868)
 
 ejecutamos los siguientes comandos:
 
