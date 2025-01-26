@@ -1,6 +1,6 @@
 nmap: 22, 80
 
-![[dockerlabs/facil/balulero/nmap.png]]
+![image](https://github.com/user-attachments/assets/17d47401-b6fc-4bf1-bd5f-62a66bf34e98)
 
 ---
 al ingresar a la pagina no da una posible usuario "balu"
