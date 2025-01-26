@@ -17,7 +17,8 @@ en el URL queda si:
 
 nos dará las credenciales
 
-![[dockerlabs/facil/balulero/credenciales.png]]
+![image](https://github.com/user-attachments/assets/a32544d7-07fa-49ea-b4b5-1a768c25d73d)
+
 
 ![[dockerlabs/facil/balulero/conexion.png]]
 
