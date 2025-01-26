@@ -29,7 +29,7 @@ seguí los pasos de: https://gtfobins.github.io/gtfobins/php/#sudo
 
 ![image](https://github.com/user-attachments/assets/9dc11e61-3006-46e3-9a70-cb159c7f1377)
 
-![[chocolate.png]]
+![image](https://github.com/user-attachments/assets/3bc81f7e-ba58-40f3-8784-53c88390b4fa)
 
     CMD="/bin/sh"
 
