@@ -6,7 +6,7 @@ nmap: 22, 80
 al ingresar a la pagina no da una posible usuario "balu"
 al entrar al código de la pagina podemos ver que hay un "script.js" al final, si entramos nos mandara a otro código con lo que muestra esto:
 
-![[dockerlabs/facil/balulero/env.png]]
+![image](https://github.com/user-attachments/assets/3c3528f8-fc03-42b2-bedf-b5f8cfd48ec3)
 
 y si colocamos el 
 > .env_de_baluchingo
