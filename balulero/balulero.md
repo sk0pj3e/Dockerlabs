@@ -19,8 +19,7 @@ nos dará las credenciales
 
 ![image](https://github.com/user-attachments/assets/a32544d7-07fa-49ea-b4b5-1a768c25d73d)
 
-
-![[dockerlabs/facil/balulero/conexion.png]]
+![image](https://github.com/user-attachments/assets/94b81bf7-84e2-4daa-be93-52a6fe54049e)
 
 estamos dentro y ahora buscamos como escalar
 
