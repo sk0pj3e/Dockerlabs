@@ -76,7 +76,7 @@ tenemos las credenciales de SSH
 
 tenemos la conexión ahora vamos buscando y encontramos esto
 
-![[over.png]]
+![image](https://github.com/user-attachments/assets/05779abd-a6bd-4ee1-a6d4-44ae52efdfdc)
 
 vamos a lanzar ahí mismo 
 
