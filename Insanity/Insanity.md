@@ -104,7 +104,7 @@ en el gdb lanzamos run y colocamos el nuevo resultado y obtenemos
 
     0x0000424242424242 in ?? ()
 
-![[resul2.png]]
+![image](https://github.com/user-attachments/assets/df1066f8-b470-47ab-8cf2-e830bf81c311)
 
 entonces cambio porque en el primer "ataque" aparece la protección, si lanzamos un "info frame" mostrara si se ejecuta correctamente pero como se vio muestra la protección, ahora que lanzamos tomando en cuenta el "136" le sumamos las B o sea "136 + 6 B"
 y podemos obtener el ultimo resultado. ahora quedaría encontrar la direccion de memoria que seria el "sh"
