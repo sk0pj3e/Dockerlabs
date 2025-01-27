@@ -113,7 +113,7 @@ y podemos obtener el ultimo resultado. ahora quedaría encontrar la direccion de
 
 veremos si esta ahí y efectivamente esta 
 
-![[memoria2.png]]
+![image](https://github.com/user-attachments/assets/49e2784c-281a-4f05-a5e6-c6f211d1ba62)
 
 ahora seria buscar la dirección de memoria pero de system, con el comando 
 
