@@ -121,7 +121,7 @@ ahora seria buscar la dirección de memoria pero de system, con el comando
 
 y nos dará
 
-![[system.png]]
+![image](https://github.com/user-attachments/assets/39db9b76-7438-40d2-86af-9330598e43a7)
 
 encontré este comando que es para ver si se encuentra ahí
  
