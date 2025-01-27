@@ -33,7 +33,7 @@ Lo importante que entendí del código
 
 así que basado en esto podemos decodificar con un código python
 
-![[decode2.png]]
+![image](https://github.com/user-attachments/assets/4cdd940e-c5a3-4c7c-9d40-189b4e6bfdf4)
 
 con este código lo vamos a lanzar con python3
 
