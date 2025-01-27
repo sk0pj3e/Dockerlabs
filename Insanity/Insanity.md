@@ -12,7 +12,7 @@ lanzamos un gobuster
 
 y obtenemos 
 
-![[tinyp.png]]
+![image](https://github.com/user-attachments/assets/5ba202fc-7a78-4e33-81a2-bf844081ce3d)
 
 entramamos y obtenemos
 
