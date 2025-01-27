@@ -184,6 +184,6 @@ este es el código
 
 ahora los pasamos a la maquina victima y lo ejecutamos
 
-![[dockerlabs/dificil/Insanity/root.png]]
+![image](https://github.com/user-attachments/assets/7bcf18ff-6dc4-4687-bc68-f3cfcce3d99b)
 
 y somos root! 
