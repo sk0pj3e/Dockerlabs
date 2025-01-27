@@ -16,7 +16,7 @@ y obtenemos
 
 entramamos y obtenemos
 
-![[tinyp2.png]]
+![image](https://github.com/user-attachments/assets/c86393b4-2728-4a69-8cdb-396aa439403e)
 
 los descargamos y ejecutamos
 
