@@ -68,7 +68,7 @@ y obtenemos esto
 
 > http://insanity.dl/ultra_secret_folderkma
 
-![[dockerlabs/dificil/Insanity/credenciales.png]]
+![image](https://github.com/user-attachments/assets/630ea875-f856-43a2-82ae-5ff2f9c65a4f)
 
 tenemos las credenciales de SSH
 
