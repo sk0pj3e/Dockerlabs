@@ -86,7 +86,7 @@ ahora colocamos los que nos dio el código
 
      /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 400 
 
-![[meta.png]]
+![image](https://github.com/user-attachments/assets/e657490c-a3ce-4898-acaa-b445609772b4)
 
 ahora en el gdb lanzamos una r y ahora colocamos el resultado
 
