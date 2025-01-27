@@ -64,7 +64,7 @@ con este código lo vamos a lanzar con python3
 
 y obtenemos esto
 
-![[decode.png]]
+![image](https://github.com/user-attachments/assets/6e3e218e-779d-4a2d-b7ef-cf7153ea8469)
 
 > http://insanity.dl/ultra_secret_folderkma
 
