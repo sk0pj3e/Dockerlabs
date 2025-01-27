@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/dificil/Insanity/nmap.png]]
+![image](https://github.com/user-attachments/assets/9a5132f3-0a20-4689-8f07-2f6823477b83)
 
 si entramos a la pagina es un apache como nombra en el nmap, entramos al código fuente y nos mostrara esto
 
