@@ -74,7 +74,7 @@ tenemos las credenciales de SSH
 
 ![image](https://github.com/user-attachments/assets/e1930742-634c-4d90-b124-3e9f2a7d608c)
 
-tenemos la conexión ahora vamos buscando y encontramos esto
+tenemos la conexión ahora vamos buscando y encontramos esto, y por lo que encontre podremos hacer un ataque bufer
 
 ![image](https://github.com/user-attachments/assets/05779abd-a6bd-4ee1-a6d4-44ae52efdfdc)
 
