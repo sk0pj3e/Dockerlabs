@@ -149,8 +149,7 @@ la que buscábamos es la
 
 ahora con todos los valores creamos un código python que contenga los valores
 
-![[exploit.png]]
-
+![image](https://github.com/user-attachments/assets/c62ced44-168d-4ae1-8e1d-08c40db3c39d)
 
 este es el código 
 
