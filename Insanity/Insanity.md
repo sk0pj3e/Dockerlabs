@@ -72,7 +72,7 @@ y obtenemos esto
 
 tenemos las credenciales de SSH
 
-![[dockerlabs/dificil/Insanity/conexion.png]]
+![image](https://github.com/user-attachments/assets/e1930742-634c-4d90-b124-3e9f2a7d608c)
 
 tenemos la conexión ahora vamos buscando y encontramos esto
 
