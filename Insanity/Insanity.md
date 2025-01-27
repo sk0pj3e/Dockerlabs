@@ -20,7 +20,7 @@ entramamos y obtenemos
 
 los descargamos y ejecutamos
 
-![[chmod.png]]
+![image](https://github.com/user-attachments/assets/4de4dd06-7a32-4ff1-a316-ea41755b6da0)
 
 con secret obtenemos que es una clave incorrecta y con libcredenciales.so da segmentation fault, probando no obtenemos nada. así que vamos a utilizar ghidra para ver el contenido del código 
 
