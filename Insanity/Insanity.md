@@ -90,7 +90,7 @@ ahora colocamos los que nos dio el código
 
 ahora en el gdb lanzamos una r y ahora colocamos el resultado
 
-![[resul.png]]
+![image](https://github.com/user-attachments/assets/64bfae17-2c62-422d-9ba7-a3573f1160dd)
 
 obtenemos este resultado
 
