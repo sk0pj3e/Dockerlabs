@@ -129,7 +129,7 @@ encontré este comando que es para ver si se encuentra ahí
 
 de muchas lineas que nos da, nos interesa una
 
-     0x0000000000401016 : ret
+     0x0000000000401016a : ret
 
 así que obtenemos la dirección de ret, ahora buscamos la de pop rdi
 
