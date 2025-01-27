@@ -4,7 +4,7 @@ nmap: 22,80
 
 si entramos a la pagina es un apache como nombra en el nmap, entramos al código fuente y nos mostrara esto
 
-![[dockerlabs/dificil/Insanity/codigo fuente.png]]
+![image](https://github.com/user-attachments/assets/5a899861-971f-45a2-beae-b6e4991f89c1)
 
 lanzamos un gobuster 
 
