@@ -71,7 +71,7 @@ lo modificamos
 
      sudo -u astu busybox sh
 
-![[dockerlabs/medio/seeker/usuario1.png]]
+![image](https://github.com/user-attachments/assets/1ae675e9-7aea-4ba1-947f-bfafb1cd6ae9)
 
 veremos esto con el usuario astu
 
