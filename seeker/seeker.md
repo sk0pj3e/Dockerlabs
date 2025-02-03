@@ -53,7 +53,7 @@ no funciono así que probamos algo mas directo y con otra extensión
 
 ![image](https://github.com/user-attachments/assets/8dc8857f-00ec-4df7-bf5d-0522def667d1)
 
-![[dockerlabs/medio/seeker/conexion.png]]
+![image](https://github.com/user-attachments/assets/72c9d0d7-d2dd-4370-a25f-3c703bc7edcb)
 
 obtenemos conexión, pero antes de lanzar la conexión tenemos que lanzarla desde 
 > crosswords.5eek3r.dl/shell.phar
