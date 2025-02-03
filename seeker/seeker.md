@@ -94,7 +94,7 @@ creamos como un "código" por decir así para el desbordamiento
      /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 400
 
 
-![[gdb.png]]
+![image](https://github.com/user-attachments/assets/7e67d0b6-0b2a-4e26-9bf8-65b8aaa322c9)
 
 veremos que nos da un valor 0x00000000004013d8
 y si colocamos ret nos dará el valor: 0x6341356341346341
