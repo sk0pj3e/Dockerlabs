@@ -45,7 +45,7 @@ pero al intentar subir archivos me aparece que no permite .py, asi que probamos 
        ?>
 
 
-![[virus.png]]
+![image](https://github.com/user-attachments/assets/1e1e1292-d36a-4143-8a7f-27eff711345a)
 
 ahora en la URL colocamos el archivo
 
