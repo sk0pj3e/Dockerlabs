@@ -10,7 +10,7 @@ encontré que podemos agregarlo como .dl, si entramos veremos la misma pagina, i
 
       ffuf -c -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt  -u http://5eek3r.dl -H "Host: FUZZ.5eek3r.dl" -fs 10705
 
-![[ffuf.png]]
+![image](https://github.com/user-attachments/assets/0ea7d491-d1d2-4b82-abbe-d8a190225222)
 
 obtenemos un "crosswords", como es subdominio lo añadimos al host
 
