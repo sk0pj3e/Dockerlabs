@@ -14,7 +14,7 @@ encontré que podemos agregarlo como .dl, si entramos veremos la misma pagina, i
 
 obtenemos un "crosswords", como es subdominio lo añadimos al host
 
-![[host.png]]
+![image](https://github.com/user-attachments/assets/7857eb8e-95e8-4700-a735-8f632a5578bb)
 
 y obtenemos
 
