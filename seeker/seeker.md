@@ -22,7 +22,7 @@ y obtenemos
 
 si ingresamos solo lo codifica. vamos al código fuente  
 
-![[dockerlabs/medio/seeker/fuente.png]]
+![image](https://github.com/user-attachments/assets/355c76f4-cdb2-41ca-aede-4059fa21d72a)
 
 capturo con burpsuite pero no encuentro nada, o sea las solicitudes me dan las mismas que la web en si, así que seguimos buscando
 
