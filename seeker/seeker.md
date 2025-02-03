@@ -32,7 +32,7 @@ lo que podríamos intentar como ya encontramos un subdominio, buscar otro subdom
      
 y dimos que tenemos un admin
 
-![[dockerlabs/medio/seeker/admin.png]]
+![image](https://github.com/user-attachments/assets/4481fc1b-b557-4923-93de-0bfd13b1a1d5)
 
 lo agregamos y vemos que hay una subida de archivos
 
