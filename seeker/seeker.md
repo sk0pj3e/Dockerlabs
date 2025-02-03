@@ -36,7 +36,7 @@ y dimos que tenemos un admin
 
 lo agregamos y vemos que hay una subida de archivos
 
-![[dockerlabs/medio/seeker/subida.png]]
+![image](https://github.com/user-attachments/assets/50a7e2f4-5984-4e57-bf52-e5faf10a417b)
 
 pero al intentar subir archivos me aparece que no permite .py, asi que probamos otros y dimos que funciona con phtml
 
