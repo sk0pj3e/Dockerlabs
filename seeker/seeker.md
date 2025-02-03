@@ -79,7 +79,7 @@ veremos esto con el usuario astu
 
 probamos si se puede hacer un ataque de desbordamiento
 
-![[flow.png]]
+![image](https://github.com/user-attachments/assets/b304c786-7db1-437b-949c-16aa396b030b)
 
 vemos que se puede, pero como no podemos ver el código por el formato lo pasamos a ghidra, nos pasamos por medio de un servidor el bs64 y veremos algo importante
 
