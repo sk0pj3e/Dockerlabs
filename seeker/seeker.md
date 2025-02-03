@@ -4,7 +4,7 @@ nmap: 80
 
 entramos a la pagina y no estaba encontrando nada y viendo el apache2 vi esto:
 
-![[dockerlabs/medio/seeker/pagina1.png]]
+![image](https://github.com/user-attachments/assets/815b9f3b-7096-4316-816c-ec053989f3d7)
 
 encontré que podemos agregarlo como .dl, si entramos veremos la misma pagina, intente con gobuster otra vez pero no me dio nada asi que lanzamos un fuzzing 
 
