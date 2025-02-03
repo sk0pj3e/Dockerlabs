@@ -18,7 +18,7 @@ obtenemos un "crosswords", como es subdominio lo añadimos al host
 
 y obtenemos
 
-![[dockerlabs/medio/seeker/pagina2.png]]
+![image](https://github.com/user-attachments/assets/0b6ce348-1d7c-4119-979d-682891662c06)
 
 si ingresamos solo lo codifica. vamos al código fuente  
 
