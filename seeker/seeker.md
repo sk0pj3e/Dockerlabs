@@ -105,7 +105,7 @@ obtenemos esto el valor 72
 
 lo que es el offset que se buscaba poder un exploit. hacemos el exploit
 
-![[dockerlabs/medio/seeker/exploit.png]]
+![image](https://github.com/user-attachments/assets/b2dd06df-b5af-4885-adbb-a706db334e5b)
 
 con los valores que obtuvimos, lanzamos
 
