@@ -1,6 +1,6 @@
 nmap: 80
 
-![[dockerlabs/medio/seeker/nmap.png]]
+![image](https://github.com/user-attachments/assets/ff3cd078-fc1e-459c-8639-086836758977)
 
 entramos a la pagina y no estaba encontrando nada y viendo el apache2 vi esto:
 
