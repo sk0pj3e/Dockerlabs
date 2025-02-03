@@ -51,7 +51,7 @@ ahora en la URL colocamos el archivo
 
 no funciono así que probamos algo mas directo y con otra extensión
 
-![[dockerlabs/medio/seeker/test.png]]
+![image](https://github.com/user-attachments/assets/8dc8857f-00ec-4df7-bf5d-0522def667d1)
 
 ![[dockerlabs/medio/seeker/conexion.png]]
 
