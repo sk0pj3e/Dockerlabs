@@ -60,7 +60,7 @@ obtenemos conexión, pero antes de lanzar la conexión tenemos que lanzarla desd
 
 dentro veremos como "escalar"
 
-![[dockerlabs/medio/seeker/gt.png]]
+![image](https://github.com/user-attachments/assets/64c14cb6-2102-4e82-a2de-50799e4b5e55)
 
 buscamos en https://gtfobins.github.io/gtfobins/busybox/#sudo
 nos da el comando de sudo 
