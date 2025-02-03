@@ -101,7 +101,7 @@ y si colocamos ret nos dará el valor: 0x6341356341346341
 
 obtenemos esto el valor 72 
 
-![[gdb2.png]]
+![image](https://github.com/user-attachments/assets/33160aa1-1392-4d02-8f9d-8d2a58ee9d09)
 
 lo que es el offset que se buscaba poder un exploit. hacemos el exploit
 
