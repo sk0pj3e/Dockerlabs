@@ -109,6 +109,6 @@ lo que es el offset que se buscaba poder un exploit. hacemos el exploit
 
 con los valores que obtuvimos, lanzamos
 
-![[dockerlabs/medio/seeker/root.png]]
+![image](https://github.com/user-attachments/assets/3980de6c-f6ae-4932-b40d-a878eebad6ef)
 
 y somos root!
