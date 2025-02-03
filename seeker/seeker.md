@@ -75,7 +75,7 @@ lo modificamos
 
 veremos esto con el usuario astu
 
-![[bas64.png]]
+![image](https://github.com/user-attachments/assets/0ac9de2d-34c1-486b-b302-686578aeeb13)
 
 probamos si se puede hacer un ataque de desbordamiento
 
