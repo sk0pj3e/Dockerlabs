@@ -44,7 +44,7 @@ tenemos esta pero no funciona así que la podemos URL encodear https://www.urlen
 
 y obtenemos la conexión
 
-![[dockerlabs/facil/walking dead/conexion.png]]
+![image](https://github.com/user-attachments/assets/c74fd070-2629-4a38-ad66-f5671360fa6a)
 
 ahora escalamos a root, encontramos esto
 
