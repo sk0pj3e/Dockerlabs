@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/facil/walking dead/nmap.png]]
+![image](https://github.com/user-attachments/assets/fa1ec9f2-3652-4885-b2da-5f55617289e1)
 
 entramos a la pagina y tenemos esto
 
