@@ -26,7 +26,7 @@ un hidden
 
 probamos el hidden con el shell.php que nos mostro el código fuente
 
-![[shell.php.png]]
+![image](https://github.com/user-attachments/assets/5dd5347d-f21e-4cd5-8272-344c9ecb92a5)
 
 pero no nos muestra nada, pero como es una shell.php vamos a probar si directorios extras comunes como un "?file" o "?cmd", de no ser así lanzamos este comando
 
