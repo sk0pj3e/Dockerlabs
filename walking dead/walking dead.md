@@ -52,7 +52,7 @@ ahora escalamos a root, encontramos esto
 
 igual encontramos esto
 
-![[cat1.png]]
+![image](https://github.com/user-attachments/assets/7ac94d96-6ad7-42ed-97b3-5478c932b5e4)
 
 python 3.8, así que podemos lanzar este comando para ser root
 
