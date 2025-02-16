@@ -34,7 +34,7 @@ pero no nos muestra nada, pero como es una shell.php vamos a probar si directori
 
 pero funciona con el "cmd"
 
-![[shell1.png]]
+![image](https://github.com/user-attachments/assets/50acadca-4f51-4466-b7f4-c1c2d14e4961)
 
 así que podemos lanzar una bash y dejar el terminal en escucha
 
