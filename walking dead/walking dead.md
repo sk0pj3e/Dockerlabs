@@ -48,7 +48,7 @@ y obtenemos la conexión
 
 ahora escalamos a root, encontramos esto
 
-![[escalada 1.png]]
+![image](https://github.com/user-attachments/assets/26c80f9d-01b1-48f3-8a1e-2c60e26806b9)
 
 igual encontramos esto
 
