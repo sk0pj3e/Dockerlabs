@@ -8,7 +8,7 @@ entramos a la pagina y tenemos esto
 
 y en el código fuente esto:
 
-![[dockerlabs/facil/walking dead/fuente.png]]
+![image](https://github.com/user-attachments/assets/fa52b375-21db-4e37-ba73-7f084d8819ad)
 
 ahí muestra una "shell.php" y un "acces panel", hacemos un gobuster 
 
