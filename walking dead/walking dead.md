@@ -18,7 +18,7 @@ vamos consiguiendo diferentes resultados
 
 un backup.txt
 
-![[dockerlabs/facil/walking dead/backup.png]]
+![image](https://github.com/user-attachments/assets/cc37c0ec-1178-459b-9fb0-b2beaa6972cf)
 
 un hidden
 
