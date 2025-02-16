@@ -22,7 +22,7 @@ un backup.txt
 
 un hidden
 
-![[dockerlabs/facil/walking dead/hidden.png]]
+![image](https://github.com/user-attachments/assets/8c6d7b64-cdc8-41c0-811e-0958c74cf18f)
 
 probamos el hidden con el shell.php que nos mostro el código fuente
 
