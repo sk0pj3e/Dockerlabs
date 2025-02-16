@@ -4,7 +4,7 @@ nmap: 22,80
 
 entramos a la pagina y tenemos esto
 
-![[dockerlabs/facil/walking dead/pagina1.png]]
+![image](https://github.com/user-attachments/assets/c08b40e7-b159-485b-8b84-a1efb6d64a9d)
 
 y en el código fuente esto:
 
