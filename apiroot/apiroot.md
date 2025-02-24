@@ -51,7 +51,7 @@ entonces si lanzamos el comando
 
      curl -H "Authorization: Bearer password1" http://172.17.0.2:5000/api/users
 
-![[dockerlabs/medio/apiroot/usuarios.png]]
+![image](https://github.com/user-attachments/assets/cb1e8a2d-6a50-400c-9fe9-a9e905f123b2)
 
 cambiamos en el código la "password_secreta" por la contraseña encontrada, cambiamos la IP a la de la maquina victima y "directorio_oculto" por "users" que fue lo que nos dio el gobuster. 
 entonces obtenemos dos nombres 
