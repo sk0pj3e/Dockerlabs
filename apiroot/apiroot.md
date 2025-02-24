@@ -92,7 +92,7 @@ lo buscamos en gtf igual
 
 y tendremos que abrir un servidor y clonar en este caso el archivo "passwd" 
 
-![[la x.png]]
+![image](https://github.com/user-attachments/assets/31c0fc41-4111-43fe-a2e3-45917d09aedf)
 
 entonces copiamos el archivo de passwd desde la carpeta victima y en nuestra terminal le sacamos la "x" entonces ahora vamos a pasar desde nuestra maquina a la victima el archivo modificado desde un servidor como nos indica lo de FTFOBINS. 
 
