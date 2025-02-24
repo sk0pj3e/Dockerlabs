@@ -33,7 +33,7 @@ como de por si el ".sh" no esta funcionando o dando algo, lo lanzamos con el com
 
      curl -H "Authorization: Bearer password_secreta" http://localhost:5000/api/directorio_oculto
 
-pero medicando para que me de alguna respuesta diferente porque de por si el, ".sh"  es para hacer fuerza bruta, pero basados en el código que nos dieron.  lanzamos
+pero modificando para que me de alguna respuesta diferente porque de por si el, ".sh"  es para hacer fuerza bruta, pero basados en el código que nos dieron.  lanzamos
 
      bash exploit.sh http://172.17.0.2:5000/api/users /usr/share/wordlists/rockyou.txt
 
