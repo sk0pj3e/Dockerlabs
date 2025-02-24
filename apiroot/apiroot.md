@@ -39,8 +39,7 @@ pero medicando para que me de alguna respuesta diferente porque de por si el, ".
 
 ![image](https://github.com/user-attachments/assets/4acb1075-cd47-42e6-9fdb-43ba010f6058)
 
-
-![[dockerlabs/medio/apiroot/contraseña.png]]
+![image](https://github.com/user-attachments/assets/b6c688fc-31f7-49db-82ea-b472b35e5996)
 
 obtenemos la contraseña
 
