@@ -72,7 +72,7 @@ dentro tenemos esto
 
 un python3 y un "app.py", buscamos el de python3 https://gtfobins.github.io/gtfobins/python/#sudo
 
-![[dockerlabs/medio/apiroot/gtf.png]]
+![image](https://github.com/user-attachments/assets/871ece54-cf63-483a-8345-3fc0a733595e)
 
 lanzamos
 
