@@ -80,7 +80,7 @@ lanzamos
 
 y somos el usuario balulero
 
-![[dockerlabs/medio/apiroot/usuario2.png]]
+![image](https://github.com/user-attachments/assets/1b8f12b8-4ccc-4ddd-a6fd-b3d74c0b4dc6)
 
 tenemos dentro un curl 
 
