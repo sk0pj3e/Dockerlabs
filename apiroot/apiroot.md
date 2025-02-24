@@ -68,7 +68,7 @@ obtenemos a "bob" y "password1" y tenemos la conexion
 
 dentro tenemos esto
 
-![[dockerlabs/medio/apiroot/sudo -l.png]]
+![image](https://github.com/user-attachments/assets/a120b915-9440-4141-863f-60d680423e99)
 
 un python3 y un "app.py", buscamos el de python3 https://gtfobins.github.io/gtfobins/python/#sudo
 
