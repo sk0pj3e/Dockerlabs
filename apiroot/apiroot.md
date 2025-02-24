@@ -64,7 +64,7 @@ hacemos una fuerza bruta:
 
 obtenemos a "bob" y "password1" y tenemos la conexion
 
-![[dockerlabs/medio/apiroot/conexion.png]]
+![image](https://github.com/user-attachments/assets/ae41145a-bf80-43de-a64e-404bc3e0ca35)
 
 dentro tenemos esto
 
