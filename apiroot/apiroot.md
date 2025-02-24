@@ -88,7 +88,7 @@ tenemos dentro un curl
 
 lo buscamos en gtf igual
 
-![[dockerlabs/medio/apiroot/conexion2.png]]
+![image](https://github.com/user-attachments/assets/a710f529-f3a5-4079-a34d-f7f5dca66292)
 
 y tendremos que abrir un servidor y clonar en este caso el archivo "passwd" 
 
