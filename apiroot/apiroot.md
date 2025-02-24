@@ -4,7 +4,7 @@ nmap: 22, 5000
 
 entramos a la pagina por el puerto 5000
 
-![[dockerlabs/medio/apiroot/pagina1.png]]
+![image](https://github.com/user-attachments/assets/811b2243-4273-4387-9dc2-b4026ae5c599)
 
 en la pagina nos da un código:
 
