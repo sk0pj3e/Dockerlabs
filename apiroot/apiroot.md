@@ -60,7 +60,7 @@ entonces obtenemos dos nombres
 
 hacemos una fuerza bruta:
 
-![[dockerlabs/medio/apiroot/hydra.png]]
+![image](https://github.com/user-attachments/assets/fcfaa2e0-7165-4d07-a781-bdd9f0ff1eb5)
 
 obtenemos a "bob" y "password1" y tenemos la conexion
 
