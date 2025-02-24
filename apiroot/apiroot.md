@@ -112,7 +112,7 @@ entonces tendremos algo así
 
 ahora verificamos que se remplazo el archivo por el modificado
 
-![[dockerlabs/medio/apiroot/root1.png]]
+![image](https://github.com/user-attachments/assets/6ccb9951-f25f-4284-9593-5e0952e42a68)
 
 y vemos que no tiene la "x" así que se modifico correctamente, ahora haremos un "su root"
 
