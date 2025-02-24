@@ -8,7 +8,7 @@ entramos a la pagina por el puerto 5000
 
 en la pagina nos da un código:
 
-![[dockerlabs/medio/apiroot/codigo1.png]]
+![image](https://github.com/user-attachments/assets/01e2fd20-e3b2-45c1-b936-a64d0e668314)
 
 que si lo probamos da
 
