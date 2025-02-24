@@ -37,7 +37,8 @@ pero medicando para que me de alguna respuesta diferente porque de por si el, ".
 
      bash exploit.sh http://172.17.0.2:5000/api/users /usr/share/wordlists/rockyou.txt
 
-![[exploit1.png]]
+![image](https://github.com/user-attachments/assets/4acb1075-cd47-42e6-9fdb-43ba010f6058)
+
 
 ![[dockerlabs/medio/apiroot/contraseña.png]]
 
