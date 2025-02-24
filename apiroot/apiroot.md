@@ -16,7 +16,7 @@ que si lo probamos da
 
 nada interesante en si. pero en la pagina veremos algo, que cada ejemplo de API por ejemplo, GET O POST y así, tienen como comienzo "/api"
 
-![[api2.png]]
+![image](https://github.com/user-attachments/assets/61cb2c5e-63f7-4eb6-abf2-0d7dcadce5e8)
 
 hacemos un gobuster
 
