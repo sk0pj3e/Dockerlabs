@@ -24,7 +24,7 @@ hacemos un gobuster
 
 y nos da "users", lo probamos
 
-![[dockerlabs/medio/apiroot/pagina2.png]]
+![image](https://github.com/user-attachments/assets/f63bc726-1636-48bd-a84e-69a8bb5b039b)
 
 pero la verdad no da mucho mas, buscamos alguna forma de explotar esto, buscamos alguna explotación de "APIs"  y encontre esta: https://github.com/Maalfer/bruteapi/blob/main/bruteapi.sh
 que es un .sh, así que nos copiamos el código, creamos un .sh y le damos permisos de ejecución.  
