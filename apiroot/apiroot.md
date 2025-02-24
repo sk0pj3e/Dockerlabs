@@ -116,6 +116,6 @@ ahora verificamos que se remplazo el archivo por el modificado
 
 y vemos que no tiene la "x" así que se modifico correctamente, ahora haremos un "su root"
 
-![[dockerlabs/medio/apiroot/rootf.png]]
+![image](https://github.com/user-attachments/assets/6ef77241-ba32-4bf9-bc58-550f5547d394)
 
 y somos root! 
