@@ -84,7 +84,7 @@ y somos el usuario balulero
 
 tenemos dentro un curl 
 
-![[dockerlabs/medio/apiroot/curl.png]]
+![image](https://github.com/user-attachments/assets/27228485-12ca-467b-8088-22bdcaa04472)
 
 lo buscamos en gtf igual
 
