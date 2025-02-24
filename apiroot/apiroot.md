@@ -20,7 +20,7 @@ nada interesante en si. pero en la pagina veremos algo, que cada ejemplo de API 
 
 hacemos un gobuster
 
-![[dockerlabs/medio/apiroot/gobuster.png]]
+![image](https://github.com/user-attachments/assets/05c80861-d4eb-4b1b-a349-56cdcd0beaad)
 
 y nos da "users", lo probamos
 
