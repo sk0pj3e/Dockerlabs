@@ -12,7 +12,7 @@ en la pagina nos da un código:
 
 que si lo probamos da
 
-![[dockerlabs/medio/apiroot/codigo2.png]]
+![image](https://github.com/user-attachments/assets/6cd6e0a2-07ab-4874-be96-ca4646d644df)
 
 nada interesante en si. pero en la pagina veremos algo, que cada ejemplo de API por ejemplo, GET O POST y así, tienen como comienzo "/api"
 
