@@ -108,7 +108,7 @@ en la terminal victima colocamos
 
 entonces tendremos algo así 
 
-![[server.png]]
+![image](https://github.com/user-attachments/assets/1f2796d2-1a28-4920-b328-3cbcca474db6)
 
 ahora verificamos que se remplazo el archivo por el modificado
 
