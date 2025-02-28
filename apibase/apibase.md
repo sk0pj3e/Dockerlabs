@@ -10,7 +10,7 @@ si entramos a la pagina veremos
 
 lanzamos un gobuster para probar si hay algo mas
 
-![[dockerlabs/facil/apibase/gobuster.png]]
+![image](https://github.com/user-attachments/assets/38ed2d4e-2253-4b62-ab45-b6a0116a2b9c)
 
 y con el "/add" nos da esto: 
 
