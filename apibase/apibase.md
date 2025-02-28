@@ -1,6 +1,6 @@
 nmap: 22, 5000
 
-![[dockerlabs/facil/apibase/nmap.png]]
+![image](https://github.com/user-attachments/assets/b99f8501-fe25-4b4a-9532-5991897b8c04)
 
 ![[nmap1.png]]
 
