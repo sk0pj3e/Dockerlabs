@@ -14,7 +14,7 @@ lanzamos un gobuster para probar si hay algo mas
 
 y con el "/add" nos da esto: 
 
-![[add.png]]
+![image](https://github.com/user-attachments/assets/69c207e2-d7a1-4ed2-9eb4-a1bae5acf4ad)
 
 pero en el código que daba la pagina aparece como que podemos crear un usuario, pero no tenemos mas allá de esa frase cuando se ingresa a la pagina. 
 
