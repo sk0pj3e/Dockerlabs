@@ -34,7 +34,7 @@ ahora vamos a verificar que funciona y que el usuario esta
 
 y vemos que esta con el nombre y contraseña que le dimos. pero la verdad no llegue mucho mas lejos porque aun así no puedo entrar por el puerto 22. pero vi que podemos crear un .py para hacer un tipo de fuerza bruta. así que después de muchos intentos con el código me dio resultado
 
-![[dockerlabs/facil/apibase/python.png]]
+![image](https://github.com/user-attachments/assets/c110c091-21de-46d5-808a-6c20c6577290)
 
 y me dio otro error pero fue porque el diccionario que cree no funciona, pero podemos añadir uno de github
 
