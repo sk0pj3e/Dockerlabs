@@ -26,7 +26,7 @@ encontré en https://stackoverflow.com/ que podemos crearlo con "curl" así que 
 
 obtendremos 
 
-![[dockerlabs/facil/apibase/curl.png]]
+![image](https://github.com/user-attachments/assets/4649bada-d5af-4f41-9ae3-cabd9d92640f)
 
 ahora vamos a verificar que funciona y que el usuario esta
 
