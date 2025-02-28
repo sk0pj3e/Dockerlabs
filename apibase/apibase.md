@@ -2,7 +2,7 @@ nmap: 22, 5000
 
 ![image](https://github.com/user-attachments/assets/b99f8501-fe25-4b4a-9532-5991897b8c04)
 
-![[nmap1.png]]
+![image](https://github.com/user-attachments/assets/47a7c11a-dca9-4d5d-ae6e-f800286aeae5)
 
 si entramos a la pagina veremos 
 
