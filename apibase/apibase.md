@@ -6,7 +6,7 @@ nmap: 22, 5000
 
 si entramos a la pagina veremos 
 
-![[dockerlabs/facil/apibase/api.png]]
+![image](https://github.com/user-attachments/assets/e45554dd-19db-4c9a-a5a5-8b1e103c879b)
 
 lanzamos un gobuster para probar si hay algo mas
 
