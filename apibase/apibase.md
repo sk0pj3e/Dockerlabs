@@ -42,8 +42,7 @@ y me dio otro error pero fue porque el diccionario que cree no funciona, pero po
 
 lo descargamos con "wget" y le cambiamos la linea al código
 
-![[dockerlabs/facil/apibase/codigo2.png]]
-
+![image](https://github.com/user-attachments/assets/0968d3f4-3d76-4533-ae24-5c61819eba18)
 
 después de un rato nos da un usuario 
 
