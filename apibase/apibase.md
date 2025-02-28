@@ -53,7 +53,7 @@ después de un rato nos da un usuario
 
 obtenemos conexión
 
-![[dockerlabs/facil/apibase/conexion.png]]
+![image](https://github.com/user-attachments/assets/9ce72e74-9a90-44b3-9953-5313aee58cc0)
 
 ahora buscando para escalar, obtenemos un .pacap, vemos que tiene y tiene la credencial de root así que entramos a root 
 
