@@ -30,7 +30,7 @@ obtendremos
 
 ahora vamos a verificar que funciona y que el usuario esta
 
-![[dockerlabs/facil/apibase/curl2.png]]
+![image](https://github.com/user-attachments/assets/4c1e8e59-4bed-4fcf-9bb4-3d471c95e686)
 
 y vemos que esta con el nombre y contraseña que le dimos. pero la verdad no llegue mucho mas lejos porque aun así no puedo entrar por el puerto 22. pero vi que podemos crear un .py para hacer un tipo de fuerza bruta. así que después de muchos intentos con el código me dio resultado
 
