@@ -57,6 +57,6 @@ obtenemos conexión
 
 ahora buscando para escalar, obtenemos un .pacap, vemos que tiene y tiene la credencial de root así que entramos a root 
 
-![[dockerlabs/facil/apibase/root.png]]
+![image](https://github.com/user-attachments/assets/dee6f9d9-2eb5-41d6-88b6-33cc3e64c5b6)
 
 somos root
