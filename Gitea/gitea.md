@@ -121,7 +121,7 @@ como se ve tenemos un puerto abierto de forma local "127.0.0.1:3306"  y 3306 fun
      mysql -u admin -pPassAdmin123-
 
 
-![[dockerlabs/medio/gitea/test24.png]]
+![image](https://github.com/user-attachments/assets/a789dd0d-a870-4178-88b5-584369ca5407)
 
 tenemos acceso a la base de datos, vamos a realizar esta escalada: https://docs.databricks.com/gcp/en/udf/ (User-Defined Functions) UDF  lo que es pocas palabras
 
