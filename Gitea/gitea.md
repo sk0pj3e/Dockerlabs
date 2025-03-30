@@ -101,7 +101,7 @@ se logra la magia y tenemos usuarios y contraseñas como textos. pero no creo qu
 
 creamos una carpeta con las contraseñas y hacemos una fuerza bruta con el usuario "designer" que es el usuario del git donde están los códigos. 
 
-![[dockerlabs/medio/gitea/test21.png]]
+![image](https://github.com/user-attachments/assets/12dd3a10-60c2-4949-9c95-ef7ceb5c8e35)
 
 obtenemos la contraseña de "ssh"
 
