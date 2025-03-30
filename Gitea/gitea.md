@@ -170,6 +170,6 @@ ahora nos vamos a la base de datos y nos conectamos creamos la función que haga
 
 entonces el exploit cargado podemos ejecutar comando a nivel sistema, podemos por ejemplo cargar una reverse shell hacia nuestro puerto para conectarnos directo a root 
 
-![[dockerlabs/medio/gitea/root.png]]
+![image](https://github.com/user-attachments/assets/70746c93-a2d0-45d0-9a0b-3d0424cd9a76)
 
 somos root! 
