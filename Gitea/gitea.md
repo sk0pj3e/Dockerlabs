@@ -48,7 +48,7 @@ nos dio uno llamativo que es "search"
 
 probamos pero no da nada y como vimos al principio en el código fuente da una URL que contiene este usuario creo yo, lo añadimos al hosts
 
-![[dockerlabs/medio/gitea/test10.png]]
+![image](https://github.com/user-attachments/assets/40987377-ac21-483e-9b77-f593b40f2a2c)
 
 obtenemos esta pagina pero al final de la pagina da un nombre que podría ser un usuario, pero no tiene muchas cosas mas, así que le seguimos buscando y haciendo otro FFUF
 
