@@ -156,7 +156,7 @@ ahora lanzamos estos comandos
     gcc -g -c 1518.c
       gcc -g -shared -Wl,-soname,exploit_udf.so -o exploit_udf.so 1518.o -lc
 
-![[dockerlabs/medio/gitea/test31.png]]
+![image](https://github.com/user-attachments/assets/73feac9c-97d5-40c8-b77d-a741ce95380c)
 
 tendremos los 3 documentos ahora movemos el exploit a plugins para que la cargue
 
