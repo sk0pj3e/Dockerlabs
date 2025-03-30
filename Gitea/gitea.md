@@ -149,7 +149,7 @@ nos sirve el primero así que lo tomamos
 
 dentro de se exploit contiene un código que intenta cargar códigos o archivos en "system()" así que vamos a pasarlo a la maquina victima
 
-![[dockerlabs/medio/gitea/test30.png]]
+![image](https://github.com/user-attachments/assets/b35d28dc-b272-40c1-b780-1cc6a4b7bc75)
 
 ahora lanzamos estos comandos
 
