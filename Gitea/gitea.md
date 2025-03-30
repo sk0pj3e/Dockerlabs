@@ -40,7 +40,7 @@ como no tenemos mucho hacemos un gobuster para descubrir mas si es que tiene mas
      gobuster dir -u http://dev.gitea.dl/ -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt  -x php,html,py,txt -t 64
 
 
-![[dockerlabs/medio/gitea/test8.png]]
+![image](https://github.com/user-attachments/assets/80e2421b-114a-4f26-9292-8999e4a9289f)
 
 nos dio uno llamativo que es "search" 
 
