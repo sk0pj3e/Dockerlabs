@@ -62,7 +62,7 @@ ahora hacemos lo mismo pero agregamos el "s3cr3tdir"
 
 y como vemos tenemos lo mismo que vimos en el primer codigo que es el URL exactamente igual. 
 
-![[dockerlabs/medio/gitea/test13.png]]
+![image](https://github.com/user-attachments/assets/e4ff1364-7c5e-4684-ab51-c989c3690ff7)
 
 pero nos vamos a logear ahora para ver que hay. 
 
