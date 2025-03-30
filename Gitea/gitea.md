@@ -105,7 +105,7 @@ creamos una carpeta con las contraseñas y hacemos una fuerza bruta con el usuar
 
 obtenemos la contraseña de "ssh"
 
-![[dockerlabs/medio/gitea/test22.png]]
+![image](https://github.com/user-attachments/assets/284c3fce-a6ca-43b9-86eb-412d780ece0a)
 
 ingresamos con las credenciales y tenemos la flag de user
 
