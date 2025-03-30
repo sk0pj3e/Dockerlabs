@@ -71,7 +71,7 @@ pero nos vamos a logear ahora para ver que hay.
 nos iremos a explore y veremos esos 3 repositorios  y el que contiene un código es el 
 myapp >> app.py
 
-![[dockerlabs/medio/gitea/test15.png]]
+![image](https://github.com/user-attachments/assets/d7fe65e3-4e5b-4ad5-b287-4a5427fbac17)
 
 y en esta linea tiene una vulnerabilidad
 
