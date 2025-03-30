@@ -29,7 +29,7 @@ ahora haremos un FFUF
 
      ffuf -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://gitea.dl -H "Host: FUZZ.gitea.dl" -fs 13615 
 
-![[dockerlabs/medio/gitea/test6.png]]
+![image](https://github.com/user-attachments/assets/2e7dbd84-4137-443e-a09d-0ee7009e42f5)
 
 nos da "dev" lo agregamos al hosts y nos da esta pagina
 
