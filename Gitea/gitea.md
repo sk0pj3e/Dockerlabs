@@ -95,7 +95,7 @@ probamos lo mismo pero con el código de info.txt
 
 nos da un error así que probamos, pero nos dice que hay un archivo de la información en /opt así que probamos suerte
 
-![[dockerlabs/medio/gitea/test20.png]]
+![image](https://github.com/user-attachments/assets/ba45147a-eb4a-46da-b6af-ae6db5f9a380)
 
 se logra la magia y tenemos usuarios y contraseñas como textos. pero no creo que esos son los usuarios reales, así que vamos hacer un ataque de fuerza bruta. 
 
