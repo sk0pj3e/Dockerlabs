@@ -66,7 +66,7 @@ y como vemos tenemos lo mismo que vimos en el primer codigo que es el URL exacta
 
 pero nos vamos a logear ahora para ver que hay. 
 
-![[dockerlabs/medio/gitea/test14.png]]
+![image](https://github.com/user-attachments/assets/e2e4b9c1-e70a-4f24-83cb-7967c4ebb5f1)
 
 nos iremos a explore y veremos esos 3 repositorios  y el que contiene un código es el 
 myapp >> app.py
