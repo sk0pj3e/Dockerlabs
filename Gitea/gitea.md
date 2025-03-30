@@ -13,7 +13,7 @@ nos vamos a la pagina del puerto 80 y 3000
 en la pagina no hay mucho mas que información y en la pagina del puerto 3000 hay una versión pero no hay exploit de esa versión, solo de la 1.22.4 que es la versión anterior.
 en el código fuente hay unos puntos importantes
 
-![[dockerlabs/medio/gitea/test4.png]]
+![image](https://github.com/user-attachments/assets/ce7b0baa-b7cc-4ba5-bb70-d78531b01a98)
 
 primero un URL que si la ingresamos a hosts nos enviara otra vez a la pagina del puerto 3000, y abajo hay un  "csrftoken"  con un código, pero la verdad que el código da unos números pero probablemente hay un login. 
 ahora probando otra vez con la URL que encontramos en el código fuente la vamos modificando, entonces ingresamos un "gitea.dl" y veremos que tenemos un login
