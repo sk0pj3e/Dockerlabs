@@ -91,7 +91,7 @@ y vemos que nos entrega la información que esperamos, buscamos en los otros arc
 
 probamos lo mismo pero con el código de info.txt
 
-![[dockerlabs/medio/gitea/test19.png]]
+![image](https://github.com/user-attachments/assets/bf1346cf-0dd1-4ade-b7f4-223ea0709eaa)
 
 nos da un error así que probamos, pero nos dice que hay un archivo de la información en /opt así que probamos suerte
 
