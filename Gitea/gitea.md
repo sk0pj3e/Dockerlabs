@@ -8,7 +8,7 @@ nos vamos a la pagina del puerto 80 y 3000
 
 ![image](https://github.com/user-attachments/assets/283cdfa3-b5ec-4a3c-991f-3de987903851)
 
-![[dockerlabs/medio/gitea/test3.png]]
+![image](https://github.com/user-attachments/assets/cac418c6-5aa8-469d-b685-ca99582d7e5c)
 
 en la pagina no hay mucho mas que información y en la pagina del puerto 3000 hay una versión pero no hay exploit de esa versión, solo de la 1.22.4 que es la versión anterior.
 en el código fuente hay unos puntos importantes
