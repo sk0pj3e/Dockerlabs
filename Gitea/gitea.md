@@ -141,7 +141,7 @@ entonces comenzamos con
 
 ahora buscamos una vulnerabilidad o exploit basado en este ataque 
 
-![[dockerlabs/medio/gitea/test28.png]]
+![image](https://github.com/user-attachments/assets/a2ad8583-731c-452a-841a-7cb330ded993)
 
 nos sirve el primero así que lo tomamos
 
