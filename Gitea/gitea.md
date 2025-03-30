@@ -135,7 +135,7 @@ entonces comenzamos con
 
      SHOW VARIABLES LIKE '%secure_file_priv%';
 
-![[dockerlabs/medio/gitea/test26.png]]
+![image](https://github.com/user-attachments/assets/3c1fb019-8d91-4d75-8ada-bfb07c7df1b3)
 
 ![[dockerlabs/medio/gitea/test27.png]]
 
