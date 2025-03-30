@@ -131,7 +131,7 @@ entonces comenzamos con
 
     SHOW VARIABLES LIKE '%plugin_dir%';
 
-![[dockerlabs/medio/gitea/test25.png]]
+![image](https://github.com/user-attachments/assets/c7ee88db-2796-4966-8079-d0024a778961)
 
      SHOW VARIABLES LIKE '%secure_file_priv%';
 
