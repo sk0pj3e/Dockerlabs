@@ -18,7 +18,7 @@ en el código fuente hay unos puntos importantes
 primero un URL que si la ingresamos a hosts nos enviara otra vez a la pagina del puerto 3000, y abajo hay un  "csrftoken"  con un código, pero la verdad que el código da unos números pero probablemente hay un login. 
 ahora probando otra vez con la URL que encontramos en el código fuente la vamos modificando, entonces ingresamos un "gitea.dl" y veremos que tenemos un login
 
-![[dockerlabs/medio/gitea/test5.png]]
+![image](https://github.com/user-attachments/assets/43f97f17-701f-4f35-bda2-c011ac2f4b13)
 
 como vemos en los login da algunas credenciales pero no funcionan pero por si acaso la vamos a guardar. 
 
