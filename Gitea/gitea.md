@@ -166,7 +166,7 @@ ahora nos vamos a la base de datos y nos conectamos creamos la función que haga
 
     CREATE FUNCTION do_system RETURNS STRING SONAME 'exploit_udf.so';
 
-![[dockerlabs/medio/gitea/test32.png]]
+![image](https://github.com/user-attachments/assets/4a38f320-e002-476e-8037-2310990387ee)
 
 entonces el exploit cargado podemos ejecutar comando a nivel sistema, podemos por ejemplo cargar una reverse shell hacia nuestro puerto para conectarnos directo a root 
 
