@@ -111,7 +111,7 @@ ingresamos con las credenciales y tenemos la flag de user
 
      4683f3b0c2f083bb9588370c0f8ab284
 
-![[dockerlabs/medio/gitea/test23.png]]
+![image](https://github.com/user-attachments/assets/3b1385f7-eb6c-4a4e-bdd8-76146427a376)
 
 como se ve tenemos un puerto abierto de forma local "127.0.0.1:3306"  y 3306 funciona con mysql y tenemos credenciales de un login así que probamos entrar a la base de datos con las credenciales que nos dio el login
 
