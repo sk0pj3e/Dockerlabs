@@ -44,7 +44,7 @@ como no tenemos mucho hacemos un gobuster para descubrir mas si es que tiene mas
 
 nos dio uno llamativo que es "search" 
 
-![[dockerlabs/medio/gitea/test9.png]]
+![image](https://github.com/user-attachments/assets/a2bc71b8-baca-4f8c-90ad-9ff1cb6689f8)
 
 probamos pero no da nada y como vimos al principio en el código fuente da una URL que contiene este usuario creo yo, lo añadimos al hosts
 
