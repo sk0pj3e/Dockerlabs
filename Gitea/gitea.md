@@ -75,7 +75,7 @@ myapp >> app.py
 
 y en esta linea tiene una vulnerabilidad
 
-![[dockerlabs/medio/gitea/test16.png]]
+![image](https://github.com/user-attachments/assets/80bab679-f105-4f05-9313-42f17fe260ff)
 
 a esa vulnerabilidad se le puede realizar un "path traversal" en la pagina principal o sea gitea.dl, así que podemos descargar archivos con esa vulnerabilidad o lograr visualizar 
 
