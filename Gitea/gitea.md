@@ -52,7 +52,7 @@ probamos pero no da nada y como vimos al principio en el código fuente da una U
 
 obtenemos esta pagina pero al final de la pagina da un nombre que podría ser un usuario, pero no tiene muchas cosas mas, así que le seguimos buscando y haciendo otro FFUF
 
-![[dockerlabs/medio/gitea/test11.png]]
+![image](https://github.com/user-attachments/assets/672314d3-5037-410a-a274-971939e3554e)
 
     ffuf -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u http://s3cr3tdir.dev.gitea.dl -H "Host: FUZZ.s3cr3tdir.dev.gitea.dl" -fs 13615 
 
