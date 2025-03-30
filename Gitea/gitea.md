@@ -58,7 +58,7 @@ obtenemos esta pagina pero al final de la pagina da un nombre que podría ser un
 
 ahora hacemos lo mismo pero agregamos el "s3cr3tdir"
 
-![[dockerlabs/medio/gitea/test12.png]]
+![image](https://github.com/user-attachments/assets/da39d60e-1ad4-425a-86db-9d23d4a835cc)
 
 y como vemos tenemos lo mismo que vimos en el primer codigo que es el URL exactamente igual. 
 
