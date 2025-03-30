@@ -33,7 +33,7 @@ ahora haremos un FFUF
 
 nos da "dev" lo agregamos al hosts y nos da esta pagina
 
-![[dockerlabs/medio/gitea/test7.png]]
+![image](https://github.com/user-attachments/assets/05956581-0749-4020-8a5f-b92ce366fd05)
 
 como no tenemos mucho hacemos un gobuster para descubrir mas si es que tiene mas
 
