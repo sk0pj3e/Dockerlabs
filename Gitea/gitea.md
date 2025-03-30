@@ -87,7 +87,7 @@ lanzamos
 
 y vemos que nos entrega la información que esperamos, buscamos en los otros archivos otras funciones o códigos y encontramos esto
 
-![[dockerlabs/medio/gitea/test18.png]]
+![image](https://github.com/user-attachments/assets/9f7db90f-7928-4ee7-a5fc-16f780298705)
 
 probamos lo mismo pero con el código de info.txt
 
