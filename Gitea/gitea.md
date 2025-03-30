@@ -1,6 +1,6 @@
 nmap: 22, 80, 3000
 
-![[dockerlabs/medio/gitea/test1.png]]
+![image](https://github.com/user-attachments/assets/19f5d5f2-4a90-4310-bbd4-14c4d074484e)
 
 ---
 
