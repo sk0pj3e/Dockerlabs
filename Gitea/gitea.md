@@ -6,7 +6,7 @@ nmap: 22, 80, 3000
 
 nos vamos a la pagina del puerto 80 y 3000
 
-![[dockerlabs/medio/gitea/test2.png]]
+![image](https://github.com/user-attachments/assets/283cdfa3-b5ec-4a3c-991f-3de987903851)
 
 ![[dockerlabs/medio/gitea/test3.png]]
 
