@@ -145,7 +145,7 @@ ahora buscamos una vulnerabilidad o exploit basado en este ataque
 
 nos sirve el primero así que lo tomamos
 
-![[dockerlabs/medio/gitea/test29.png]]
+![image](https://github.com/user-attachments/assets/adafc483-669e-427f-b637-c49f289f620a)
 
 dentro de se exploit contiene un código que intenta cargar códigos o archivos en "system()" así que vamos a pasarlo a la maquina victima
 
