@@ -35,7 +35,7 @@ nos da la contraseña de lucas: chocolate
 
 entramos en el ssh con el usuario y contraseña encontrado
 
-![[dockerlabs/facil/paradise/test6.png]]
+![image](https://github.com/user-attachments/assets/52347385-e729-4072-83d2-698c1e2afc24)
 
 utilizamos sudo -l
 
