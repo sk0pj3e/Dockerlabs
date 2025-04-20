@@ -23,7 +23,7 @@ es un parámetro, así que dejamos la URL de la siguiente forma.
 
 > http://172.17.0.2/estoesunsecreto/mensaje_para_lucas.txt
 
-![[dockerlabs/facil/paradise/test4.png]]
+![image](https://github.com/user-attachments/assets/83682ff4-5a74-4c3f-8049-90d8167b687b)
 
 Lanzamos un ataque de fuerza bruta ya que nos indican que la contraseña es débil:
 
