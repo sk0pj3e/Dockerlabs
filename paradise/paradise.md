@@ -11,7 +11,7 @@ Nos da dos nombres: andy y lucas
 
 en el código fuente de la pagina de "Andy's house" hay una contraseña en base64: 
 
-![[dockerlabs/facil/paradise/test3.png]]
+![image](https://github.com/user-attachments/assets/3c9ed1dd-f426-494a-acb2-052b168ccc2b)
 
 > ZXN0b2VzdW5zZWNyZXRvCg==
 
