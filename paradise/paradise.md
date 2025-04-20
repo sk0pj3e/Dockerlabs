@@ -5,7 +5,7 @@ nmap: 445,80,22,139
 ---
 hacemos un: enum4linux -a 172.17.0.2
 
-![[dockerlabs/facil/paradise/test2.png]]
+![image](https://github.com/user-attachments/assets/b905716e-26f1-4f9f-bed5-cdb04ce17655)
 
 Nos da dos nombres: andy y lucas
 
