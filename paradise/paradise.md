@@ -57,5 +57,6 @@ lo ejecutamos ya que tiene permisos de ejecución con Andy
 
 > ./privileged_exec
 
-![[dockerlabs/facil/paradise/test8.png]]
+![image](https://github.com/user-attachments/assets/77fdb9fe-044d-4732-925a-a5e93f757872)
+
 y somos root!
