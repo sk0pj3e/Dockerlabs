@@ -1,6 +1,6 @@
 nmap: 445,80,22,139
 
-![[dockerlabs/facil/paradise/test1.png]]
+![image](https://github.com/user-attachments/assets/3bb1be68-7619-4523-bc23-f1de1268799c)
 
 ---
 hacemos un: enum4linux -a 172.17.0.2
