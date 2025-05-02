@@ -24,7 +24,7 @@ nos vamos al codigo fuente y esta esto
 
 entramos por el ssh
 
-![[dockerlabs/facil/BaluFood/test6.png]]
+![image](https://github.com/user-attachments/assets/bb447a81-b17d-4444-8fa9-085aaf47b17c)
 
 si leemos el app.py  tendremos una contraseña
 
