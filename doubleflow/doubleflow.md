@@ -55,7 +55,7 @@ lanzamos:
 
 y volvemos a lanzar los 500 que nos dio y nos dará un valor. 
 
-![[dockerlabs/dificil/doubleflow/test7.png]]
+![image](https://github.com/user-attachments/assets/f253c4f1-f245-4da0-9493-2f175e3ddc8f)
 
 entonces nos da el valor: 0x000000000040142b
 lanzamos ahí mismo un: ret
