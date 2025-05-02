@@ -18,7 +18,7 @@ Nos descarga un binario
 le damos los permisos y ejecutamos, ahora nos conectamos
 > ./app1
 
-![[dockerlabs/dificil/doubleflow/test3.png]]
+![image](https://github.com/user-attachments/assets/8c5fdd84-6725-473a-91ad-857f3bc35f50)
 
 en nuestra terminal conectamos:
  
