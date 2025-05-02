@@ -47,7 +47,7 @@ ahora lanzamos:
 
 nos da: offset: 282
 
-![[dockerlabs/dificil/doubleflow/test5.png]]
+![image](https://github.com/user-attachments/assets/fc51e1ca-1a08-46a5-bc3d-1ac1905f90e8)
 
 lanzamos: 
 
