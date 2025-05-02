@@ -1,6 +1,6 @@
 nmap: 22, 5000
 
-![[dockerlabs/facil/BaluFood/test1.png]]
+![image](https://github.com/user-attachments/assets/aeed78ad-a816-4c3c-870f-f006219cab59)
 
 nos vamos a la pagina con el puerto 5000
 
