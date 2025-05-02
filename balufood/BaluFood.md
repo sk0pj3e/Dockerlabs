@@ -36,6 +36,6 @@ somos balulero
 
 ahora encontré la contraseña de root y como se lanza el root
 
-![[dockerlabs/facil/BaluFood/test9.png]]
+![image](https://github.com/user-attachments/assets/6abc213e-cb2b-496b-8558-b9fb527dce2c)
 
 tenemos la contraseña y lanzarlo como: su - root y somos root.
