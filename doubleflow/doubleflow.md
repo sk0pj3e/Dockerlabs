@@ -204,6 +204,6 @@ La dirección de retorno vale 0x3235613135613035. Para pasarlo a texto hacemos 
 
 entonces como nombre, tomaremos un código python o se creara uno ahora ejecutamos el exploit en la máquina víctima en el directorio /home/pepe:
 
-![[dockerlabs/dificil/doubleflow/test19.png]]
+![image](https://github.com/user-attachments/assets/945ab93a-40f3-4fcd-bded-ecb3a192a392)
 
 y somos root! 
