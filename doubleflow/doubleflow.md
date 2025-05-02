@@ -172,7 +172,7 @@ para sacar el offset de la cadena "/bin/sh", ejecutamos:
 y nos da: 
 >196031 /bin/sh
 
-![[dockerlabs/dificil/doubleflow/test15.png]]
+![image](https://github.com/user-attachments/assets/31d3181d-2b55-4c70-b635-232678dc9f46)
 
 Ahora ya tenemos los offsets de system() y "/bin/sh". Pero si queremos pasar "/bin/sh" como parámetro a system() en el buffer overflow, tenemos que meter en el registro RDI un puntero a la cadena "/bin/sh" y para meter ese valor en RDI necesitamos encontrar dentro del binario app3 una instrucción pop rdi, para meter un valor del stack en el RDI. 
 
