@@ -135,7 +135,7 @@ al lanzarlo nos da:
 esta en sha256 ahora lo mandamos a: https://crackstation.net/
 y nos da: tiggerjake
 
-![[dockerlabs/dificil/doubleflow/test11.png]]
+![image](https://github.com/user-attachments/assets/07eb2220-d717-4b07-b243-6e10487979b5)
 
 ahora nos conectamos por el puerto 39817
 
