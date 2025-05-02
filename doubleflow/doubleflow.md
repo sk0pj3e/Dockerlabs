@@ -141,7 +141,7 @@ ahora nos conectamos por el puerto 39817
 
 telnet 172.17.0.2 39817 colocamos la contraseña y nos 
 
- ![[dockerlabs/dificil/doubleflow/test12.png]]
+![image](https://github.com/user-attachments/assets/ee679082-53f3-4f06-951e-8d3c4150cb65)
 
 lo pasamos otra vez por la pagina por el sha256 y nos da:
 
