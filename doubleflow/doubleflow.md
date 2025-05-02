@@ -1,6 +1,6 @@
 nmap: 80,22,39817
 
-![[dockerlabs/dificil/doubleflow/test1.png]]
+![image](https://github.com/user-attachments/assets/54f701a3-20af-4648-99dc-0d7c5ec12fcf)
 
 ---
 en la pagina aparece "esta pagina no puede ser hackeada"
