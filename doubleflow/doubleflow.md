@@ -130,7 +130,7 @@ al lanzarlo nos da:
 
 >02e5e6ea15b5d3088af6edf49269a7221eb88dc32747420dc2e482110f649deb
 
-![[dockerlabs/dificil/doubleflow/test10.png]]
+![image](https://github.com/user-attachments/assets/b12a7c71-a153-4dde-be46-37327309e99d)
 
 esta en sha256 ahora lo mandamos a: https://crackstation.net/
 y nos da: tiggerjake
