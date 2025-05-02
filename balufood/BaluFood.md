@@ -28,7 +28,7 @@ entramos por el ssh
 
 si leemos el app.py  tendremos una contraseña
 
-![[dockerlabs/facil/BaluFood/test7.png]]
+![image](https://github.com/user-attachments/assets/fd7c56d2-d5e5-433d-a992-9ba376c58634)
 
 somos balulero
 
