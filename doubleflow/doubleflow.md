@@ -33,7 +33,7 @@ seguimos los pasos: https://github.com/4bytess/pattern_generator
 
 nos dio: a00a01a02a03a04a05a06a07a08a10a11a12a13a14a15a16a1
 
-![[dockerlabs/dificil/doubleflow/test4.png]]
+![image](https://github.com/user-attachments/assets/63783b1f-22e5-4991-bd51-40d7f774cfd9)
 
 lanzaremos el mismo comando pero con 500 y volvemos a intentar saturar. 
 
