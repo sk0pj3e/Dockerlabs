@@ -32,7 +32,7 @@ si leemos el app.py  tendremos una contraseña
 
 somos balulero
 
-![[dockerlabs/facil/BaluFood/test8.png]]
+![image](https://github.com/user-attachments/assets/a086a56c-62a6-4ce9-b662-fb3db55d65c3)
 
 ahora encontré la contraseña de root y como se lanza el root
 
