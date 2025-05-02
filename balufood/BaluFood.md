@@ -20,7 +20,7 @@ nos vamos al codigo fuente y esta esto
 
     <!-- Backup de acceso: sysadmin:backup123 -->
 
-![[dockerlabs/facil/BaluFood/test5.png]]
+![image](https://github.com/user-attachments/assets/17593745-013a-4373-9073-5f46698b5848)
 
 entramos por el ssh
 
