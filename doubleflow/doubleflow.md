@@ -198,8 +198,7 @@ contiene 0  o sea que esta deshabilitada. aunque contiene la NX activa que es lo
 
 tomamos o creamos un código python que nos sirva como exploit.  y el código se basara para este código que nos entrega la app3
 
-![[dockerlabs/dificil/doubleflow/test18.png]]
-
+![image](https://github.com/user-attachments/assets/e322aaae-8ee9-4502-aed6-60ade5cc9fd5)
 
 La dirección de retorno vale 0x3235613135613035. Para pasarlo a texto hacemos `unhex 3235613135613035 | rev`. que es cambiarlo a valor ASCII Sale que es 50a51a52. Entonces hacemos `pattern.py -m offset -v 50a51a52` y nos dice que el offset es 136.
 
