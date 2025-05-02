@@ -37,7 +37,7 @@ nos dio: a00a01a02a03a04a05a06a07a08a10a11a12a13a14a15a16a1
 
 lanzaremos el mismo comando pero con 500 y volvemos a intentar saturar. 
 
-![[dockerlabs/dificil/doubleflow/test6.png]]
+![image](https://github.com/user-attachments/assets/9189ce59-2668-4361-9128-ad1a1f65dbba)
 
 entonces se satura como vemos. 
 
