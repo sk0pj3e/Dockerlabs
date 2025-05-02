@@ -10,7 +10,7 @@ no hay mucho, lanzamos un gobuster y nos da "admin y login"
 
 vamos al login
 
-![[dockerlabs/facil/BaluFood/test3.png]]
+![image](https://github.com/user-attachments/assets/3e6d42c3-6ff4-4bb7-aac7-231dde7649c3)
 
 las credenciales son "admin/admin"
 
