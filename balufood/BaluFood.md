@@ -14,7 +14,7 @@ vamos al login
 
 las credenciales son "admin/admin"
 
-![[dockerlabs/facil/BaluFood/test4.png]]
+![image](https://github.com/user-attachments/assets/b2a13f76-eb0e-49ac-8b6d-f2281624408b)
 
 nos vamos al codigo fuente y esta esto
 
