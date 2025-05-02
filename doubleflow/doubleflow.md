@@ -147,7 +147,7 @@ lo pasamos otra vez por la pagina por el sha256 y nos da:
 
     plasticfloor17
 
-![[dockerlabs/dificil/doubleflow/test13.png]]
+![image](https://github.com/user-attachments/assets/01c22335-fb64-4a31-86eb-b6cf60b5d6d2)
 
 entramos al usuario pepe por el puerto 22
 
