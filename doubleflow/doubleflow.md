@@ -183,7 +183,7 @@ entonces ejecutamos
 
 y les escribimos alguna letra para que de el mismo error:
 
-![[dockerlabs/dificil/doubleflow/test16.png]]
+![image](https://github.com/user-attachments/assets/e2d6e4f1-1924-4a05-816f-970df694b85e)
 
 nos dio: 
 
