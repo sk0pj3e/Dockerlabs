@@ -4,8 +4,7 @@ nmap: 22, 5000
 
 nos vamos a la pagina con el puerto 5000
 
-
-![[dockerlabs/facil/BaluFood/test2.png]]
+![image](https://github.com/user-attachments/assets/58141197-295a-4422-a8ae-1426447daa2d)
 
 no hay mucho, lanzamos un gobuster y nos da "admin y login"
 
