@@ -192,7 +192,7 @@ nos dio:
 
 entonces queda ver que protección tiene, aqui se busca el valor de ASRL si se encuentra habilitado. 
 
-![[dockerlabs/dificil/doubleflow/test17.png]]
+![image](https://github.com/user-attachments/assets/5b13ea90-0b11-458d-8880-0aa0db4d2eda)
 
 contiene 0  o sea que esta deshabilitada. aunque contiene la NX activa que es lo mismo que la anterior. 
 
