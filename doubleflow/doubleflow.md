@@ -151,7 +151,7 @@ lo pasamos otra vez por la pagina por el sha256 y nos da:
 
 entramos al usuario pepe por el puerto 22
 
-![[dockerlabs/dificil/doubleflow/test14.png]]
+![image](https://github.com/user-attachments/assets/38778e40-30d1-413f-9954-7236998b40f7)
 
 vemos que dentro de pepe hay dos app mas
 
