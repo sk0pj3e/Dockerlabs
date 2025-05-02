@@ -8,7 +8,7 @@ y si entramos por el puerto 39817,
 
 nos aparece: contraseña: Denegado
 
-![[dockerlabs/dificil/doubleflow/test2.png]]
+![image](https://github.com/user-attachments/assets/2cf50a40-fba4-402c-aceb-34b2284bfa50)
 
 si hacemos un gobuster no aparece:
 
