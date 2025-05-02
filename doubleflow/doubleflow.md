@@ -88,7 +88,7 @@ ahora lanzamos:
 
 nos da: offset: 312
 
-![[dockerlabs/dificil/doubleflow/test9.png]]
+![image](https://github.com/user-attachments/assets/2a7058d0-c8c1-4c10-8283-1946541d50d1)
 
 ahora modificamos un código que vaya hacia la carpeta o archivo "secret function".
 
