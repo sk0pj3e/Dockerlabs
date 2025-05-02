@@ -81,7 +81,7 @@ entonces con el valor que obtuvimos lo pasamos al valor ASCII así:
 
 Nos queda el valor de: b25b26b2
 
-![[dockerlabs/dificil/doubleflow/test8.png]]
+![image](https://github.com/user-attachments/assets/f0f8a9be-cc40-4f26-b595-6dac831582b5)
 
 ahora lanzamos:
 > python3 pattern.py -m offset -v b25b26b2
