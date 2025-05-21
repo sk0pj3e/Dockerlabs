@@ -8,7 +8,7 @@ nmap: 80,22
 
 en la pagina veremos un login pero no tenemos credenciales ni nada, hacemos un gobuster 
 
-![[dockerlabs/medio/ciberguard/test3.png]]
+![image](https://github.com/user-attachments/assets/2b0dd101-eda3-4939-a3d9-4ae6c8ebf686)
 
 obtenemos uno interesante llama "archiv"  que al verlo tendremos dos archivos 
 
