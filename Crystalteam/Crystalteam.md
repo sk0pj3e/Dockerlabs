@@ -9,8 +9,7 @@ si enumeramos encontraremos
 si vamos al iniciar sesión e hacemos una inyección SQL básica podemos ingresar y pasar el login pero no hay mucho así que seguiremos buscando
 si en el login capturamos con burpsuite podemos ver este mensaje
 
-
-![[dockerlabs/medio/Crystalteam/test3.png]]
+![image](https://github.com/user-attachments/assets/d5b9fbbb-7298-4238-877d-c4a9dbbf2f4b)
 
 nombrando la base de datos, así que guardamos nuestra petición con un .req y lanzamos un sqlmap. 
 
