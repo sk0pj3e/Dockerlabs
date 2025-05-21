@@ -1,6 +1,6 @@
 nmap: 80,22
 
-![[dockerlabs/medio/ciberguard/test1.png]]
+![image](https://github.com/user-attachments/assets/fba15d80-3b23-4fea-acf4-369ee0beb7df)
 
 ---
 
