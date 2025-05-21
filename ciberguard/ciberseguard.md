@@ -32,7 +32,7 @@ dentro veremos que "veronica" resalta
 
 y tiene todos los permisos, leemos en verónica el .bash_history
 
-![[dockerlabs/medio/ciberguard/test9.png]]
+![image](https://github.com/user-attachments/assets/893a04b9-e99c-4e58-9fd1-439efb6563c8)
 
 obtendremos una contraseña en base64, la pasamos a texto claro probamos con su verónica pero no funciona así que probamos con el texto encontrado en base64 
 
