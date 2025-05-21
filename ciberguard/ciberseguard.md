@@ -24,7 +24,7 @@ probamos el de admin
 
 como en todos muestra el mismo panel, probamos esos mismos pero por el ssh y funciona el de "chloe"
 
-![[dockerlabs/medio/ciberguard/test7.png]]
+![image](https://github.com/user-attachments/assets/4a9275be-0522-47d5-b643-1aef0f357103)
 
 dentro veremos que "veronica" resalta 
 
