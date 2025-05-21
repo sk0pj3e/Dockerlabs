@@ -49,7 +49,7 @@ en ".local" se encuentra un script y dentro de ese script vamos a colocar una sh
 
 lo guardamos y al colocar el puerto en escucha automáticamente nos conectamos 
 
-![[dockerlabs/medio/ciberguard/test13.png]]
+![image](https://github.com/user-attachments/assets/c62f9ed7-ffdf-4e5e-9cef-97bf27980cc5)
 
 ![[dockerlabs/medio/ciberguard/test14.png]]
 
