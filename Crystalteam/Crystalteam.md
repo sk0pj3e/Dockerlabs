@@ -1,6 +1,6 @@
 nmap: 22,80
 
-![[dockerlabs/medio/Crystalteam/test1.png]]
+![image](https://github.com/user-attachments/assets/d0bf300b-55b2-43c8-bb82-dc520e84ca0a)
 
 si enumeramos encontraremos
 
