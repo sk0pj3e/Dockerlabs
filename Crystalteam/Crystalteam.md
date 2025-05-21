@@ -4,7 +4,7 @@ nmap: 22,80
 
 si enumeramos encontraremos
 
-![[dockerlabs/medio/Crystalteam/test2.png]]
+![image](https://github.com/user-attachments/assets/e2f00a62-0fe5-4066-a872-4ce642f84728)
 
 si vamos al iniciar sesión e hacemos una inyección SQL básica podemos ingresar y pasar el login pero no hay mucho así que seguiremos buscando
 si en el login capturamos con burpsuite podemos ver este mensaje
