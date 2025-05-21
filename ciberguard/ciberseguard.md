@@ -12,8 +12,7 @@ en la pagina veremos un login pero no tenemos credenciales ni nada, hacemos un g
 
 obtenemos uno interesante llama "archiv"  que al verlo tendremos dos archivos 
 
-![[dockerlabs/medio/ciberguard/test4.png]]
-
+![image](https://github.com/user-attachments/assets/466dc1a5-f68a-43ac-8e12-683fa809dd9f)
 
 en el script, al final del texto veremos esto
 
