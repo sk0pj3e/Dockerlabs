@@ -36,7 +36,7 @@ y tiene todos los permisos, leemos en verónica el .bash_history
 
 obtendremos una contraseña en base64, la pasamos a texto claro probamos con su verónica pero no funciona así que probamos con el texto encontrado en base64 
 
-![[dockerlabs/medio/ciberguard/test10.png]]
+![image](https://github.com/user-attachments/assets/626d2216-a126-4e63-b609-4d108d60d0b2)
 
 somos verónica, descargamos pspy64 https://github.com/DominicBreuker/pspy?tab=readme-ov-file le damos permisos de ejecución y mandamos con "scp pspy64 chloe@172.17.0.2:/tmp" a la maquina victima 
 al ejecutarlo obtendremos varios datos pero tenemos uno en especial 
