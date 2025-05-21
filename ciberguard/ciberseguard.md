@@ -16,7 +16,7 @@ obtenemos uno interesante llama "archiv"  que al verlo tendremos dos archivos
 
 en el script, al final del texto veremos esto
 
-![[dockerlabs/medio/ciberguard/test5.png]]
+![image](https://github.com/user-attachments/assets/3b8c8f48-8b52-4a8d-b71f-ed9728aee471)
 
 probamos el de admin
 
