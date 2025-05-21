@@ -20,7 +20,7 @@ en el script, al final del texto veremos esto
 
 probamos el de admin
 
-![[dockerlabs/medio/ciberguard/test6.png]]
+![image](https://github.com/user-attachments/assets/a1e7cf67-2f04-4b11-a062-fbe373203197)
 
 como en todos muestra el mismo panel, probamos esos mismos pero por el ssh y funciona el de "chloe"
 
