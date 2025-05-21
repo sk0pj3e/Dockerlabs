@@ -28,7 +28,7 @@ como en todos muestra el mismo panel, probamos esos mismos pero por el ssh y fun
 
 dentro veremos que "veronica" resalta 
 
-![[dockerlabs/medio/ciberguard/test8.png]]
+![image](https://github.com/user-attachments/assets/4fb7d7e7-7964-4724-a4a7-078c56378435)
 
 y tiene todos los permisos, leemos en verónica el .bash_history
 
