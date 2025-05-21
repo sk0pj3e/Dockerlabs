@@ -41,7 +41,7 @@ obtendremos una contraseña en base64, la pasamos a texto claro probamos con su 
 somos verónica, descargamos pspy64 https://github.com/DominicBreuker/pspy?tab=readme-ov-file le damos permisos de ejecución y mandamos con "scp pspy64 chloe@172.17.0.2:/tmp" a la maquina victima 
 al ejecutarlo obtendremos varios datos pero tenemos uno en especial 
 
-![[dockerlabs/medio/ciberguard/test11.png]]
+![image](https://github.com/user-attachments/assets/4fa2b1c9-d4cd-44b2-b879-c88f9b2fe8c0)
 
 en ".local" se encuentra un script y dentro de ese script vamos a colocar una shell "sh" 
 
