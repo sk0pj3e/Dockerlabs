@@ -15,7 +15,7 @@ nombrando la base de datos, así que guardamos nuestra petición con un .req y l
 
 ![image](https://github.com/user-attachments/assets/ec23f137-d54a-4254-8dab-41c1169e43e4)
 
-![[dockerlabs/medio/Crystalteam/test5.png]]
+![image](https://github.com/user-attachments/assets/eb667633-cb45-4dfe-aeac-d181c5ff6d78)
 
 aquí encuentra usuarios y contraseñas como "alejandro/hanka"
 
