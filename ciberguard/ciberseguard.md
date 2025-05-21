@@ -51,7 +51,7 @@ lo guardamos y al colocar el puerto en escucha automáticamente nos conectamos
 
 ![image](https://github.com/user-attachments/assets/c62f9ed7-ffdf-4e5e-9cef-97bf27980cc5)
 
-![[dockerlabs/medio/ciberguard/test14.png]]
+![image](https://github.com/user-attachments/assets/7e7f0abe-df9d-4e65-a95e-e03494d83366)
 
 ahora nos vamos al tmp y antes habíamos visto un "id_rsa" pero por permisos no podíamos cambiar modificar nada, ahora le daremos permisos de 600 y ejecutamos root con el ssh y la id_rsa 
 
