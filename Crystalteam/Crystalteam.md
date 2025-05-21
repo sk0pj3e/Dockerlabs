@@ -19,7 +19,7 @@ nombrando la base de datos, así que guardamos nuestra petición con un .req y l
 
 aquí encuentra usuarios y contraseñas como "alejandro/hanka"
 
-![[dockerlabs/medio/Crystalteam/test6.png]]
+![image](https://github.com/user-attachments/assets/43baebf9-6297-45d2-b167-da6bc4be0c04)
 
 al hacer sudo -l aparece "python3" buscamos en https://gtfobins.github.io/gtfobins/python/#sudo
 
