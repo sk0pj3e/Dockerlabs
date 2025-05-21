@@ -4,7 +4,7 @@ nmap: 80,22
 
 ---
 
-![[dockerlabs/medio/ciberguard/test2.png]]
+![image](https://github.com/user-attachments/assets/1b7f8f8b-a371-44f7-b444-410e080139ee)
 
 en la pagina veremos un login pero no tenemos credenciales ni nada, hacemos un gobuster 
 
