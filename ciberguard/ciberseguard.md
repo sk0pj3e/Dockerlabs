@@ -1,0 +1,61 @@
+nmap: 80,22
+
+![[dockerlabs/medio/ciberguard/test1.png]]
+
+---
+
+![[dockerlabs/medio/ciberguard/test2.png]]
+
+en la pagina veremos un login pero no tenemos credenciales ni nada, hacemos un gobuster 
+
+![[dockerlabs/medio/ciberguard/test3.png]]
+
+obtenemos uno interesante llama "archiv"  que al verlo tendremos dos archivos 
+
+![[dockerlabs/medio/ciberguard/test4.png]]
+
+
+en el script, al final del texto veremos esto
+
+![[dockerlabs/medio/ciberguard/test5.png]]
+
+probamos el de admin
+
+![[dockerlabs/medio/ciberguard/test6.png]]
+
+como en todos muestra el mismo panel, probamos esos mismos pero por el ssh y funciona el de "chloe"
+
+![[dockerlabs/medio/ciberguard/test7.png]]
+
+dentro veremos que "veronica" resalta 
+
+![[dockerlabs/medio/ciberguard/test8.png]]
+
+y tiene todos los permisos, leemos en verónica el .bash_history
+
+![[dockerlabs/medio/ciberguard/test9.png]]
+
+obtendremos una contraseña en base64, la pasamos a texto claro probamos con su verónica pero no funciona así que probamos con el texto encontrado en base64 
+
+![[dockerlabs/medio/ciberguard/test10.png]]
+
+somos verónica, descargamos pspy64 https://github.com/DominicBreuker/pspy?tab=readme-ov-file le damos permisos de ejecución y mandamos con "scp pspy64 chloe@172.17.0.2:/tmp" a la maquina victima 
+al ejecutarlo obtendremos varios datos pero tenemos uno en especial 
+
+![[dockerlabs/medio/ciberguard/test11.png]]
+
+en ".local" se encuentra un script y dentro de ese script vamos a colocar una shell "sh" 
+
+![[dockerlabs/medio/ciberguard/test12.png]]
+
+lo guardamos y al colocar el puerto en escucha automáticamente nos conectamos 
+
+![[dockerlabs/medio/ciberguard/test13.png]]
+
+![[dockerlabs/medio/ciberguard/test14.png]]
+
+ahora nos vamos al tmp y antes habíamos visto un "id_rsa" pero por permisos no podíamos cambiar modificar nada, ahora le daremos permisos de 600 y ejecutamos root con el ssh y la id_rsa 
+
+ ![[dockerlabs/medio/ciberguard/test15.png]]
+
+al ejecutar seremos root
