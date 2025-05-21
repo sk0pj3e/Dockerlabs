@@ -45,7 +45,7 @@ al ejecutarlo obtendremos varios datos pero tenemos uno en especial
 
 en ".local" se encuentra un script y dentro de ese script vamos a colocar una shell "sh" 
 
-![[dockerlabs/medio/ciberguard/test12.png]]
+![image](https://github.com/user-attachments/assets/c36a50d5-cf95-4703-bd3f-0cac11f72035)
 
 lo guardamos y al colocar el puerto en escucha automáticamente nos conectamos 
 
