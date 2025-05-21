@@ -13,7 +13,7 @@ si en el login capturamos con burpsuite podemos ver este mensaje
 
 nombrando la base de datos, así que guardamos nuestra petición con un .req y lanzamos un sqlmap. 
 
-![[dockerlabs/medio/Crystalteam/test4.png]]
+![image](https://github.com/user-attachments/assets/ec23f137-d54a-4254-8dab-41c1169e43e4)
 
 ![[dockerlabs/medio/Crystalteam/test5.png]]
 
